@@ -125,22 +125,28 @@ class Node{
 */
 class Solution
 {
-    List<Node> list=new  ArrayList<>();
     // returns the inorder successor of the Node x in BST (rooted at 'root')
 	public Node inorderSuccessor(Node root,Node x)
-    {
-        inorder(root);
-        for(int i=0;i<list.size()-1;i++)
-            if(list.get(i)==x)
-                return list.get(i+1);
-        return null;
-    }
-    public void inorder(Node root)
-    {
-        if(root==null)
-            return;
-        inorder(root.left);
-        list.add(root);
-        inorder(root.right);
-    }
+         {
+             Node pos=null;
+             while(root!=null&&root!=x)
+             {
+                 if(root.data>x.data)
+                 {
+                     pos=root;
+                     root=root.left;
+                 }
+                 else
+                    root=root.right;
+             }
+             if(x.right==null)
+                return pos;
+             else
+             {
+                 x=x.right;
+                 while(x.left!=null)
+                    x=x.left;
+                return x;
+             }
+         }
 }
