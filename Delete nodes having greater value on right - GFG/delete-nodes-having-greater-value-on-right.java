@@ -92,9 +92,8 @@ class Solution
         {
             if(list.get(list.size()-1).data>=head.data)
             {
-                Node temp=new Node(list.get(list.size()-1).data);
-                temp.next=head;
-                head=temp;
+                list.get(list.size()-1).next=head;
+                head=list.get(list.size()-1);
             }
             list.remove(list.size()-1);
         }
