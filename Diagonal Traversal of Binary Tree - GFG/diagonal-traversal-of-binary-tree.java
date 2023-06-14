@@ -122,6 +122,21 @@ class Node{
         right=null;
     }
 }*/
+
+
+//User function Template for Java
+
+/* Node is defined as
+class Node{
+    int data;
+    Node left;
+    Node right;
+    Node(int data){
+        this.data = data;
+        left=null;
+        right=null;
+    }
+}*/
 class Tree
 {
     //     ArrayList<Node> temp=new ArrayList<Node>();
