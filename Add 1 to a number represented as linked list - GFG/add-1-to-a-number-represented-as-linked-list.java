@@ -63,8 +63,16 @@ class Solution
     public static Node addOne(Node head) 
     { 
         int tr=1,carry=0;
-        head=rev(head);
-        Node temp=head,prev=null;
+        Node prev=null,curr=head,next=null;
+        while(curr!=null)
+        {
+            next=curr.next;
+            curr.next=prev;
+            prev=curr;
+            curr=next;
+        }
+        head=prev;
+        Node temp=head;prev=null;
         while(temp!= null)
         {
             tr=tr+temp.data+carry;
@@ -80,11 +88,7 @@ class Solution
             tmp.next=null;
             prev.next=tmp;
         }
-        return rev(head);
-    }
-    public static Node rev(Node head)
-    {
-        Node prev=null,curr=head,next=null;
+        curr=head;prev=null;next=null;
         while(curr!=null)
         {
             next=curr.next;
@@ -92,6 +96,7 @@ class Solution
             prev=curr;
             curr=next;
         }
-        return prev;
+        head=prev;
+        return head;
     }
 }
