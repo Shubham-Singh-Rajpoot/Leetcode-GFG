@@ -28,7 +28,7 @@ class GFG
 
 //User function Template for Java
 
-class Solution{
+class Solution2{
     static int matrixMultiplication(int N, int arr[])
     {
         int dp[][]=new  int[N][N];
@@ -49,5 +49,26 @@ class Solution{
             ans=Math.min(ans,cost);
         }
         return dp[i][j]=ans;
+    }
+}
+
+class Solution{
+    static int matrixMultiplication(int N, int arr[])
+    {
+        int dp[][]=new  int[N][N];
+        for(int i=N-1;i>=1;i--)
+        {
+            for(int j=i+1;j<N;j++)
+            {
+                int ans=Integer.MAX_VALUE;
+                for(int k=i;k<j;k++)
+                {
+                    int cost=dp[i][k]+dp[k+1][j]+(arr[i-1]*arr[k]*arr[j]);
+                    ans=Math.min(ans,cost);
+                }
+                dp[i][j]=ans;
+            }
+        }
+        return dp[1][N-1];
     }
 }
