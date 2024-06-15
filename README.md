@@ -18,6 +18,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 |  |
 | ------- |
 | [0409-longest-palindrome](https://github.com/Shubham-Singh-Rajpoot/Leetcode-GFG/tree/master/0409-longest-palindrome) |
+| [0502-ipo](https://github.com/Shubham-Singh-Rajpoot/Leetcode-GFG/tree/master/0502-ipo) |
 | [0876-hand-of-straights](https://github.com/Shubham-Singh-Rajpoot/Leetcode-GFG/tree/master/0876-hand-of-straights) |
 | [0982-minimum-increment-to-make-array-unique](https://github.com/Shubham-Singh-Rajpoot/Leetcode-GFG/tree/master/0982-minimum-increment-to-make-array-unique) |
 | [1422-divide-array-in-sets-of-k-consecutive-numbers](https://github.com/Shubham-Singh-Rajpoot/Leetcode-GFG/tree/master/1422-divide-array-in-sets-of-k-consecutive-numbers) |
@@ -37,6 +38,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 |  |
 | ------- |
 | [0075-sort-colors](https://github.com/Shubham-Singh-Rajpoot/Leetcode-GFG/tree/master/0075-sort-colors) |
+| [0502-ipo](https://github.com/Shubham-Singh-Rajpoot/Leetcode-GFG/tree/master/0502-ipo) |
 | [0523-continuous-subarray-sum](https://github.com/Shubham-Singh-Rajpoot/Leetcode-GFG/tree/master/0523-continuous-subarray-sum) |
 | [0648-replace-words](https://github.com/Shubham-Singh-Rajpoot/Leetcode-GFG/tree/master/0648-replace-words) |
 | [0876-hand-of-straights](https://github.com/Shubham-Singh-Rajpoot/Leetcode-GFG/tree/master/0876-hand-of-straights) |
@@ -50,6 +52,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 |  |
 | ------- |
 | [0075-sort-colors](https://github.com/Shubham-Singh-Rajpoot/Leetcode-GFG/tree/master/0075-sort-colors) |
+| [0502-ipo](https://github.com/Shubham-Singh-Rajpoot/Leetcode-GFG/tree/master/0502-ipo) |
 | [0876-hand-of-straights](https://github.com/Shubham-Singh-Rajpoot/Leetcode-GFG/tree/master/0876-hand-of-straights) |
 | [0982-minimum-increment-to-make-array-unique](https://github.com/Shubham-Singh-Rajpoot/Leetcode-GFG/tree/master/0982-minimum-increment-to-make-array-unique) |
 | [1137-height-checker](https://github.com/Shubham-Singh-Rajpoot/Leetcode-GFG/tree/master/1137-height-checker) |
@@ -74,3 +77,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0982-minimum-increment-to-make-array-unique](https://github.com/Shubham-Singh-Rajpoot/Leetcode-GFG/tree/master/0982-minimum-increment-to-make-array-unique) |
 | [1137-height-checker](https://github.com/Shubham-Singh-Rajpoot/Leetcode-GFG/tree/master/1137-height-checker) |
 | [1217-relative-sort-array](https://github.com/Shubham-Singh-Rajpoot/Leetcode-GFG/tree/master/1217-relative-sort-array) |
+# Heap (Priority Queue)
+|  |
+| ------- |
+| [0502-ipo](https://github.com/Shubham-Singh-Rajpoot/Leetcode-GFG/tree/master/0502-ipo) |
