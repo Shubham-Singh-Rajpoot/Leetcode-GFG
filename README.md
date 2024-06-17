@@ -6,6 +6,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 |  |
 | ------- |
 | [0075-sort-colors](https://github.com/Shubham-Singh-Rajpoot/Leetcode-GFG/tree/master/0075-sort-colors) |
+| [0633-sum-of-square-numbers](https://github.com/Shubham-Singh-Rajpoot/Leetcode-GFG/tree/master/0633-sum-of-square-numbers) |
 | [2572-append-characters-to-string-to-make-subsequence](https://github.com/Shubham-Singh-Rajpoot/Leetcode-GFG/tree/master/2572-append-characters-to-string-to-make-subsequence) |
 # String
 |  |
@@ -69,6 +70,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 |  |
 | ------- |
 | [0523-continuous-subarray-sum](https://github.com/Shubham-Singh-Rajpoot/Leetcode-GFG/tree/master/0523-continuous-subarray-sum) |
+| [0633-sum-of-square-numbers](https://github.com/Shubham-Singh-Rajpoot/Leetcode-GFG/tree/master/0633-sum-of-square-numbers) |
 # Prefix Sum
 |  |
 | ------- |
@@ -83,3 +85,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 |  |
 | ------- |
 | [0502-ipo](https://github.com/Shubham-Singh-Rajpoot/Leetcode-GFG/tree/master/0502-ipo) |
+# Binary Search
+|  |
+| ------- |
+| [0633-sum-of-square-numbers](https://github.com/Shubham-Singh-Rajpoot/Leetcode-GFG/tree/master/0633-sum-of-square-numbers) |
