@@ -96,3 +96,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0633-sum-of-square-numbers](https://github.com/Shubham-Singh-Rajpoot/Leetcode-GFG/tree/master/0633-sum-of-square-numbers) |
 | [0853-most-profit-assigning-work](https://github.com/Shubham-Singh-Rajpoot/Leetcode-GFG/tree/master/0853-most-profit-assigning-work) |
 | [1605-minimum-number-of-days-to-make-m-bouquets](https://github.com/Shubham-Singh-Rajpoot/Leetcode-GFG/tree/master/1605-minimum-number-of-days-to-make-m-bouquets) |
+# Database
+|  |
+| ------- |
+| [0595-big-countries](https://github.com/Shubham-Singh-Rajpoot/Leetcode-GFG/tree/master/0595-big-countries) |
