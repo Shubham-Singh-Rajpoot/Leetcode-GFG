@@ -5,6 +5,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 # Two Pointers
 |  |
 | ------- |
+| [0005-longest-palindromic-substring](https://github.com/Shubham-Singh-Rajpoot/Leetcode-GFG/tree/master/0005-longest-palindromic-substring) |
 | [0075-sort-colors](https://github.com/Shubham-Singh-Rajpoot/Leetcode-GFG/tree/master/0075-sort-colors) |
 | [0633-sum-of-square-numbers](https://github.com/Shubham-Singh-Rajpoot/Leetcode-GFG/tree/master/0633-sum-of-square-numbers) |
 | [0853-most-profit-assigning-work](https://github.com/Shubham-Singh-Rajpoot/Leetcode-GFG/tree/master/0853-most-profit-assigning-work) |
@@ -12,6 +13,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 # String
 |  |
 | ------- |
+| [0005-longest-palindromic-substring](https://github.com/Shubham-Singh-Rajpoot/Leetcode-GFG/tree/master/0005-longest-palindromic-substring) |
 | [0409-longest-palindrome](https://github.com/Shubham-Singh-Rajpoot/Leetcode-GFG/tree/master/0409-longest-palindrome) |
 | [0648-replace-words](https://github.com/Shubham-Singh-Rajpoot/Leetcode-GFG/tree/master/0648-replace-words) |
 | [1044-find-common-characters](https://github.com/Shubham-Singh-Rajpoot/Leetcode-GFG/tree/master/1044-find-common-characters) |
@@ -123,3 +125,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 |  |
 | ------- |
 | [1549-longest-continuous-subarray-with-absolute-diff-less-than-or-equal-to-limit](https://github.com/Shubham-Singh-Rajpoot/Leetcode-GFG/tree/master/1549-longest-continuous-subarray-with-absolute-diff-less-than-or-equal-to-limit) |
+# Dynamic Programming
+|  |
+| ------- |
+| [0005-longest-palindromic-substring](https://github.com/Shubham-Singh-Rajpoot/Leetcode-GFG/tree/master/0005-longest-palindromic-substring) |
