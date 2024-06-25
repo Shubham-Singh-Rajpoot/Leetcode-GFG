@@ -129,3 +129,19 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 |  |
 | ------- |
 | [0005-longest-palindromic-substring](https://github.com/Shubham-Singh-Rajpoot/Leetcode-GFG/tree/master/0005-longest-palindromic-substring) |
+# Tree
+|  |
+| ------- |
+| [1114-binary-search-tree-to-greater-sum-tree](https://github.com/Shubham-Singh-Rajpoot/Leetcode-GFG/tree/master/1114-binary-search-tree-to-greater-sum-tree) |
+# Depth-First Search
+|  |
+| ------- |
+| [1114-binary-search-tree-to-greater-sum-tree](https://github.com/Shubham-Singh-Rajpoot/Leetcode-GFG/tree/master/1114-binary-search-tree-to-greater-sum-tree) |
+# Binary Search Tree
+|  |
+| ------- |
+| [1114-binary-search-tree-to-greater-sum-tree](https://github.com/Shubham-Singh-Rajpoot/Leetcode-GFG/tree/master/1114-binary-search-tree-to-greater-sum-tree) |
+# Binary Tree
+|  |
+| ------- |
+| [1114-binary-search-tree-to-greater-sum-tree](https://github.com/Shubham-Singh-Rajpoot/Leetcode-GFG/tree/master/1114-binary-search-tree-to-greater-sum-tree) |
