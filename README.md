@@ -27,6 +27,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0853-most-profit-assigning-work](https://github.com/Shubham-Singh-Rajpoot/Leetcode-GFG/tree/master/0853-most-profit-assigning-work) |
 | [0876-hand-of-straights](https://github.com/Shubham-Singh-Rajpoot/Leetcode-GFG/tree/master/0876-hand-of-straights) |
 | [0982-minimum-increment-to-make-array-unique](https://github.com/Shubham-Singh-Rajpoot/Leetcode-GFG/tree/master/0982-minimum-increment-to-make-array-unique) |
+| [1285-balance-a-binary-search-tree](https://github.com/Shubham-Singh-Rajpoot/Leetcode-GFG/tree/master/1285-balance-a-binary-search-tree) |
 | [1422-divide-array-in-sets-of-k-consecutive-numbers](https://github.com/Shubham-Singh-Rajpoot/Leetcode-GFG/tree/master/1422-divide-array-in-sets-of-k-consecutive-numbers) |
 | [2148-minimum-number-of-moves-to-seat-everyone](https://github.com/Shubham-Singh-Rajpoot/Leetcode-GFG/tree/master/2148-minimum-number-of-moves-to-seat-everyone) |
 | [2572-append-characters-to-string-to-make-subsequence](https://github.com/Shubham-Singh-Rajpoot/Leetcode-GFG/tree/master/2572-append-characters-to-string-to-make-subsequence) |
@@ -133,15 +134,23 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 |  |
 | ------- |
 | [1114-binary-search-tree-to-greater-sum-tree](https://github.com/Shubham-Singh-Rajpoot/Leetcode-GFG/tree/master/1114-binary-search-tree-to-greater-sum-tree) |
+| [1285-balance-a-binary-search-tree](https://github.com/Shubham-Singh-Rajpoot/Leetcode-GFG/tree/master/1285-balance-a-binary-search-tree) |
 # Depth-First Search
 |  |
 | ------- |
 | [1114-binary-search-tree-to-greater-sum-tree](https://github.com/Shubham-Singh-Rajpoot/Leetcode-GFG/tree/master/1114-binary-search-tree-to-greater-sum-tree) |
+| [1285-balance-a-binary-search-tree](https://github.com/Shubham-Singh-Rajpoot/Leetcode-GFG/tree/master/1285-balance-a-binary-search-tree) |
 # Binary Search Tree
 |  |
 | ------- |
 | [1114-binary-search-tree-to-greater-sum-tree](https://github.com/Shubham-Singh-Rajpoot/Leetcode-GFG/tree/master/1114-binary-search-tree-to-greater-sum-tree) |
+| [1285-balance-a-binary-search-tree](https://github.com/Shubham-Singh-Rajpoot/Leetcode-GFG/tree/master/1285-balance-a-binary-search-tree) |
 # Binary Tree
 |  |
 | ------- |
 | [1114-binary-search-tree-to-greater-sum-tree](https://github.com/Shubham-Singh-Rajpoot/Leetcode-GFG/tree/master/1114-binary-search-tree-to-greater-sum-tree) |
+| [1285-balance-a-binary-search-tree](https://github.com/Shubham-Singh-Rajpoot/Leetcode-GFG/tree/master/1285-balance-a-binary-search-tree) |
+# Divide and Conquer
+|  |
+| ------- |
+| [1285-balance-a-binary-search-tree](https://github.com/Shubham-Singh-Rajpoot/Leetcode-GFG/tree/master/1285-balance-a-binary-search-tree) |
