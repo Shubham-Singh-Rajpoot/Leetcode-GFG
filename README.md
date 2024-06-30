@@ -172,6 +172,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 ## Sorting
 |  |
 | ------- |
+| [0016-3sum-closest](https://github.com/Shubham-Singh-Rajpoot/Leetcode-GFG/tree/master/0016-3sum-closest) |
 | [2379-maximum-total-importance-of-roads](https://github.com/Shubham-Singh-Rajpoot/Leetcode-GFG/tree/master/2379-maximum-total-importance-of-roads) |
 ## Heap (Priority Queue)
 |  |
@@ -201,4 +202,12 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 |  |
 | ------- |
 | [0013-roman-to-integer](https://github.com/Shubham-Singh-Rajpoot/Leetcode-GFG/tree/master/0013-roman-to-integer) |
+## Array
+|  |
+| ------- |
+| [0016-3sum-closest](https://github.com/Shubham-Singh-Rajpoot/Leetcode-GFG/tree/master/0016-3sum-closest) |
+## Two Pointers
+|  |
+| ------- |
+| [0016-3sum-closest](https://github.com/Shubham-Singh-Rajpoot/Leetcode-GFG/tree/master/0016-3sum-closest) |
 <!---LeetCode Topics End-->
