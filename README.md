@@ -206,6 +206,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 |  |
 | ------- |
 | [0016-3sum-closest](https://github.com/Shubham-Singh-Rajpoot/Leetcode-GFG/tree/master/0016-3sum-closest) |
+| [1293-three-consecutive-odds](https://github.com/Shubham-Singh-Rajpoot/Leetcode-GFG/tree/master/1293-three-consecutive-odds) |
 ## Two Pointers
 |  |
 | ------- |
