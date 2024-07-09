@@ -7,7 +7,7 @@ class Solution {
         dp[0][1]=nums[0];
         for(int i=1;i<nums.length;i++)
         {
-            if(nums[i-1]==0)
+            if(nums[i-1]==0)//If previous 0 then for sure current element will be max subarray product or min product
             {
                 dp[i][0]=nums[i];
                 dp[i][1]=nums[i];
@@ -19,7 +19,7 @@ class Solution {
                     dp[i][0]=Math.min(nums[i],nums[i]*dp[i-1][1]);
                     dp[i][1]=Math.max(nums[i],nums[i]*dp[i-1][0]);
                 }
-                else
+                else if(nums[i]>0)
                 {
                     dp[i][0]=Math.min(nums[i],nums[i]*dp[i-1][0]);
                     dp[i][1]=Math.max(nums[i],nums[i]*dp[i-1][1]);
