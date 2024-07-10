@@ -216,6 +216,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0016-3sum-closest](https://github.com/Shubham-Singh-Rajpoot/Leetcode-GFG/tree/master/0016-3sum-closest) |
 | [0152-maximum-product-subarray](https://github.com/Shubham-Singh-Rajpoot/Leetcode-GFG/tree/master/0152-maximum-product-subarray) |
 | [0350-intersection-of-two-arrays-ii](https://github.com/Shubham-Singh-Rajpoot/Leetcode-GFG/tree/master/0350-intersection-of-two-arrays-ii) |
+| [1288-maximum-subarray-sum-with-one-deletion](https://github.com/Shubham-Singh-Rajpoot/Leetcode-GFG/tree/master/1288-maximum-subarray-sum-with-one-deletion) |
 | [1293-three-consecutive-odds](https://github.com/Shubham-Singh-Rajpoot/Leetcode-GFG/tree/master/1293-three-consecutive-odds) |
 | [1616-minimum-difference-between-largest-and-smallest-value-in-three-moves](https://github.com/Shubham-Singh-Rajpoot/Leetcode-GFG/tree/master/1616-minimum-difference-between-largest-and-smallest-value-in-three-moves) |
 | [1720-crawler-log-folder](https://github.com/Shubham-Singh-Rajpoot/Leetcode-GFG/tree/master/1720-crawler-log-folder) |
@@ -255,6 +256,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 |  |
 | ------- |
 | [0152-maximum-product-subarray](https://github.com/Shubham-Singh-Rajpoot/Leetcode-GFG/tree/master/0152-maximum-product-subarray) |
+| [1288-maximum-subarray-sum-with-one-deletion](https://github.com/Shubham-Singh-Rajpoot/Leetcode-GFG/tree/master/1288-maximum-subarray-sum-with-one-deletion) |
 ## Stack
 |  |
 | ------- |
