@@ -176,6 +176,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | ------- |
 | [0016-3sum-closest](https://github.com/Shubham-Singh-Rajpoot/Leetcode-GFG/tree/master/0016-3sum-closest) |
 | [0088-merge-sorted-array](https://github.com/Shubham-Singh-Rajpoot/Leetcode-GFG/tree/master/0088-merge-sorted-array) |
+| [0169-majority-element](https://github.com/Shubham-Singh-Rajpoot/Leetcode-GFG/tree/master/0169-majority-element) |
 | [0350-intersection-of-two-arrays-ii](https://github.com/Shubham-Singh-Rajpoot/Leetcode-GFG/tree/master/0350-intersection-of-two-arrays-ii) |
 | [1616-minimum-difference-between-largest-and-smallest-value-in-three-moves](https://github.com/Shubham-Singh-Rajpoot/Leetcode-GFG/tree/master/1616-minimum-difference-between-largest-and-smallest-value-in-three-moves) |
 | [1741-sort-array-by-increasing-frequency](https://github.com/Shubham-Singh-Rajpoot/Leetcode-GFG/tree/master/1741-sort-array-by-increasing-frequency) |
@@ -207,6 +208,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 |  |
 | ------- |
 | [0013-roman-to-integer](https://github.com/Shubham-Singh-Rajpoot/Leetcode-GFG/tree/master/0013-roman-to-integer) |
+| [0169-majority-element](https://github.com/Shubham-Singh-Rajpoot/Leetcode-GFG/tree/master/0169-majority-element) |
 | [0350-intersection-of-two-arrays-ii](https://github.com/Shubham-Singh-Rajpoot/Leetcode-GFG/tree/master/0350-intersection-of-two-arrays-ii) |
 | [0782-jewels-and-stones](https://github.com/Shubham-Singh-Rajpoot/Leetcode-GFG/tree/master/0782-jewels-and-stones) |
 | [1207-delete-nodes-and-return-forest](https://github.com/Shubham-Singh-Rajpoot/Leetcode-GFG/tree/master/1207-delete-nodes-and-return-forest) |
@@ -239,6 +241,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0080-remove-duplicates-from-sorted-array-ii](https://github.com/Shubham-Singh-Rajpoot/Leetcode-GFG/tree/master/0080-remove-duplicates-from-sorted-array-ii) |
 | [0088-merge-sorted-array](https://github.com/Shubham-Singh-Rajpoot/Leetcode-GFG/tree/master/0088-merge-sorted-array) |
 | [0152-maximum-product-subarray](https://github.com/Shubham-Singh-Rajpoot/Leetcode-GFG/tree/master/0152-maximum-product-subarray) |
+| [0169-majority-element](https://github.com/Shubham-Singh-Rajpoot/Leetcode-GFG/tree/master/0169-majority-element) |
 | [0350-intersection-of-two-arrays-ii](https://github.com/Shubham-Singh-Rajpoot/Leetcode-GFG/tree/master/0350-intersection-of-two-arrays-ii) |
 | [1207-delete-nodes-and-return-forest](https://github.com/Shubham-Singh-Rajpoot/Leetcode-GFG/tree/master/1207-delete-nodes-and-return-forest) |
 | [1288-maximum-subarray-sum-with-one-deletion](https://github.com/Shubham-Singh-Rajpoot/Leetcode-GFG/tree/master/1288-maximum-subarray-sum-with-one-deletion) |
@@ -321,4 +324,12 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 |  |
 | ------- |
 | [1496-lucky-numbers-in-a-matrix](https://github.com/Shubham-Singh-Rajpoot/Leetcode-GFG/tree/master/1496-lucky-numbers-in-a-matrix) |
+## Divide and Conquer
+|  |
+| ------- |
+| [0169-majority-element](https://github.com/Shubham-Singh-Rajpoot/Leetcode-GFG/tree/master/0169-majority-element) |
+## Counting
+|  |
+| ------- |
+| [0169-majority-element](https://github.com/Shubham-Singh-Rajpoot/Leetcode-GFG/tree/master/0169-majority-element) |
 <!---LeetCode Topics End-->
