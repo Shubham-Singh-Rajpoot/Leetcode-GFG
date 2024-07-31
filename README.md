@@ -252,6 +252,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0169-majority-element](https://github.com/Shubham-Singh-Rajpoot/Leetcode-GFG/tree/master/0169-majority-element) |
 | [0350-intersection-of-two-arrays-ii](https://github.com/Shubham-Singh-Rajpoot/Leetcode-GFG/tree/master/0350-intersection-of-two-arrays-ii) |
 | [0948-sort-an-array](https://github.com/Shubham-Singh-Rajpoot/Leetcode-GFG/tree/master/0948-sort-an-array) |
+| [1196-filling-bookcase-shelves](https://github.com/Shubham-Singh-Rajpoot/Leetcode-GFG/tree/master/1196-filling-bookcase-shelves) |
 | [1207-delete-nodes-and-return-forest](https://github.com/Shubham-Singh-Rajpoot/Leetcode-GFG/tree/master/1207-delete-nodes-and-return-forest) |
 | [1288-maximum-subarray-sum-with-one-deletion](https://github.com/Shubham-Singh-Rajpoot/Leetcode-GFG/tree/master/1288-maximum-subarray-sum-with-one-deletion) |
 | [1293-three-consecutive-odds](https://github.com/Shubham-Singh-Rajpoot/Leetcode-GFG/tree/master/1293-three-consecutive-odds) |
@@ -308,6 +309,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | ------- |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/Shubham-Singh-Rajpoot/Leetcode-GFG/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0152-maximum-product-subarray](https://github.com/Shubham-Singh-Rajpoot/Leetcode-GFG/tree/master/0152-maximum-product-subarray) |
+| [1196-filling-bookcase-shelves](https://github.com/Shubham-Singh-Rajpoot/Leetcode-GFG/tree/master/1196-filling-bookcase-shelves) |
 | [1288-maximum-subarray-sum-with-one-deletion](https://github.com/Shubham-Singh-Rajpoot/Leetcode-GFG/tree/master/1288-maximum-subarray-sum-with-one-deletion) |
 | [1456-find-the-city-with-the-smallest-number-of-neighbors-at-a-threshold-distance](https://github.com/Shubham-Singh-Rajpoot/Leetcode-GFG/tree/master/1456-find-the-city-with-the-smallest-number-of-neighbors-at-a-threshold-distance) |
 | [1511-count-number-of-teams](https://github.com/Shubham-Singh-Rajpoot/Leetcode-GFG/tree/master/1511-count-number-of-teams) |
