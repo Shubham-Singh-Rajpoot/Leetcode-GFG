@@ -24,11 +24,7 @@ class Solution
             map.put(inorder[i],i);
             premap.put(preorder[i],i);
         }
-        //return traverse(preorder,inorder,0,inorder.length-1);
-        TreeNode root=new TreeNode(preorder[0]);
-        root.left=traverse(preorder,inorder,0,map.get(preorder[0])-1);
-        root.right=traverse(preorder,inorder,map.get(preorder[0])+1,inorder.length-1);
-        return root;
+        return traverse(preorder,inorder,0,inorder.length-1);
     }
     public TreeNode traverse(int preorder[],int inorder[],int i,int j)
     {
