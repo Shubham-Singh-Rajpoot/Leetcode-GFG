@@ -240,6 +240,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 |  |
 | ------- |
 | [0013-roman-to-integer](https://github.com/Shubham-Singh-Rajpoot/Leetcode-GFG/tree/master/0013-roman-to-integer) |
+| [0050-powx-n](https://github.com/Shubham-Singh-Rajpoot/Leetcode-GFG/tree/master/0050-powx-n) |
 | [0264-ugly-number-ii](https://github.com/Shubham-Singh-Rajpoot/Leetcode-GFG/tree/master/0264-ugly-number-ii) |
 | [0273-integer-to-english-words](https://github.com/Shubham-Singh-Rajpoot/Leetcode-GFG/tree/master/0273-integer-to-english-words) |
 | [0650-2-keys-keyboard](https://github.com/Shubham-Singh-Rajpoot/Leetcode-GFG/tree/master/0650-2-keys-keyboard) |
@@ -337,6 +338,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 |  |
 | ------- |
 | [0025-reverse-nodes-in-k-group](https://github.com/Shubham-Singh-Rajpoot/Leetcode-GFG/tree/master/0025-reverse-nodes-in-k-group) |
+| [0050-powx-n](https://github.com/Shubham-Singh-Rajpoot/Leetcode-GFG/tree/master/0050-powx-n) |
 | [0273-integer-to-english-words](https://github.com/Shubham-Singh-Rajpoot/Leetcode-GFG/tree/master/0273-integer-to-english-words) |
 | [1951-find-the-winner-of-the-circular-game](https://github.com/Shubham-Singh-Rajpoot/Leetcode-GFG/tree/master/1951-find-the-winner-of-the-circular-game) |
 ## Queue
