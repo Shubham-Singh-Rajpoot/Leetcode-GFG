@@ -233,6 +233,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0383-ransom-note](https://github.com/Shubham-Singh-Rajpoot/Leetcode-GFG/tree/master/0383-ransom-note) |
 | [0782-jewels-and-stones](https://github.com/Shubham-Singh-Rajpoot/Leetcode-GFG/tree/master/0782-jewels-and-stones) |
 | [0870-magic-squares-in-grid](https://github.com/Shubham-Singh-Rajpoot/Leetcode-GFG/tree/master/0870-magic-squares-in-grid) |
+| [0906-walking-robot-simulation](https://github.com/Shubham-Singh-Rajpoot/Leetcode-GFG/tree/master/0906-walking-robot-simulation) |
 | [1207-delete-nodes-and-return-forest](https://github.com/Shubham-Singh-Rajpoot/Leetcode-GFG/tree/master/1207-delete-nodes-and-return-forest) |
 | [1556-make-two-arrays-equal-by-reversing-subarrays](https://github.com/Shubham-Singh-Rajpoot/Leetcode-GFG/tree/master/1556-make-two-arrays-equal-by-reversing-subarrays) |
 | [1741-sort-array-by-increasing-frequency](https://github.com/Shubham-Singh-Rajpoot/Leetcode-GFG/tree/master/1741-sort-array-by-increasing-frequency) |
@@ -290,6 +291,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0350-intersection-of-two-arrays-ii](https://github.com/Shubham-Singh-Rajpoot/Leetcode-GFG/tree/master/0350-intersection-of-two-arrays-ii) |
 | [0624-maximum-distance-in-arrays](https://github.com/Shubham-Singh-Rajpoot/Leetcode-GFG/tree/master/0624-maximum-distance-in-arrays) |
 | [0870-magic-squares-in-grid](https://github.com/Shubham-Singh-Rajpoot/Leetcode-GFG/tree/master/0870-magic-squares-in-grid) |
+| [0906-walking-robot-simulation](https://github.com/Shubham-Singh-Rajpoot/Leetcode-GFG/tree/master/0906-walking-robot-simulation) |
 | [0948-sort-an-array](https://github.com/Shubham-Singh-Rajpoot/Leetcode-GFG/tree/master/0948-sort-an-array) |
 | [1196-filling-bookcase-shelves](https://github.com/Shubham-Singh-Rajpoot/Leetcode-GFG/tree/master/1196-filling-bookcase-shelves) |
 | [1207-delete-nodes-and-return-forest](https://github.com/Shubham-Singh-Rajpoot/Leetcode-GFG/tree/master/1207-delete-nodes-and-return-forest) |
@@ -339,6 +341,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 ## Simulation
 |  |
 | ------- |
+| [0906-walking-robot-simulation](https://github.com/Shubham-Singh-Rajpoot/Leetcode-GFG/tree/master/0906-walking-robot-simulation) |
 | [1642-water-bottles](https://github.com/Shubham-Singh-Rajpoot/Leetcode-GFG/tree/master/1642-water-bottles) |
 | [1803-average-waiting-time](https://github.com/Shubham-Singh-Rajpoot/Leetcode-GFG/tree/master/1803-average-waiting-time) |
 | [1951-find-the-winner-of-the-circular-game](https://github.com/Shubham-Singh-Rajpoot/Leetcode-GFG/tree/master/1951-find-the-winner-of-the-circular-game) |
