@@ -10,7 +10,7 @@ class Solution {
         }
         int x=0,y=0;
         boolean allow=true;
-        char dir='U';//Direction(U:up , D:down , L:left , R:right)(Initially north i.e. U)
+        char dir='N';//Direction(Initially north i.e. N)
         int ans=0;
         for(int i=0;i<commands.length;i++)
         {
@@ -38,11 +38,11 @@ class Solution {
             list.add(y);
             if(set.contains(list) && allowed==false)
                 break;
-            if(dir=='U')
+            if(dir=='N')
                 y++;
-            else if(dir=='D')
+            else if(dir=='S')
                 y--;
-            else if(dir=='L')
+            else if(dir=='W')
                 x--;
             else
                 x++;
@@ -65,22 +65,22 @@ class Solution {
     {
         switch(dir)
         {
-            case 'U':   if(command==-2)
-                            return 'L';
+            case 'N':   if(command==-2)
+                            return 'W';
                         else
-                            return 'R';
-            case 'D':   if(command==-2)
-                            return 'R';
+                            return 'E';
+            case 'S':   if(command==-2)
+                            return 'E';
                         else
-                            return 'L';
-            case 'L':   if(command==-2)
-                            return 'D';
+                            return 'W';
+            case 'W':   if(command==-2)
+                            return 'S';
                         else
-                            return 'U';
+                            return 'N';
             default:    if(command==-2)
-                            return 'U';
+                            return 'N';
                         else
-                            return 'D';
+                            return 'S';
         }
     }
 }
