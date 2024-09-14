@@ -324,6 +324,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [2255-minimum-swaps-to-group-all-1s-together-ii](https://github.com/Shubham-Singh-Rajpoot/Leetcode-GFG/tree/master/2255-minimum-swaps-to-group-all-1s-together-ii) |
 | [2306-create-binary-tree-from-descriptions](https://github.com/Shubham-Singh-Rajpoot/Leetcode-GFG/tree/master/2306-create-binary-tree-from-descriptions) |
 | [2502-sort-the-people](https://github.com/Shubham-Singh-Rajpoot/Leetcode-GFG/tree/master/2502-sort-the-people) |
+| [2503-longest-subarray-with-maximum-bitwise-and](https://github.com/Shubham-Singh-Rajpoot/Leetcode-GFG/tree/master/2503-longest-subarray-with-maximum-bitwise-and) |
 | [2727-number-of-senior-citizens](https://github.com/Shubham-Singh-Rajpoot/Leetcode-GFG/tree/master/2727-number-of-senior-citizens) |
 | [2846-robot-collisions](https://github.com/Shubham-Singh-Rajpoot/Leetcode-GFG/tree/master/2846-robot-collisions) |
 ## Two Pointers
@@ -501,8 +502,13 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0476-number-complement](https://github.com/Shubham-Singh-Rajpoot/Leetcode-GFG/tree/master/0476-number-complement) |
 | [1054-complement-of-base-10-integer](https://github.com/Shubham-Singh-Rajpoot/Leetcode-GFG/tree/master/1054-complement-of-base-10-integer) |
 | [1435-xor-queries-of-a-subarray](https://github.com/Shubham-Singh-Rajpoot/Leetcode-GFG/tree/master/1435-xor-queries-of-a-subarray) |
+| [2503-longest-subarray-with-maximum-bitwise-and](https://github.com/Shubham-Singh-Rajpoot/Leetcode-GFG/tree/master/2503-longest-subarray-with-maximum-bitwise-and) |
 ## Number Theory
 |  |
 | ------- |
 | [2903-insert-greatest-common-divisors-in-linked-list](https://github.com/Shubham-Singh-Rajpoot/Leetcode-GFG/tree/master/2903-insert-greatest-common-divisors-in-linked-list) |
+## Brainteaser
+|  |
+| ------- |
+| [2503-longest-subarray-with-maximum-bitwise-and](https://github.com/Shubham-Singh-Rajpoot/Leetcode-GFG/tree/master/2503-longest-subarray-with-maximum-bitwise-and) |
 <!---LeetCode Topics End-->
