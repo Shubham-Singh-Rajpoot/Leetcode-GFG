@@ -185,6 +185,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0088-merge-sorted-array](https://github.com/Shubham-Singh-Rajpoot/Leetcode-GFG/tree/master/0088-merge-sorted-array) |
 | [0169-majority-element](https://github.com/Shubham-Singh-Rajpoot/Leetcode-GFG/tree/master/0169-majority-element) |
 | [0350-intersection-of-two-arrays-ii](https://github.com/Shubham-Singh-Rajpoot/Leetcode-GFG/tree/master/0350-intersection-of-two-arrays-ii) |
+| [0539-minimum-time-difference](https://github.com/Shubham-Singh-Rajpoot/Leetcode-GFG/tree/master/0539-minimum-time-difference) |
 | [0948-sort-an-array](https://github.com/Shubham-Singh-Rajpoot/Leetcode-GFG/tree/master/0948-sort-an-array) |
 | [1333-sort-the-jumbled-numbers](https://github.com/Shubham-Singh-Rajpoot/Leetcode-GFG/tree/master/1333-sort-the-jumbled-numbers) |
 | [1556-make-two-arrays-equal-by-reversing-subarrays](https://github.com/Shubham-Singh-Rajpoot/Leetcode-GFG/tree/master/1556-make-two-arrays-equal-by-reversing-subarrays) |
@@ -252,6 +253,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0050-powx-n](https://github.com/Shubham-Singh-Rajpoot/Leetcode-GFG/tree/master/0050-powx-n) |
 | [0264-ugly-number-ii](https://github.com/Shubham-Singh-Rajpoot/Leetcode-GFG/tree/master/0264-ugly-number-ii) |
 | [0273-integer-to-english-words](https://github.com/Shubham-Singh-Rajpoot/Leetcode-GFG/tree/master/0273-integer-to-english-words) |
+| [0539-minimum-time-difference](https://github.com/Shubham-Singh-Rajpoot/Leetcode-GFG/tree/master/0539-minimum-time-difference) |
 | [0564-find-the-closest-palindrome](https://github.com/Shubham-Singh-Rajpoot/Leetcode-GFG/tree/master/0564-find-the-closest-palindrome) |
 | [0650-2-keys-keyboard](https://github.com/Shubham-Singh-Rajpoot/Leetcode-GFG/tree/master/0650-2-keys-keyboard) |
 | [0870-magic-squares-in-grid](https://github.com/Shubham-Singh-Rajpoot/Leetcode-GFG/tree/master/0870-magic-squares-in-grid) |
@@ -268,6 +270,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0091-decode-ways](https://github.com/Shubham-Singh-Rajpoot/Leetcode-GFG/tree/master/0091-decode-ways) |
 | [0273-integer-to-english-words](https://github.com/Shubham-Singh-Rajpoot/Leetcode-GFG/tree/master/0273-integer-to-english-words) |
 | [0383-ransom-note](https://github.com/Shubham-Singh-Rajpoot/Leetcode-GFG/tree/master/0383-ransom-note) |
+| [0539-minimum-time-difference](https://github.com/Shubham-Singh-Rajpoot/Leetcode-GFG/tree/master/0539-minimum-time-difference) |
 | [0564-find-the-closest-palindrome](https://github.com/Shubham-Singh-Rajpoot/Leetcode-GFG/tree/master/0564-find-the-closest-palindrome) |
 | [0782-jewels-and-stones](https://github.com/Shubham-Singh-Rajpoot/Leetcode-GFG/tree/master/0782-jewels-and-stones) |
 | [1298-reverse-substrings-between-each-pair-of-parentheses](https://github.com/Shubham-Singh-Rajpoot/Leetcode-GFG/tree/master/1298-reverse-substrings-between-each-pair-of-parentheses) |
@@ -298,6 +301,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0169-majority-element](https://github.com/Shubham-Singh-Rajpoot/Leetcode-GFG/tree/master/0169-majority-element) |
 | [0238-product-of-array-except-self](https://github.com/Shubham-Singh-Rajpoot/Leetcode-GFG/tree/master/0238-product-of-array-except-self) |
 | [0350-intersection-of-two-arrays-ii](https://github.com/Shubham-Singh-Rajpoot/Leetcode-GFG/tree/master/0350-intersection-of-two-arrays-ii) |
+| [0539-minimum-time-difference](https://github.com/Shubham-Singh-Rajpoot/Leetcode-GFG/tree/master/0539-minimum-time-difference) |
 | [0624-maximum-distance-in-arrays](https://github.com/Shubham-Singh-Rajpoot/Leetcode-GFG/tree/master/0624-maximum-distance-in-arrays) |
 | [0870-magic-squares-in-grid](https://github.com/Shubham-Singh-Rajpoot/Leetcode-GFG/tree/master/0870-magic-squares-in-grid) |
 | [0906-walking-robot-simulation](https://github.com/Shubham-Singh-Rajpoot/Leetcode-GFG/tree/master/0906-walking-robot-simulation) |
