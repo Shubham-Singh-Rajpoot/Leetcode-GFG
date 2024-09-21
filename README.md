@@ -209,6 +209,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 ## Depth-First Search
 |  |
 | ------- |
+| [0386-lexicographical-numbers](https://github.com/Shubham-Singh-Rajpoot/Leetcode-GFG/tree/master/0386-lexicographical-numbers) |
 | [1005-univalued-binary-tree](https://github.com/Shubham-Singh-Rajpoot/Leetcode-GFG/tree/master/1005-univalued-binary-tree) |
 | [1207-delete-nodes-and-return-forest](https://github.com/Shubham-Singh-Rajpoot/Leetcode-GFG/tree/master/1207-delete-nodes-and-return-forest) |
 | [1431-all-ancestors-of-a-node-in-a-directed-acyclic-graph](https://github.com/Shubham-Singh-Rajpoot/Leetcode-GFG/tree/master/1431-all-ancestors-of-a-node-in-a-directed-acyclic-graph) |
@@ -526,4 +527,8 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 |  |
 | ------- |
 | [2503-longest-subarray-with-maximum-bitwise-and](https://github.com/Shubham-Singh-Rajpoot/Leetcode-GFG/tree/master/2503-longest-subarray-with-maximum-bitwise-and) |
+## Trie
+|  |
+| ------- |
+| [0386-lexicographical-numbers](https://github.com/Shubham-Singh-Rajpoot/Leetcode-GFG/tree/master/0386-lexicographical-numbers) |
 <!---LeetCode Topics End-->
