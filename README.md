@@ -238,6 +238,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0264-ugly-number-ii](https://github.com/Shubham-Singh-Rajpoot/Leetcode-GFG/tree/master/0264-ugly-number-ii) |
 | [0350-intersection-of-two-arrays-ii](https://github.com/Shubham-Singh-Rajpoot/Leetcode-GFG/tree/master/0350-intersection-of-two-arrays-ii) |
 | [0383-ransom-note](https://github.com/Shubham-Singh-Rajpoot/Leetcode-GFG/tree/master/0383-ransom-note) |
+| [0432-all-oone-data-structure](https://github.com/Shubham-Singh-Rajpoot/Leetcode-GFG/tree/master/0432-all-oone-data-structure) |
 | [0782-jewels-and-stones](https://github.com/Shubham-Singh-Rajpoot/Leetcode-GFG/tree/master/0782-jewels-and-stones) |
 | [0870-magic-squares-in-grid](https://github.com/Shubham-Singh-Rajpoot/Leetcode-GFG/tree/master/0870-magic-squares-in-grid) |
 | [0906-walking-robot-simulation](https://github.com/Shubham-Singh-Rajpoot/Leetcode-GFG/tree/master/0906-walking-robot-simulation) |
@@ -364,6 +365,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 |  |
 | ------- |
 | [0025-reverse-nodes-in-k-group](https://github.com/Shubham-Singh-Rajpoot/Leetcode-GFG/tree/master/0025-reverse-nodes-in-k-group) |
+| [0432-all-oone-data-structure](https://github.com/Shubham-Singh-Rajpoot/Leetcode-GFG/tree/master/0432-all-oone-data-structure) |
 | [1484-linked-list-in-binary-tree](https://github.com/Shubham-Singh-Rajpoot/Leetcode-GFG/tree/master/1484-linked-list-in-binary-tree) |
 | [2182-find-the-minimum-and-maximum-number-of-nodes-between-critical-points](https://github.com/Shubham-Singh-Rajpoot/Leetcode-GFG/tree/master/2182-find-the-minimum-and-maximum-number-of-nodes-between-critical-points) |
 | [2299-merge-nodes-in-between-zeros](https://github.com/Shubham-Singh-Rajpoot/Leetcode-GFG/tree/master/2299-merge-nodes-in-between-zeros) |
@@ -500,6 +502,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 ## Design
 |  |
 | ------- |
+| [0432-all-oone-data-structure](https://github.com/Shubham-Singh-Rajpoot/Leetcode-GFG/tree/master/0432-all-oone-data-structure) |
 | [0731-my-calendar-ii](https://github.com/Shubham-Singh-Rajpoot/Leetcode-GFG/tree/master/0731-my-calendar-ii) |
 | [0789-kth-largest-element-in-a-stream](https://github.com/Shubham-Singh-Rajpoot/Leetcode-GFG/tree/master/0789-kth-largest-element-in-a-stream) |
 ## Binary Search Tree
@@ -556,4 +559,8 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 |  |
 | ------- |
 | [0731-my-calendar-ii](https://github.com/Shubham-Singh-Rajpoot/Leetcode-GFG/tree/master/0731-my-calendar-ii) |
+## Doubly-Linked List
+|  |
+| ------- |
+| [0432-all-oone-data-structure](https://github.com/Shubham-Singh-Rajpoot/Leetcode-GFG/tree/master/0432-all-oone-data-structure) |
 <!---LeetCode Topics End-->
