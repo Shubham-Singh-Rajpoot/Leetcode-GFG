@@ -326,6 +326,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [1333-sort-the-jumbled-numbers](https://github.com/Shubham-Singh-Rajpoot/Leetcode-GFG/tree/master/1333-sort-the-jumbled-numbers) |
 | [1435-xor-queries-of-a-subarray](https://github.com/Shubham-Singh-Rajpoot/Leetcode-GFG/tree/master/1435-xor-queries-of-a-subarray) |
 | [1496-lucky-numbers-in-a-matrix](https://github.com/Shubham-Singh-Rajpoot/Leetcode-GFG/tree/master/1496-lucky-numbers-in-a-matrix) |
+| [1497-design-a-stack-with-increment-operation](https://github.com/Shubham-Singh-Rajpoot/Leetcode-GFG/tree/master/1497-design-a-stack-with-increment-operation) |
 | [1511-count-number-of-teams](https://github.com/Shubham-Singh-Rajpoot/Leetcode-GFG/tree/master/1511-count-number-of-teams) |
 | [1556-make-two-arrays-equal-by-reversing-subarrays](https://github.com/Shubham-Singh-Rajpoot/Leetcode-GFG/tree/master/1556-make-two-arrays-equal-by-reversing-subarrays) |
 | [1615-range-sum-of-sorted-subarray-sums](https://github.com/Shubham-Singh-Rajpoot/Leetcode-GFG/tree/master/1615-range-sum-of-sorted-subarray-sums) |
@@ -415,6 +416,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | ------- |
 | [0085-maximal-rectangle](https://github.com/Shubham-Singh-Rajpoot/Leetcode-GFG/tree/master/0085-maximal-rectangle) |
 | [1298-reverse-substrings-between-each-pair-of-parentheses](https://github.com/Shubham-Singh-Rajpoot/Leetcode-GFG/tree/master/1298-reverse-substrings-between-each-pair-of-parentheses) |
+| [1497-design-a-stack-with-increment-operation](https://github.com/Shubham-Singh-Rajpoot/Leetcode-GFG/tree/master/1497-design-a-stack-with-increment-operation) |
 | [1720-crawler-log-folder](https://github.com/Shubham-Singh-Rajpoot/Leetcode-GFG/tree/master/1720-crawler-log-folder) |
 | [1756-minimum-deletions-to-make-string-balanced](https://github.com/Shubham-Singh-Rajpoot/Leetcode-GFG/tree/master/1756-minimum-deletions-to-make-string-balanced) |
 | [1818-maximum-score-from-removing-substrings](https://github.com/Shubham-Singh-Rajpoot/Leetcode-GFG/tree/master/1818-maximum-score-from-removing-substrings) |
@@ -505,6 +507,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0432-all-oone-data-structure](https://github.com/Shubham-Singh-Rajpoot/Leetcode-GFG/tree/master/0432-all-oone-data-structure) |
 | [0731-my-calendar-ii](https://github.com/Shubham-Singh-Rajpoot/Leetcode-GFG/tree/master/0731-my-calendar-ii) |
 | [0789-kth-largest-element-in-a-stream](https://github.com/Shubham-Singh-Rajpoot/Leetcode-GFG/tree/master/0789-kth-largest-element-in-a-stream) |
+| [1497-design-a-stack-with-increment-operation](https://github.com/Shubham-Singh-Rajpoot/Leetcode-GFG/tree/master/1497-design-a-stack-with-increment-operation) |
 ## Binary Search Tree
 |  |
 | ------- |
