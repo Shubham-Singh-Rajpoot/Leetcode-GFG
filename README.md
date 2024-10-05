@@ -240,6 +240,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0350-intersection-of-two-arrays-ii](https://github.com/Shubham-Singh-Rajpoot/Leetcode-GFG/tree/master/0350-intersection-of-two-arrays-ii) |
 | [0383-ransom-note](https://github.com/Shubham-Singh-Rajpoot/Leetcode-GFG/tree/master/0383-ransom-note) |
 | [0432-all-oone-data-structure](https://github.com/Shubham-Singh-Rajpoot/Leetcode-GFG/tree/master/0432-all-oone-data-structure) |
+| [0567-permutation-in-string](https://github.com/Shubham-Singh-Rajpoot/Leetcode-GFG/tree/master/0567-permutation-in-string) |
 | [0782-jewels-and-stones](https://github.com/Shubham-Singh-Rajpoot/Leetcode-GFG/tree/master/0782-jewels-and-stones) |
 | [0870-magic-squares-in-grid](https://github.com/Shubham-Singh-Rajpoot/Leetcode-GFG/tree/master/0870-magic-squares-in-grid) |
 | [0906-walking-robot-simulation](https://github.com/Shubham-Singh-Rajpoot/Leetcode-GFG/tree/master/0906-walking-robot-simulation) |
@@ -282,6 +283,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0383-ransom-note](https://github.com/Shubham-Singh-Rajpoot/Leetcode-GFG/tree/master/0383-ransom-note) |
 | [0539-minimum-time-difference](https://github.com/Shubham-Singh-Rajpoot/Leetcode-GFG/tree/master/0539-minimum-time-difference) |
 | [0564-find-the-closest-palindrome](https://github.com/Shubham-Singh-Rajpoot/Leetcode-GFG/tree/master/0564-find-the-closest-palindrome) |
+| [0567-permutation-in-string](https://github.com/Shubham-Singh-Rajpoot/Leetcode-GFG/tree/master/0567-permutation-in-string) |
 | [0782-jewels-and-stones](https://github.com/Shubham-Singh-Rajpoot/Leetcode-GFG/tree/master/0782-jewels-and-stones) |
 | [0920-uncommon-words-from-two-sentences](https://github.com/Shubham-Singh-Rajpoot/Leetcode-GFG/tree/master/0920-uncommon-words-from-two-sentences) |
 | [1298-reverse-substrings-between-each-pair-of-parentheses](https://github.com/Shubham-Singh-Rajpoot/Leetcode-GFG/tree/master/1298-reverse-substrings-between-each-pair-of-parentheses) |
@@ -363,6 +365,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0080-remove-duplicates-from-sorted-array-ii](https://github.com/Shubham-Singh-Rajpoot/Leetcode-GFG/tree/master/0080-remove-duplicates-from-sorted-array-ii) |
 | [0088-merge-sorted-array](https://github.com/Shubham-Singh-Rajpoot/Leetcode-GFG/tree/master/0088-merge-sorted-array) |
 | [0350-intersection-of-two-arrays-ii](https://github.com/Shubham-Singh-Rajpoot/Leetcode-GFG/tree/master/0350-intersection-of-two-arrays-ii) |
+| [0567-permutation-in-string](https://github.com/Shubham-Singh-Rajpoot/Leetcode-GFG/tree/master/0567-permutation-in-string) |
 | [1615-range-sum-of-sorted-subarray-sums](https://github.com/Shubham-Singh-Rajpoot/Leetcode-GFG/tree/master/1615-range-sum-of-sorted-subarray-sums) |
 | [2581-divide-players-into-teams-of-equal-skill](https://github.com/Shubham-Singh-Rajpoot/Leetcode-GFG/tree/master/2581-divide-players-into-teams-of-equal-skill) |
 ## Binary Search
@@ -506,6 +509,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 ## Sliding Window
 |  |
 | ------- |
+| [0567-permutation-in-string](https://github.com/Shubham-Singh-Rajpoot/Leetcode-GFG/tree/master/0567-permutation-in-string) |
 | [2255-minimum-swaps-to-group-all-1s-together-ii](https://github.com/Shubham-Singh-Rajpoot/Leetcode-GFG/tree/master/2255-minimum-swaps-to-group-all-1s-together-ii) |
 ## Strongly Connected Component
 |  |
