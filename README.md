@@ -367,6 +367,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [2067-maximum-number-of-points-with-cost](https://github.com/Shubham-Singh-Rajpoot/Leetcode-GFG/tree/master/2067-maximum-number-of-points-with-cost) |
 | [2155-find-missing-observations](https://github.com/Shubham-Singh-Rajpoot/Leetcode-GFG/tree/master/2155-find-missing-observations) |
 | [2163-kth-distinct-string-in-an-array](https://github.com/Shubham-Singh-Rajpoot/Leetcode-GFG/tree/master/2163-kth-distinct-string-in-an-array) |
+| [2170-count-number-of-maximum-bitwise-or-subsets](https://github.com/Shubham-Singh-Rajpoot/Leetcode-GFG/tree/master/2170-count-number-of-maximum-bitwise-or-subsets) |
 | [2255-minimum-swaps-to-group-all-1s-together-ii](https://github.com/Shubham-Singh-Rajpoot/Leetcode-GFG/tree/master/2255-minimum-swaps-to-group-all-1s-together-ii) |
 | [2306-create-binary-tree-from-descriptions](https://github.com/Shubham-Singh-Rajpoot/Leetcode-GFG/tree/master/2306-create-binary-tree-from-descriptions) |
 | [2488-divide-intervals-into-minimum-number-of-groups](https://github.com/Shubham-Singh-Rajpoot/Leetcode-GFG/tree/master/2488-divide-intervals-into-minimum-number-of-groups) |
@@ -581,6 +582,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [1054-complement-of-base-10-integer](https://github.com/Shubham-Singh-Rajpoot/Leetcode-GFG/tree/master/1054-complement-of-base-10-integer) |
 | [1435-xor-queries-of-a-subarray](https://github.com/Shubham-Singh-Rajpoot/Leetcode-GFG/tree/master/1435-xor-queries-of-a-subarray) |
 | [1473-find-the-longest-substring-containing-vowels-in-even-counts](https://github.com/Shubham-Singh-Rajpoot/Leetcode-GFG/tree/master/1473-find-the-longest-substring-containing-vowels-in-even-counts) |
+| [2170-count-number-of-maximum-bitwise-or-subsets](https://github.com/Shubham-Singh-Rajpoot/Leetcode-GFG/tree/master/2170-count-number-of-maximum-bitwise-or-subsets) |
 | [2503-longest-subarray-with-maximum-bitwise-and](https://github.com/Shubham-Singh-Rajpoot/Leetcode-GFG/tree/master/2503-longest-subarray-with-maximum-bitwise-and) |
 ## Number Theory
 |  |
@@ -614,4 +616,12 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 |  |
 | ------- |
 | [0432-all-oone-data-structure](https://github.com/Shubham-Singh-Rajpoot/Leetcode-GFG/tree/master/0432-all-oone-data-structure) |
+## Backtracking
+|  |
+| ------- |
+| [2170-count-number-of-maximum-bitwise-or-subsets](https://github.com/Shubham-Singh-Rajpoot/Leetcode-GFG/tree/master/2170-count-number-of-maximum-bitwise-or-subsets) |
+## Enumeration
+|  |
+| ------- |
+| [2170-count-number-of-maximum-bitwise-or-subsets](https://github.com/Shubham-Singh-Rajpoot/Leetcode-GFG/tree/master/2170-count-number-of-maximum-bitwise-or-subsets) |
 <!---LeetCode Topics End-->
