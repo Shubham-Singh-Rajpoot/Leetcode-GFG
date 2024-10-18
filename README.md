@@ -284,6 +284,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [1951-find-the-winner-of-the-circular-game](https://github.com/Shubham-Singh-Rajpoot/Leetcode-GFG/tree/master/1951-find-the-winner-of-the-circular-game) |
 | [2155-find-missing-observations](https://github.com/Shubham-Singh-Rajpoot/Leetcode-GFG/tree/master/2155-find-missing-observations) |
 | [2645-pass-the-pillow](https://github.com/Shubham-Singh-Rajpoot/Leetcode-GFG/tree/master/2645-pass-the-pillow) |
+| [2873-prime-pairs-with-target-sum](https://github.com/Shubham-Singh-Rajpoot/Leetcode-GFG/tree/master/2873-prime-pairs-with-target-sum) |
 | [2903-insert-greatest-common-divisors-in-linked-list](https://github.com/Shubham-Singh-Rajpoot/Leetcode-GFG/tree/master/2903-insert-greatest-common-divisors-in-linked-list) |
 ## String
 |  |
@@ -378,6 +379,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [2616-maximal-score-after-applying-k-operations](https://github.com/Shubham-Singh-Rajpoot/Leetcode-GFG/tree/master/2616-maximal-score-after-applying-k-operations) |
 | [2727-number-of-senior-citizens](https://github.com/Shubham-Singh-Rajpoot/Leetcode-GFG/tree/master/2727-number-of-senior-citizens) |
 | [2846-robot-collisions](https://github.com/Shubham-Singh-Rajpoot/Leetcode-GFG/tree/master/2846-robot-collisions) |
+| [2873-prime-pairs-with-target-sum](https://github.com/Shubham-Singh-Rajpoot/Leetcode-GFG/tree/master/2873-prime-pairs-with-target-sum) |
 | [3329-find-the-length-of-the-longest-common-prefix](https://github.com/Shubham-Singh-Rajpoot/Leetcode-GFG/tree/master/3329-find-the-length-of-the-longest-common-prefix) |
 ## Two Pointers
 |  |
@@ -587,6 +589,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 ## Number Theory
 |  |
 | ------- |
+| [2873-prime-pairs-with-target-sum](https://github.com/Shubham-Singh-Rajpoot/Leetcode-GFG/tree/master/2873-prime-pairs-with-target-sum) |
 | [2903-insert-greatest-common-divisors-in-linked-list](https://github.com/Shubham-Singh-Rajpoot/Leetcode-GFG/tree/master/2903-insert-greatest-common-divisors-in-linked-list) |
 ## Brainteaser
 |  |
@@ -624,4 +627,5 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 |  |
 | ------- |
 | [2170-count-number-of-maximum-bitwise-or-subsets](https://github.com/Shubham-Singh-Rajpoot/Leetcode-GFG/tree/master/2170-count-number-of-maximum-bitwise-or-subsets) |
+| [2873-prime-pairs-with-target-sum](https://github.com/Shubham-Singh-Rajpoot/Leetcode-GFG/tree/master/2873-prime-pairs-with-target-sum) |
 <!---LeetCode Topics End-->
