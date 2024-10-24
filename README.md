@@ -222,6 +222,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 |  |
 | ------- |
 | [0386-lexicographical-numbers](https://github.com/Shubham-Singh-Rajpoot/Leetcode-GFG/tree/master/0386-lexicographical-numbers) |
+| [0988-flip-equivalent-binary-trees](https://github.com/Shubham-Singh-Rajpoot/Leetcode-GFG/tree/master/0988-flip-equivalent-binary-trees) |
 | [1005-univalued-binary-tree](https://github.com/Shubham-Singh-Rajpoot/Leetcode-GFG/tree/master/1005-univalued-binary-tree) |
 | [1207-delete-nodes-and-return-forest](https://github.com/Shubham-Singh-Rajpoot/Leetcode-GFG/tree/master/1207-delete-nodes-and-return-forest) |
 | [1431-all-ancestors-of-a-node-in-a-directed-acyclic-graph](https://github.com/Shubham-Singh-Rajpoot/Leetcode-GFG/tree/master/1431-all-ancestors-of-a-node-in-a-directed-acyclic-graph) |
@@ -484,6 +485,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0105-construct-binary-tree-from-preorder-and-inorder-traversal](https://github.com/Shubham-Singh-Rajpoot/Leetcode-GFG/tree/master/0105-construct-binary-tree-from-preorder-and-inorder-traversal) |
 | [0106-construct-binary-tree-from-inorder-and-postorder-traversal](https://github.com/Shubham-Singh-Rajpoot/Leetcode-GFG/tree/master/0106-construct-binary-tree-from-inorder-and-postorder-traversal) |
 | [0789-kth-largest-element-in-a-stream](https://github.com/Shubham-Singh-Rajpoot/Leetcode-GFG/tree/master/0789-kth-largest-element-in-a-stream) |
+| [0988-flip-equivalent-binary-trees](https://github.com/Shubham-Singh-Rajpoot/Leetcode-GFG/tree/master/0988-flip-equivalent-binary-trees) |
 | [1005-univalued-binary-tree](https://github.com/Shubham-Singh-Rajpoot/Leetcode-GFG/tree/master/1005-univalued-binary-tree) |
 | [1207-delete-nodes-and-return-forest](https://github.com/Shubham-Singh-Rajpoot/Leetcode-GFG/tree/master/1207-delete-nodes-and-return-forest) |
 | [1484-linked-list-in-binary-tree](https://github.com/Shubham-Singh-Rajpoot/Leetcode-GFG/tree/master/1484-linked-list-in-binary-tree) |
@@ -498,6 +500,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0105-construct-binary-tree-from-preorder-and-inorder-traversal](https://github.com/Shubham-Singh-Rajpoot/Leetcode-GFG/tree/master/0105-construct-binary-tree-from-preorder-and-inorder-traversal) |
 | [0106-construct-binary-tree-from-inorder-and-postorder-traversal](https://github.com/Shubham-Singh-Rajpoot/Leetcode-GFG/tree/master/0106-construct-binary-tree-from-inorder-and-postorder-traversal) |
 | [0789-kth-largest-element-in-a-stream](https://github.com/Shubham-Singh-Rajpoot/Leetcode-GFG/tree/master/0789-kth-largest-element-in-a-stream) |
+| [0988-flip-equivalent-binary-trees](https://github.com/Shubham-Singh-Rajpoot/Leetcode-GFG/tree/master/0988-flip-equivalent-binary-trees) |
 | [1005-univalued-binary-tree](https://github.com/Shubham-Singh-Rajpoot/Leetcode-GFG/tree/master/1005-univalued-binary-tree) |
 | [1207-delete-nodes-and-return-forest](https://github.com/Shubham-Singh-Rajpoot/Leetcode-GFG/tree/master/1207-delete-nodes-and-return-forest) |
 | [1484-linked-list-in-binary-tree](https://github.com/Shubham-Singh-Rajpoot/Leetcode-GFG/tree/master/1484-linked-list-in-binary-tree) |
