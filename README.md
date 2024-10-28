@@ -204,6 +204,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [2488-divide-intervals-into-minimum-number-of-groups](https://github.com/Shubham-Singh-Rajpoot/Leetcode-GFG/tree/master/2488-divide-intervals-into-minimum-number-of-groups) |
 | [2502-sort-the-people](https://github.com/Shubham-Singh-Rajpoot/Leetcode-GFG/tree/master/2502-sort-the-people) |
 | [2581-divide-players-into-teams-of-equal-skill](https://github.com/Shubham-Singh-Rajpoot/Leetcode-GFG/tree/master/2581-divide-players-into-teams-of-equal-skill) |
+| [2586-longest-square-streak-in-an-array](https://github.com/Shubham-Singh-Rajpoot/Leetcode-GFG/tree/master/2586-longest-square-streak-in-an-array) |
 | [2646-kth-largest-sum-in-a-binary-tree](https://github.com/Shubham-Singh-Rajpoot/Leetcode-GFG/tree/master/2646-kth-largest-sum-in-a-binary-tree) |
 | [2846-robot-collisions](https://github.com/Shubham-Singh-Rajpoot/Leetcode-GFG/tree/master/2846-robot-collisions) |
 | [3276-minimum-number-of-pushes-to-type-word-ii](https://github.com/Shubham-Singh-Rajpoot/Leetcode-GFG/tree/master/3276-minimum-number-of-pushes-to-type-word-ii) |
@@ -270,6 +271,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [2306-create-binary-tree-from-descriptions](https://github.com/Shubham-Singh-Rajpoot/Leetcode-GFG/tree/master/2306-create-binary-tree-from-descriptions) |
 | [2502-sort-the-people](https://github.com/Shubham-Singh-Rajpoot/Leetcode-GFG/tree/master/2502-sort-the-people) |
 | [2581-divide-players-into-teams-of-equal-skill](https://github.com/Shubham-Singh-Rajpoot/Leetcode-GFG/tree/master/2581-divide-players-into-teams-of-equal-skill) |
+| [2586-longest-square-streak-in-an-array](https://github.com/Shubham-Singh-Rajpoot/Leetcode-GFG/tree/master/2586-longest-square-streak-in-an-array) |
 | [2677-cousins-in-binary-tree-ii](https://github.com/Shubham-Singh-Rajpoot/Leetcode-GFG/tree/master/2677-cousins-in-binary-tree-ii) |
 | [3276-minimum-number-of-pushes-to-type-word-ii](https://github.com/Shubham-Singh-Rajpoot/Leetcode-GFG/tree/master/3276-minimum-number-of-pushes-to-type-word-ii) |
 | [3329-find-the-length-of-the-longest-common-prefix](https://github.com/Shubham-Singh-Rajpoot/Leetcode-GFG/tree/master/3329-find-the-length-of-the-longest-common-prefix) |
@@ -384,6 +386,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [2502-sort-the-people](https://github.com/Shubham-Singh-Rajpoot/Leetcode-GFG/tree/master/2502-sort-the-people) |
 | [2503-longest-subarray-with-maximum-bitwise-and](https://github.com/Shubham-Singh-Rajpoot/Leetcode-GFG/tree/master/2503-longest-subarray-with-maximum-bitwise-and) |
 | [2581-divide-players-into-teams-of-equal-skill](https://github.com/Shubham-Singh-Rajpoot/Leetcode-GFG/tree/master/2581-divide-players-into-teams-of-equal-skill) |
+| [2586-longest-square-streak-in-an-array](https://github.com/Shubham-Singh-Rajpoot/Leetcode-GFG/tree/master/2586-longest-square-streak-in-an-array) |
 | [2616-maximal-score-after-applying-k-operations](https://github.com/Shubham-Singh-Rajpoot/Leetcode-GFG/tree/master/2616-maximal-score-after-applying-k-operations) |
 | [2727-number-of-senior-citizens](https://github.com/Shubham-Singh-Rajpoot/Leetcode-GFG/tree/master/2727-number-of-senior-citizens) |
 | [2846-robot-collisions](https://github.com/Shubham-Singh-Rajpoot/Leetcode-GFG/tree/master/2846-robot-collisions) |
@@ -411,6 +414,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0350-intersection-of-two-arrays-ii](https://github.com/Shubham-Singh-Rajpoot/Leetcode-GFG/tree/master/0350-intersection-of-two-arrays-ii) |
 | [0731-my-calendar-ii](https://github.com/Shubham-Singh-Rajpoot/Leetcode-GFG/tree/master/0731-my-calendar-ii) |
 | [1615-range-sum-of-sorted-subarray-sums](https://github.com/Shubham-Singh-Rajpoot/Leetcode-GFG/tree/master/1615-range-sum-of-sorted-subarray-sums) |
+| [2586-longest-square-streak-in-an-array](https://github.com/Shubham-Singh-Rajpoot/Leetcode-GFG/tree/master/2586-longest-square-streak-in-an-array) |
 ## Linked List
 |  |
 | ------- |
@@ -464,6 +468,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [1511-count-number-of-teams](https://github.com/Shubham-Singh-Rajpoot/Leetcode-GFG/tree/master/1511-count-number-of-teams) |
 | [1756-minimum-deletions-to-make-string-balanced](https://github.com/Shubham-Singh-Rajpoot/Leetcode-GFG/tree/master/1756-minimum-deletions-to-make-string-balanced) |
 | [2067-maximum-number-of-points-with-cost](https://github.com/Shubham-Singh-Rajpoot/Leetcode-GFG/tree/master/2067-maximum-number-of-points-with-cost) |
+| [2586-longest-square-streak-in-an-array](https://github.com/Shubham-Singh-Rajpoot/Leetcode-GFG/tree/master/2586-longest-square-streak-in-an-array) |
 ## Stack
 |  |
 | ------- |
