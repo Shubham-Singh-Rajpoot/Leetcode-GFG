@@ -310,6 +310,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0957-minimum-add-to-make-parentheses-valid](https://github.com/Shubham-Singh-Rajpoot/Leetcode-GFG/tree/master/0957-minimum-add-to-make-parentheses-valid) |
 | [1197-parsing-a-boolean-expression](https://github.com/Shubham-Singh-Rajpoot/Leetcode-GFG/tree/master/1197-parsing-a-boolean-expression) |
 | [1298-reverse-substrings-between-each-pair-of-parentheses](https://github.com/Shubham-Singh-Rajpoot/Leetcode-GFG/tree/master/1298-reverse-substrings-between-each-pair-of-parentheses) |
+| [1302-delete-characters-to-make-fancy-string](https://github.com/Shubham-Singh-Rajpoot/Leetcode-GFG/tree/master/1302-delete-characters-to-make-fancy-string) |
 | [1473-find-the-longest-substring-containing-vowels-in-even-counts](https://github.com/Shubham-Singh-Rajpoot/Leetcode-GFG/tree/master/1473-find-the-longest-substring-containing-vowels-in-even-counts) |
 | [1667-find-kth-bit-in-nth-binary-string](https://github.com/Shubham-Singh-Rajpoot/Leetcode-GFG/tree/master/1667-find-kth-bit-in-nth-binary-string) |
 | [1720-crawler-log-folder](https://github.com/Shubham-Singh-Rajpoot/Leetcode-GFG/tree/master/1720-crawler-log-folder) |
