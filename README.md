@@ -376,6 +376,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [1741-sort-array-by-increasing-frequency](https://github.com/Shubham-Singh-Rajpoot/Leetcode-GFG/tree/master/1741-sort-array-by-increasing-frequency) |
 | [1803-average-waiting-time](https://github.com/Shubham-Singh-Rajpoot/Leetcode-GFG/tree/master/1803-average-waiting-time) |
 | [1923-sentence-similarity-iii](https://github.com/Shubham-Singh-Rajpoot/Leetcode-GFG/tree/master/1923-sentence-similarity-iii) |
+| [1940-maximum-xor-for-each-query](https://github.com/Shubham-Singh-Rajpoot/Leetcode-GFG/tree/master/1940-maximum-xor-for-each-query) |
 | [1951-find-the-winner-of-the-circular-game](https://github.com/Shubham-Singh-Rajpoot/Leetcode-GFG/tree/master/1951-find-the-winner-of-the-circular-game) |
 | [2054-the-number-of-the-smallest-unoccupied-chair](https://github.com/Shubham-Singh-Rajpoot/Leetcode-GFG/tree/master/2054-the-number-of-the-smallest-unoccupied-chair) |
 | [2067-maximum-number-of-points-with-cost](https://github.com/Shubham-Singh-Rajpoot/Leetcode-GFG/tree/master/2067-maximum-number-of-points-with-cost) |
@@ -598,6 +599,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [1240-stone-game-ii](https://github.com/Shubham-Singh-Rajpoot/Leetcode-GFG/tree/master/1240-stone-game-ii) |
 | [1435-xor-queries-of-a-subarray](https://github.com/Shubham-Singh-Rajpoot/Leetcode-GFG/tree/master/1435-xor-queries-of-a-subarray) |
 | [1473-find-the-longest-substring-containing-vowels-in-even-counts](https://github.com/Shubham-Singh-Rajpoot/Leetcode-GFG/tree/master/1473-find-the-longest-substring-containing-vowels-in-even-counts) |
+| [1940-maximum-xor-for-each-query](https://github.com/Shubham-Singh-Rajpoot/Leetcode-GFG/tree/master/1940-maximum-xor-for-each-query) |
 | [2488-divide-intervals-into-minimum-number-of-groups](https://github.com/Shubham-Singh-Rajpoot/Leetcode-GFG/tree/master/2488-divide-intervals-into-minimum-number-of-groups) |
 ## Game Theory
 |  |
@@ -610,6 +612,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [1054-complement-of-base-10-integer](https://github.com/Shubham-Singh-Rajpoot/Leetcode-GFG/tree/master/1054-complement-of-base-10-integer) |
 | [1435-xor-queries-of-a-subarray](https://github.com/Shubham-Singh-Rajpoot/Leetcode-GFG/tree/master/1435-xor-queries-of-a-subarray) |
 | [1473-find-the-longest-substring-containing-vowels-in-even-counts](https://github.com/Shubham-Singh-Rajpoot/Leetcode-GFG/tree/master/1473-find-the-longest-substring-containing-vowels-in-even-counts) |
+| [1940-maximum-xor-for-each-query](https://github.com/Shubham-Singh-Rajpoot/Leetcode-GFG/tree/master/1940-maximum-xor-for-each-query) |
 | [2170-count-number-of-maximum-bitwise-or-subsets](https://github.com/Shubham-Singh-Rajpoot/Leetcode-GFG/tree/master/2170-count-number-of-maximum-bitwise-or-subsets) |
 | [2503-longest-subarray-with-maximum-bitwise-and](https://github.com/Shubham-Singh-Rajpoot/Leetcode-GFG/tree/master/2503-longest-subarray-with-maximum-bitwise-and) |
 ## Number Theory
