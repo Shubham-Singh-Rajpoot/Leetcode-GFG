@@ -193,6 +193,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0088-merge-sorted-array](https://github.com/Shubham-Singh-Rajpoot/Leetcode-GFG/tree/master/0088-merge-sorted-array) |
 | [0169-majority-element](https://github.com/Shubham-Singh-Rajpoot/Leetcode-GFG/tree/master/0169-majority-element) |
 | [0179-largest-number](https://github.com/Shubham-Singh-Rajpoot/Leetcode-GFG/tree/master/0179-largest-number) |
+| [0229-majority-element-ii](https://github.com/Shubham-Singh-Rajpoot/Leetcode-GFG/tree/master/0229-majority-element-ii) |
 | [0350-intersection-of-two-arrays-ii](https://github.com/Shubham-Singh-Rajpoot/Leetcode-GFG/tree/master/0350-intersection-of-two-arrays-ii) |
 | [0539-minimum-time-difference](https://github.com/Shubham-Singh-Rajpoot/Leetcode-GFG/tree/master/0539-minimum-time-difference) |
 | [0948-sort-an-array](https://github.com/Shubham-Singh-Rajpoot/Leetcode-GFG/tree/master/0948-sort-an-array) |
@@ -254,6 +255,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0105-construct-binary-tree-from-preorder-and-inorder-traversal](https://github.com/Shubham-Singh-Rajpoot/Leetcode-GFG/tree/master/0105-construct-binary-tree-from-preorder-and-inorder-traversal) |
 | [0106-construct-binary-tree-from-inorder-and-postorder-traversal](https://github.com/Shubham-Singh-Rajpoot/Leetcode-GFG/tree/master/0106-construct-binary-tree-from-inorder-and-postorder-traversal) |
 | [0169-majority-element](https://github.com/Shubham-Singh-Rajpoot/Leetcode-GFG/tree/master/0169-majority-element) |
+| [0229-majority-element-ii](https://github.com/Shubham-Singh-Rajpoot/Leetcode-GFG/tree/master/0229-majority-element-ii) |
 | [0264-ugly-number-ii](https://github.com/Shubham-Singh-Rajpoot/Leetcode-GFG/tree/master/0264-ugly-number-ii) |
 | [0350-intersection-of-two-arrays-ii](https://github.com/Shubham-Singh-Rajpoot/Leetcode-GFG/tree/master/0350-intersection-of-two-arrays-ii) |
 | [0383-ransom-note](https://github.com/Shubham-Singh-Rajpoot/Leetcode-GFG/tree/master/0383-ransom-note) |
@@ -351,6 +353,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0152-maximum-product-subarray](https://github.com/Shubham-Singh-Rajpoot/Leetcode-GFG/tree/master/0152-maximum-product-subarray) |
 | [0169-majority-element](https://github.com/Shubham-Singh-Rajpoot/Leetcode-GFG/tree/master/0169-majority-element) |
 | [0179-largest-number](https://github.com/Shubham-Singh-Rajpoot/Leetcode-GFG/tree/master/0179-largest-number) |
+| [0229-majority-element-ii](https://github.com/Shubham-Singh-Rajpoot/Leetcode-GFG/tree/master/0229-majority-element-ii) |
 | [0238-product-of-array-except-self](https://github.com/Shubham-Singh-Rajpoot/Leetcode-GFG/tree/master/0238-product-of-array-except-self) |
 | [0350-intersection-of-two-arrays-ii](https://github.com/Shubham-Singh-Rajpoot/Leetcode-GFG/tree/master/0350-intersection-of-two-arrays-ii) |
 | [0539-minimum-time-difference](https://github.com/Shubham-Singh-Rajpoot/Leetcode-GFG/tree/master/0539-minimum-time-difference) |
@@ -550,6 +553,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 |  |
 | ------- |
 | [0169-majority-element](https://github.com/Shubham-Singh-Rajpoot/Leetcode-GFG/tree/master/0169-majority-element) |
+| [0229-majority-element-ii](https://github.com/Shubham-Singh-Rajpoot/Leetcode-GFG/tree/master/0229-majority-element-ii) |
 | [0383-ransom-note](https://github.com/Shubham-Singh-Rajpoot/Leetcode-GFG/tree/master/0383-ransom-note) |
 | [0920-uncommon-words-from-two-sentences](https://github.com/Shubham-Singh-Rajpoot/Leetcode-GFG/tree/master/0920-uncommon-words-from-two-sentences) |
 | [1620-check-if-array-pairs-are-divisible-by-k](https://github.com/Shubham-Singh-Rajpoot/Leetcode-GFG/tree/master/1620-check-if-array-pairs-are-divisible-by-k) |
