@@ -172,6 +172,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0957-minimum-add-to-make-parentheses-valid](https://github.com/Shubham-Singh-Rajpoot/Leetcode-GFG/tree/master/0957-minimum-add-to-make-parentheses-valid) |
 | [1616-minimum-difference-between-largest-and-smallest-value-in-three-moves](https://github.com/Shubham-Singh-Rajpoot/Leetcode-GFG/tree/master/1616-minimum-difference-between-largest-and-smallest-value-in-three-moves) |
 | [1818-maximum-score-from-removing-substrings](https://github.com/Shubham-Singh-Rajpoot/Leetcode-GFG/tree/master/1818-maximum-score-from-removing-substrings) |
+| [2089-maximum-matrix-sum](https://github.com/Shubham-Singh-Rajpoot/Leetcode-GFG/tree/master/2089-maximum-matrix-sum) |
 | [2095-minimum-number-of-swaps-to-make-the-string-balanced](https://github.com/Shubham-Singh-Rajpoot/Leetcode-GFG/tree/master/2095-minimum-number-of-swaps-to-make-the-string-balanced) |
 | [2379-maximum-total-importance-of-roads](https://github.com/Shubham-Singh-Rajpoot/Leetcode-GFG/tree/master/2379-maximum-total-importance-of-roads) |
 | [2488-divide-intervals-into-minimum-number-of-groups](https://github.com/Shubham-Singh-Rajpoot/Leetcode-GFG/tree/master/2488-divide-intervals-into-minimum-number-of-groups) |
@@ -393,6 +394,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [1951-find-the-winner-of-the-circular-game](https://github.com/Shubham-Singh-Rajpoot/Leetcode-GFG/tree/master/1951-find-the-winner-of-the-circular-game) |
 | [2054-the-number-of-the-smallest-unoccupied-chair](https://github.com/Shubham-Singh-Rajpoot/Leetcode-GFG/tree/master/2054-the-number-of-the-smallest-unoccupied-chair) |
 | [2067-maximum-number-of-points-with-cost](https://github.com/Shubham-Singh-Rajpoot/Leetcode-GFG/tree/master/2067-maximum-number-of-points-with-cost) |
+| [2089-maximum-matrix-sum](https://github.com/Shubham-Singh-Rajpoot/Leetcode-GFG/tree/master/2089-maximum-matrix-sum) |
 | [2155-find-missing-observations](https://github.com/Shubham-Singh-Rajpoot/Leetcode-GFG/tree/master/2155-find-missing-observations) |
 | [2163-kth-distinct-string-in-an-array](https://github.com/Shubham-Singh-Rajpoot/Leetcode-GFG/tree/master/2163-kth-distinct-string-in-an-array) |
 | [2170-count-number-of-maximum-bitwise-or-subsets](https://github.com/Shubham-Singh-Rajpoot/Leetcode-GFG/tree/master/2170-count-number-of-maximum-bitwise-or-subsets) |
@@ -549,6 +551,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [1147-flip-columns-for-maximum-number-of-equal-rows](https://github.com/Shubham-Singh-Rajpoot/Leetcode-GFG/tree/master/1147-flip-columns-for-maximum-number-of-equal-rows) |
 | [1496-lucky-numbers-in-a-matrix](https://github.com/Shubham-Singh-Rajpoot/Leetcode-GFG/tree/master/1496-lucky-numbers-in-a-matrix) |
 | [1691-minimum-number-of-days-to-disconnect-island](https://github.com/Shubham-Singh-Rajpoot/Leetcode-GFG/tree/master/1691-minimum-number-of-days-to-disconnect-island) |
+| [2089-maximum-matrix-sum](https://github.com/Shubham-Singh-Rajpoot/Leetcode-GFG/tree/master/2089-maximum-matrix-sum) |
 | [2343-count-unguarded-cells-in-the-grid](https://github.com/Shubham-Singh-Rajpoot/Leetcode-GFG/tree/master/2343-count-unguarded-cells-in-the-grid) |
 ## Divide and Conquer
 |  |
