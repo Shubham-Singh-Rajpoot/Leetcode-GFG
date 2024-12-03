@@ -344,6 +344,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [2095-minimum-number-of-swaps-to-make-the-string-balanced](https://github.com/Shubham-Singh-Rajpoot/Leetcode-GFG/tree/master/2095-minimum-number-of-swaps-to-make-the-string-balanced) |
 | [2163-kth-distinct-string-in-an-array](https://github.com/Shubham-Singh-Rajpoot/Leetcode-GFG/tree/master/2163-kth-distinct-string-in-an-array) |
 | [2217-step-by-step-directions-from-a-binary-tree-node-to-another](https://github.com/Shubham-Singh-Rajpoot/Leetcode-GFG/tree/master/2217-step-by-step-directions-from-a-binary-tree-node-to-another) |
+| [2232-adding-spaces-to-a-string](https://github.com/Shubham-Singh-Rajpoot/Leetcode-GFG/tree/master/2232-adding-spaces-to-a-string) |
 | [2494-sum-of-prefix-scores-of-strings](https://github.com/Shubham-Singh-Rajpoot/Leetcode-GFG/tree/master/2494-sum-of-prefix-scores-of-strings) |
 | [2502-sort-the-people](https://github.com/Shubham-Singh-Rajpoot/Leetcode-GFG/tree/master/2502-sort-the-people) |
 | [2580-circular-sentence](https://github.com/Shubham-Singh-Rajpoot/Leetcode-GFG/tree/master/2580-circular-sentence) |
@@ -416,6 +417,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [2155-find-missing-observations](https://github.com/Shubham-Singh-Rajpoot/Leetcode-GFG/tree/master/2155-find-missing-observations) |
 | [2163-kth-distinct-string-in-an-array](https://github.com/Shubham-Singh-Rajpoot/Leetcode-GFG/tree/master/2163-kth-distinct-string-in-an-array) |
 | [2170-count-number-of-maximum-bitwise-or-subsets](https://github.com/Shubham-Singh-Rajpoot/Leetcode-GFG/tree/master/2170-count-number-of-maximum-bitwise-or-subsets) |
+| [2232-adding-spaces-to-a-string](https://github.com/Shubham-Singh-Rajpoot/Leetcode-GFG/tree/master/2232-adding-spaces-to-a-string) |
 | [2255-minimum-swaps-to-group-all-1s-together-ii](https://github.com/Shubham-Singh-Rajpoot/Leetcode-GFG/tree/master/2255-minimum-swaps-to-group-all-1s-together-ii) |
 | [2306-create-binary-tree-from-descriptions](https://github.com/Shubham-Singh-Rajpoot/Leetcode-GFG/tree/master/2306-create-binary-tree-from-descriptions) |
 | [2343-count-unguarded-cells-in-the-grid](https://github.com/Shubham-Singh-Rajpoot/Leetcode-GFG/tree/master/2343-count-unguarded-cells-in-the-grid) |
@@ -452,6 +454,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [1923-sentence-similarity-iii](https://github.com/Shubham-Singh-Rajpoot/Leetcode-GFG/tree/master/1923-sentence-similarity-iii) |
 | [1972-rotating-the-box](https://github.com/Shubham-Singh-Rajpoot/Leetcode-GFG/tree/master/1972-rotating-the-box) |
 | [2095-minimum-number-of-swaps-to-make-the-string-balanced](https://github.com/Shubham-Singh-Rajpoot/Leetcode-GFG/tree/master/2095-minimum-number-of-swaps-to-make-the-string-balanced) |
+| [2232-adding-spaces-to-a-string](https://github.com/Shubham-Singh-Rajpoot/Leetcode-GFG/tree/master/2232-adding-spaces-to-a-string) |
 | [2488-divide-intervals-into-minimum-number-of-groups](https://github.com/Shubham-Singh-Rajpoot/Leetcode-GFG/tree/master/2488-divide-intervals-into-minimum-number-of-groups) |
 | [2581-divide-players-into-teams-of-equal-skill](https://github.com/Shubham-Singh-Rajpoot/Leetcode-GFG/tree/master/2581-divide-players-into-teams-of-equal-skill) |
 | [3195-separate-black-and-white-balls](https://github.com/Shubham-Singh-Rajpoot/Leetcode-GFG/tree/master/3195-separate-black-and-white-balls) |
@@ -484,6 +487,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [1803-average-waiting-time](https://github.com/Shubham-Singh-Rajpoot/Leetcode-GFG/tree/master/1803-average-waiting-time) |
 | [1951-find-the-winner-of-the-circular-game](https://github.com/Shubham-Singh-Rajpoot/Leetcode-GFG/tree/master/1951-find-the-winner-of-the-circular-game) |
 | [2155-find-missing-observations](https://github.com/Shubham-Singh-Rajpoot/Leetcode-GFG/tree/master/2155-find-missing-observations) |
+| [2232-adding-spaces-to-a-string](https://github.com/Shubham-Singh-Rajpoot/Leetcode-GFG/tree/master/2232-adding-spaces-to-a-string) |
 | [2299-merge-nodes-in-between-zeros](https://github.com/Shubham-Singh-Rajpoot/Leetcode-GFG/tree/master/2299-merge-nodes-in-between-zeros) |
 | [2343-count-unguarded-cells-in-the-grid](https://github.com/Shubham-Singh-Rajpoot/Leetcode-GFG/tree/master/2343-count-unguarded-cells-in-the-grid) |
 | [2645-pass-the-pillow](https://github.com/Shubham-Singh-Rajpoot/Leetcode-GFG/tree/master/2645-pass-the-pillow) |
