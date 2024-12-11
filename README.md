@@ -267,6 +267,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 ## Hash Table
 |  |
 | ------- |
+| [0001-two-sum](https://github.com/Shubham-Singh-Rajpoot/Leetcode-GFG/tree/master/0001-two-sum) |
 | [0013-roman-to-integer](https://github.com/Shubham-Singh-Rajpoot/Leetcode-GFG/tree/master/0013-roman-to-integer) |
 | [0105-construct-binary-tree-from-preorder-and-inorder-traversal](https://github.com/Shubham-Singh-Rajpoot/Leetcode-GFG/tree/master/0105-construct-binary-tree-from-preorder-and-inorder-traversal) |
 | [0106-construct-binary-tree-from-inorder-and-postorder-traversal](https://github.com/Shubham-Singh-Rajpoot/Leetcode-GFG/tree/master/0106-construct-binary-tree-from-inorder-and-postorder-traversal) |
@@ -365,6 +366,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 ## Array
 |  |
 | ------- |
+| [0001-two-sum](https://github.com/Shubham-Singh-Rajpoot/Leetcode-GFG/tree/master/0001-two-sum) |
 | [0016-3sum-closest](https://github.com/Shubham-Singh-Rajpoot/Leetcode-GFG/tree/master/0016-3sum-closest) |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/Shubham-Singh-Rajpoot/Leetcode-GFG/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0027-remove-element](https://github.com/Shubham-Singh-Rajpoot/Leetcode-GFG/tree/master/0027-remove-element) |
