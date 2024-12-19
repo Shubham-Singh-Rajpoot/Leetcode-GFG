@@ -169,6 +169,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0179-largest-number](https://github.com/Shubham-Singh-Rajpoot/Leetcode-GFG/tree/master/0179-largest-number) |
 | [0624-maximum-distance-in-arrays](https://github.com/Shubham-Singh-Rajpoot/Leetcode-GFG/tree/master/0624-maximum-distance-in-arrays) |
 | [0670-maximum-swap](https://github.com/Shubham-Singh-Rajpoot/Leetcode-GFG/tree/master/0670-maximum-swap) |
+| [0780-max-chunks-to-make-sorted](https://github.com/Shubham-Singh-Rajpoot/Leetcode-GFG/tree/master/0780-max-chunks-to-make-sorted) |
 | [0957-minimum-add-to-make-parentheses-valid](https://github.com/Shubham-Singh-Rajpoot/Leetcode-GFG/tree/master/0957-minimum-add-to-make-parentheses-valid) |
 | [1616-minimum-difference-between-largest-and-smallest-value-in-three-moves](https://github.com/Shubham-Singh-Rajpoot/Leetcode-GFG/tree/master/1616-minimum-difference-between-largest-and-smallest-value-in-three-moves) |
 | [1818-maximum-score-from-removing-substrings](https://github.com/Shubham-Singh-Rajpoot/Leetcode-GFG/tree/master/1818-maximum-score-from-removing-substrings) |
@@ -204,6 +205,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0229-majority-element-ii](https://github.com/Shubham-Singh-Rajpoot/Leetcode-GFG/tree/master/0229-majority-element-ii) |
 | [0350-intersection-of-two-arrays-ii](https://github.com/Shubham-Singh-Rajpoot/Leetcode-GFG/tree/master/0350-intersection-of-two-arrays-ii) |
 | [0539-minimum-time-difference](https://github.com/Shubham-Singh-Rajpoot/Leetcode-GFG/tree/master/0539-minimum-time-difference) |
+| [0780-max-chunks-to-make-sorted](https://github.com/Shubham-Singh-Rajpoot/Leetcode-GFG/tree/master/0780-max-chunks-to-make-sorted) |
 | [0948-sort-an-array](https://github.com/Shubham-Singh-Rajpoot/Leetcode-GFG/tree/master/0948-sort-an-array) |
 | [1333-sort-the-jumbled-numbers](https://github.com/Shubham-Singh-Rajpoot/Leetcode-GFG/tree/master/1333-sort-the-jumbled-numbers) |
 | [1468-check-if-n-and-its-double-exist](https://github.com/Shubham-Singh-Rajpoot/Leetcode-GFG/tree/master/1468-check-if-n-and-its-double-exist) |
@@ -398,6 +400,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0539-minimum-time-difference](https://github.com/Shubham-Singh-Rajpoot/Leetcode-GFG/tree/master/0539-minimum-time-difference) |
 | [0624-maximum-distance-in-arrays](https://github.com/Shubham-Singh-Rajpoot/Leetcode-GFG/tree/master/0624-maximum-distance-in-arrays) |
 | [0731-my-calendar-ii](https://github.com/Shubham-Singh-Rajpoot/Leetcode-GFG/tree/master/0731-my-calendar-ii) |
+| [0780-max-chunks-to-make-sorted](https://github.com/Shubham-Singh-Rajpoot/Leetcode-GFG/tree/master/0780-max-chunks-to-make-sorted) |
 | [0787-sliding-puzzle](https://github.com/Shubham-Singh-Rajpoot/Leetcode-GFG/tree/master/0787-sliding-puzzle) |
 | [0870-magic-squares-in-grid](https://github.com/Shubham-Singh-Rajpoot/Leetcode-GFG/tree/master/0870-magic-squares-in-grid) |
 | [0892-shortest-subarray-with-sum-at-least-k](https://github.com/Shubham-Singh-Rajpoot/Leetcode-GFG/tree/master/0892-shortest-subarray-with-sum-at-least-k) |
@@ -570,6 +573,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 |  |
 | ------- |
 | [0085-maximal-rectangle](https://github.com/Shubham-Singh-Rajpoot/Leetcode-GFG/tree/master/0085-maximal-rectangle) |
+| [0780-max-chunks-to-make-sorted](https://github.com/Shubham-Singh-Rajpoot/Leetcode-GFG/tree/master/0780-max-chunks-to-make-sorted) |
 | [0957-minimum-add-to-make-parentheses-valid](https://github.com/Shubham-Singh-Rajpoot/Leetcode-GFG/tree/master/0957-minimum-add-to-make-parentheses-valid) |
 | [1002-maximum-width-ramp](https://github.com/Shubham-Singh-Rajpoot/Leetcode-GFG/tree/master/1002-maximum-width-ramp) |
 | [1197-parsing-a-boolean-expression](https://github.com/Shubham-Singh-Rajpoot/Leetcode-GFG/tree/master/1197-parsing-a-boolean-expression) |
@@ -751,6 +755,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 |  |
 | ------- |
 | [0085-maximal-rectangle](https://github.com/Shubham-Singh-Rajpoot/Leetcode-GFG/tree/master/0085-maximal-rectangle) |
+| [0780-max-chunks-to-make-sorted](https://github.com/Shubham-Singh-Rajpoot/Leetcode-GFG/tree/master/0780-max-chunks-to-make-sorted) |
 | [1002-maximum-width-ramp](https://github.com/Shubham-Singh-Rajpoot/Leetcode-GFG/tree/master/1002-maximum-width-ramp) |
 | [1570-final-prices-with-a-special-discount-in-a-shop](https://github.com/Shubham-Singh-Rajpoot/Leetcode-GFG/tree/master/1570-final-prices-with-a-special-discount-in-a-shop) |
 | [1679-shortest-subarray-to-be-removed-to-make-array-sorted](https://github.com/Shubham-Singh-Rajpoot/Leetcode-GFG/tree/master/1679-shortest-subarray-to-be-removed-to-make-array-sorted) |
