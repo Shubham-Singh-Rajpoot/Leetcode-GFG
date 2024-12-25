@@ -249,6 +249,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 |  |
 | ------- |
 | [0386-lexicographical-numbers](https://github.com/Shubham-Singh-Rajpoot/Leetcode-GFG/tree/master/0386-lexicographical-numbers) |
+| [0515-find-largest-value-in-each-tree-row](https://github.com/Shubham-Singh-Rajpoot/Leetcode-GFG/tree/master/0515-find-largest-value-in-each-tree-row) |
 | [0988-flip-equivalent-binary-trees](https://github.com/Shubham-Singh-Rajpoot/Leetcode-GFG/tree/master/0988-flip-equivalent-binary-trees) |
 | [1005-univalued-binary-tree](https://github.com/Shubham-Singh-Rajpoot/Leetcode-GFG/tree/master/1005-univalued-binary-tree) |
 | [1207-delete-nodes-and-return-forest](https://github.com/Shubham-Singh-Rajpoot/Leetcode-GFG/tree/master/1207-delete-nodes-and-return-forest) |
@@ -264,6 +265,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 ## Breadth-First Search
 |  |
 | ------- |
+| [0515-find-largest-value-in-each-tree-row](https://github.com/Shubham-Singh-Rajpoot/Leetcode-GFG/tree/master/0515-find-largest-value-in-each-tree-row) |
 | [0787-sliding-puzzle](https://github.com/Shubham-Singh-Rajpoot/Leetcode-GFG/tree/master/0787-sliding-puzzle) |
 | [1005-univalued-binary-tree](https://github.com/Shubham-Singh-Rajpoot/Leetcode-GFG/tree/master/1005-univalued-binary-tree) |
 | [1431-all-ancestors-of-a-node-in-a-directed-acyclic-graph](https://github.com/Shubham-Singh-Rajpoot/Leetcode-GFG/tree/master/1431-all-ancestors-of-a-node-in-a-directed-acyclic-graph) |
@@ -604,6 +606,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | ------- |
 | [0105-construct-binary-tree-from-preorder-and-inorder-traversal](https://github.com/Shubham-Singh-Rajpoot/Leetcode-GFG/tree/master/0105-construct-binary-tree-from-preorder-and-inorder-traversal) |
 | [0106-construct-binary-tree-from-inorder-and-postorder-traversal](https://github.com/Shubham-Singh-Rajpoot/Leetcode-GFG/tree/master/0106-construct-binary-tree-from-inorder-and-postorder-traversal) |
+| [0515-find-largest-value-in-each-tree-row](https://github.com/Shubham-Singh-Rajpoot/Leetcode-GFG/tree/master/0515-find-largest-value-in-each-tree-row) |
 | [0789-kth-largest-element-in-a-stream](https://github.com/Shubham-Singh-Rajpoot/Leetcode-GFG/tree/master/0789-kth-largest-element-in-a-stream) |
 | [0988-flip-equivalent-binary-trees](https://github.com/Shubham-Singh-Rajpoot/Leetcode-GFG/tree/master/0988-flip-equivalent-binary-trees) |
 | [1005-univalued-binary-tree](https://github.com/Shubham-Singh-Rajpoot/Leetcode-GFG/tree/master/1005-univalued-binary-tree) |
@@ -622,6 +625,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | ------- |
 | [0105-construct-binary-tree-from-preorder-and-inorder-traversal](https://github.com/Shubham-Singh-Rajpoot/Leetcode-GFG/tree/master/0105-construct-binary-tree-from-preorder-and-inorder-traversal) |
 | [0106-construct-binary-tree-from-inorder-and-postorder-traversal](https://github.com/Shubham-Singh-Rajpoot/Leetcode-GFG/tree/master/0106-construct-binary-tree-from-inorder-and-postorder-traversal) |
+| [0515-find-largest-value-in-each-tree-row](https://github.com/Shubham-Singh-Rajpoot/Leetcode-GFG/tree/master/0515-find-largest-value-in-each-tree-row) |
 | [0789-kth-largest-element-in-a-stream](https://github.com/Shubham-Singh-Rajpoot/Leetcode-GFG/tree/master/0789-kth-largest-element-in-a-stream) |
 | [0988-flip-equivalent-binary-trees](https://github.com/Shubham-Singh-Rajpoot/Leetcode-GFG/tree/master/0988-flip-equivalent-binary-trees) |
 | [1005-univalued-binary-tree](https://github.com/Shubham-Singh-Rajpoot/Leetcode-GFG/tree/master/1005-univalued-binary-tree) |
