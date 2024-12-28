@@ -411,6 +411,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0494-target-sum](https://github.com/Shubham-Singh-Rajpoot/Leetcode-GFG/tree/master/0494-target-sum) |
 | [0539-minimum-time-difference](https://github.com/Shubham-Singh-Rajpoot/Leetcode-GFG/tree/master/0539-minimum-time-difference) |
 | [0624-maximum-distance-in-arrays](https://github.com/Shubham-Singh-Rajpoot/Leetcode-GFG/tree/master/0624-maximum-distance-in-arrays) |
+| [0689-maximum-sum-of-3-non-overlapping-subarrays](https://github.com/Shubham-Singh-Rajpoot/Leetcode-GFG/tree/master/0689-maximum-sum-of-3-non-overlapping-subarrays) |
 | [0731-my-calendar-ii](https://github.com/Shubham-Singh-Rajpoot/Leetcode-GFG/tree/master/0731-my-calendar-ii) |
 | [0780-max-chunks-to-make-sorted](https://github.com/Shubham-Singh-Rajpoot/Leetcode-GFG/tree/master/0780-max-chunks-to-make-sorted) |
 | [0787-sliding-puzzle](https://github.com/Shubham-Singh-Rajpoot/Leetcode-GFG/tree/master/0787-sliding-puzzle) |
@@ -577,6 +578,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0264-ugly-number-ii](https://github.com/Shubham-Singh-Rajpoot/Leetcode-GFG/tree/master/0264-ugly-number-ii) |
 | [0494-target-sum](https://github.com/Shubham-Singh-Rajpoot/Leetcode-GFG/tree/master/0494-target-sum) |
 | [0650-2-keys-keyboard](https://github.com/Shubham-Singh-Rajpoot/Leetcode-GFG/tree/master/0650-2-keys-keyboard) |
+| [0689-maximum-sum-of-3-non-overlapping-subarrays](https://github.com/Shubham-Singh-Rajpoot/Leetcode-GFG/tree/master/0689-maximum-sum-of-3-non-overlapping-subarrays) |
 | [1063-best-sightseeing-pair](https://github.com/Shubham-Singh-Rajpoot/Leetcode-GFG/tree/master/1063-best-sightseeing-pair) |
 | [1196-filling-bookcase-shelves](https://github.com/Shubham-Singh-Rajpoot/Leetcode-GFG/tree/master/1196-filling-bookcase-shelves) |
 | [1240-stone-game-ii](https://github.com/Shubham-Singh-Rajpoot/Leetcode-GFG/tree/master/1240-stone-game-ii) |
