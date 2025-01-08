@@ -391,6 +391,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [3195-separate-black-and-white-balls](https://github.com/Shubham-Singh-Rajpoot/Leetcode-GFG/tree/master/3195-separate-black-and-white-balls) |
 | [3267-find-longest-special-substring-that-occurs-thrice-i](https://github.com/Shubham-Singh-Rajpoot/Leetcode-GFG/tree/master/3267-find-longest-special-substring-that-occurs-thrice-i) |
 | [3276-minimum-number-of-pushes-to-type-word-ii](https://github.com/Shubham-Singh-Rajpoot/Leetcode-GFG/tree/master/3276-minimum-number-of-pushes-to-type-word-ii) |
+| [3309-count-prefix-and-suffix-pairs-i](https://github.com/Shubham-Singh-Rajpoot/Leetcode-GFG/tree/master/3309-count-prefix-and-suffix-pairs-i) |
 | [3329-find-the-length-of-the-longest-common-prefix](https://github.com/Shubham-Singh-Rajpoot/Leetcode-GFG/tree/master/3329-find-the-length-of-the-longest-common-prefix) |
 | [3451-string-compression-iii](https://github.com/Shubham-Singh-Rajpoot/Leetcode-GFG/tree/master/3451-string-compression-iii) |
 ## Array
@@ -493,6 +494,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [2873-prime-pairs-with-target-sum](https://github.com/Shubham-Singh-Rajpoot/Leetcode-GFG/tree/master/2873-prime-pairs-with-target-sum) |
 | [2891-maximum-beauty-of-an-array-after-applying-operation](https://github.com/Shubham-Singh-Rajpoot/Leetcode-GFG/tree/master/2891-maximum-beauty-of-an-array-after-applying-operation) |
 | [3181-find-building-where-alice-and-bob-can-meet](https://github.com/Shubham-Singh-Rajpoot/Leetcode-GFG/tree/master/3181-find-building-where-alice-and-bob-can-meet) |
+| [3309-count-prefix-and-suffix-pairs-i](https://github.com/Shubham-Singh-Rajpoot/Leetcode-GFG/tree/master/3309-count-prefix-and-suffix-pairs-i) |
 | [3329-find-the-length-of-the-longest-common-prefix](https://github.com/Shubham-Singh-Rajpoot/Leetcode-GFG/tree/master/3329-find-the-length-of-the-longest-common-prefix) |
 | [3427-special-array-ii](https://github.com/Shubham-Singh-Rajpoot/Leetcode-GFG/tree/master/3427-special-array-ii) |
 | [3517-shortest-distance-after-road-addition-queries-i](https://github.com/Shubham-Singh-Rajpoot/Leetcode-GFG/tree/master/3517-shortest-distance-after-road-addition-queries-i) |
@@ -801,6 +803,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0386-lexicographical-numbers](https://github.com/Shubham-Singh-Rajpoot/Leetcode-GFG/tree/master/0386-lexicographical-numbers) |
 | [0440-k-th-smallest-in-lexicographical-order](https://github.com/Shubham-Singh-Rajpoot/Leetcode-GFG/tree/master/0440-k-th-smallest-in-lexicographical-order) |
 | [2494-sum-of-prefix-scores-of-strings](https://github.com/Shubham-Singh-Rajpoot/Leetcode-GFG/tree/master/2494-sum-of-prefix-scores-of-strings) |
+| [3309-count-prefix-and-suffix-pairs-i](https://github.com/Shubham-Singh-Rajpoot/Leetcode-GFG/tree/master/3309-count-prefix-and-suffix-pairs-i) |
 | [3329-find-the-length-of-the-longest-common-prefix](https://github.com/Shubham-Singh-Rajpoot/Leetcode-GFG/tree/master/3329-find-the-length-of-the-longest-common-prefix) |
 ## Monotonic Stack
 |  |
@@ -849,4 +852,13 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | ------- |
 | [1524-string-matching-in-an-array](https://github.com/Shubham-Singh-Rajpoot/Leetcode-GFG/tree/master/1524-string-matching-in-an-array) |
 | [1566-check-if-a-word-occurs-as-a-prefix-of-any-word-in-a-sentence](https://github.com/Shubham-Singh-Rajpoot/Leetcode-GFG/tree/master/1566-check-if-a-word-occurs-as-a-prefix-of-any-word-in-a-sentence) |
+| [3309-count-prefix-and-suffix-pairs-i](https://github.com/Shubham-Singh-Rajpoot/Leetcode-GFG/tree/master/3309-count-prefix-and-suffix-pairs-i) |
+## Rolling Hash
+|  |
+| ------- |
+| [3309-count-prefix-and-suffix-pairs-i](https://github.com/Shubham-Singh-Rajpoot/Leetcode-GFG/tree/master/3309-count-prefix-and-suffix-pairs-i) |
+## Hash Function
+|  |
+| ------- |
+| [3309-count-prefix-and-suffix-pairs-i](https://github.com/Shubham-Singh-Rajpoot/Leetcode-GFG/tree/master/3309-count-prefix-and-suffix-pairs-i) |
 <!---LeetCode Topics End-->
