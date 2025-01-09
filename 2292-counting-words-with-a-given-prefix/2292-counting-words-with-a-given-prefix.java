@@ -7,7 +7,7 @@ class Solution {
             StringBuilder str=new  StringBuilder(words[i]);
             if(str.indexOf(pref)==0)
                 ans++;
-            str.delete(0,str.length());
+            //str.delete(0,str.length());
         }
         return ans;
     }
