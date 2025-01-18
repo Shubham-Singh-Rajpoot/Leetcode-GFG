@@ -190,6 +190,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [1325-path-with-maximum-probability](https://github.com/Shubham-Singh-Rajpoot/Leetcode-GFG/tree/master/1325-path-with-maximum-probability) |
 | [1431-all-ancestors-of-a-node-in-a-directed-acyclic-graph](https://github.com/Shubham-Singh-Rajpoot/Leetcode-GFG/tree/master/1431-all-ancestors-of-a-node-in-a-directed-acyclic-graph) |
 | [1456-find-the-city-with-the-smallest-number-of-neighbors-at-a-threshold-distance](https://github.com/Shubham-Singh-Rajpoot/Leetcode-GFG/tree/master/1456-find-the-city-with-the-smallest-number-of-neighbors-at-a-threshold-distance) |
+| [1485-minimum-cost-to-make-at-least-one-valid-path-in-a-grid](https://github.com/Shubham-Singh-Rajpoot/Leetcode-GFG/tree/master/1485-minimum-cost-to-make-at-least-one-valid-path-in-a-grid) |
 | [2201-valid-arrangement-of-pairs](https://github.com/Shubham-Singh-Rajpoot/Leetcode-GFG/tree/master/2201-valid-arrangement-of-pairs) |
 | [2375-minimum-obstacle-removal-to-reach-corner](https://github.com/Shubham-Singh-Rajpoot/Leetcode-GFG/tree/master/2375-minimum-obstacle-removal-to-reach-corner) |
 | [2379-maximum-total-importance-of-roads](https://github.com/Shubham-Singh-Rajpoot/Leetcode-GFG/tree/master/2379-maximum-total-importance-of-roads) |
@@ -234,6 +235,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0892-shortest-subarray-with-sum-at-least-k](https://github.com/Shubham-Singh-Rajpoot/Leetcode-GFG/tree/master/0892-shortest-subarray-with-sum-at-least-k) |
 | [0948-sort-an-array](https://github.com/Shubham-Singh-Rajpoot/Leetcode-GFG/tree/master/0948-sort-an-array) |
 | [1325-path-with-maximum-probability](https://github.com/Shubham-Singh-Rajpoot/Leetcode-GFG/tree/master/1325-path-with-maximum-probability) |
+| [1485-minimum-cost-to-make-at-least-one-valid-path-in-a-grid](https://github.com/Shubham-Singh-Rajpoot/Leetcode-GFG/tree/master/1485-minimum-cost-to-make-at-least-one-valid-path-in-a-grid) |
 | [1917-maximum-average-pass-ratio](https://github.com/Shubham-Singh-Rajpoot/Leetcode-GFG/tree/master/1917-maximum-average-pass-ratio) |
 | [2054-the-number-of-the-smallest-unoccupied-chair](https://github.com/Shubham-Singh-Rajpoot/Leetcode-GFG/tree/master/2054-the-number-of-the-smallest-unoccupied-chair) |
 | [2375-minimum-obstacle-removal-to-reach-corner](https://github.com/Shubham-Singh-Rajpoot/Leetcode-GFG/tree/master/2375-minimum-obstacle-removal-to-reach-corner) |
@@ -271,6 +273,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [1005-univalued-binary-tree](https://github.com/Shubham-Singh-Rajpoot/Leetcode-GFG/tree/master/1005-univalued-binary-tree) |
 | [1431-all-ancestors-of-a-node-in-a-directed-acyclic-graph](https://github.com/Shubham-Singh-Rajpoot/Leetcode-GFG/tree/master/1431-all-ancestors-of-a-node-in-a-directed-acyclic-graph) |
 | [1484-linked-list-in-binary-tree](https://github.com/Shubham-Singh-Rajpoot/Leetcode-GFG/tree/master/1484-linked-list-in-binary-tree) |
+| [1485-minimum-cost-to-make-at-least-one-valid-path-in-a-grid](https://github.com/Shubham-Singh-Rajpoot/Leetcode-GFG/tree/master/1485-minimum-cost-to-make-at-least-one-valid-path-in-a-grid) |
 | [1691-minimum-number-of-days-to-disconnect-island](https://github.com/Shubham-Singh-Rajpoot/Leetcode-GFG/tree/master/1691-minimum-number-of-days-to-disconnect-island) |
 | [2375-minimum-obstacle-removal-to-reach-corner](https://github.com/Shubham-Singh-Rajpoot/Leetcode-GFG/tree/master/2375-minimum-obstacle-removal-to-reach-corner) |
 | [2493-reverse-odd-levels-of-binary-tree](https://github.com/Shubham-Singh-Rajpoot/Leetcode-GFG/tree/master/2493-reverse-odd-levels-of-binary-tree) |
@@ -448,6 +451,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [1333-sort-the-jumbled-numbers](https://github.com/Shubham-Singh-Rajpoot/Leetcode-GFG/tree/master/1333-sort-the-jumbled-numbers) |
 | [1435-xor-queries-of-a-subarray](https://github.com/Shubham-Singh-Rajpoot/Leetcode-GFG/tree/master/1435-xor-queries-of-a-subarray) |
 | [1468-check-if-n-and-its-double-exist](https://github.com/Shubham-Singh-Rajpoot/Leetcode-GFG/tree/master/1468-check-if-n-and-its-double-exist) |
+| [1485-minimum-cost-to-make-at-least-one-valid-path-in-a-grid](https://github.com/Shubham-Singh-Rajpoot/Leetcode-GFG/tree/master/1485-minimum-cost-to-make-at-least-one-valid-path-in-a-grid) |
 | [1496-lucky-numbers-in-a-matrix](https://github.com/Shubham-Singh-Rajpoot/Leetcode-GFG/tree/master/1496-lucky-numbers-in-a-matrix) |
 | [1497-design-a-stack-with-increment-operation](https://github.com/Shubham-Singh-Rajpoot/Leetcode-GFG/tree/master/1497-design-a-stack-with-increment-operation) |
 | [1511-count-number-of-teams](https://github.com/Shubham-Singh-Rajpoot/Leetcode-GFG/tree/master/1511-count-number-of-teams) |
@@ -680,6 +684,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0787-sliding-puzzle](https://github.com/Shubham-Singh-Rajpoot/Leetcode-GFG/tree/master/0787-sliding-puzzle) |
 | [0870-magic-squares-in-grid](https://github.com/Shubham-Singh-Rajpoot/Leetcode-GFG/tree/master/0870-magic-squares-in-grid) |
 | [1147-flip-columns-for-maximum-number-of-equal-rows](https://github.com/Shubham-Singh-Rajpoot/Leetcode-GFG/tree/master/1147-flip-columns-for-maximum-number-of-equal-rows) |
+| [1485-minimum-cost-to-make-at-least-one-valid-path-in-a-grid](https://github.com/Shubham-Singh-Rajpoot/Leetcode-GFG/tree/master/1485-minimum-cost-to-make-at-least-one-valid-path-in-a-grid) |
 | [1496-lucky-numbers-in-a-matrix](https://github.com/Shubham-Singh-Rajpoot/Leetcode-GFG/tree/master/1496-lucky-numbers-in-a-matrix) |
 | [1691-minimum-number-of-days-to-disconnect-island](https://github.com/Shubham-Singh-Rajpoot/Leetcode-GFG/tree/master/1691-minimum-number-of-days-to-disconnect-island) |
 | [1972-rotating-the-box](https://github.com/Shubham-Singh-Rajpoot/Leetcode-GFG/tree/master/1972-rotating-the-box) |
@@ -728,6 +733,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | ------- |
 | [1325-path-with-maximum-probability](https://github.com/Shubham-Singh-Rajpoot/Leetcode-GFG/tree/master/1325-path-with-maximum-probability) |
 | [1456-find-the-city-with-the-smallest-number-of-neighbors-at-a-threshold-distance](https://github.com/Shubham-Singh-Rajpoot/Leetcode-GFG/tree/master/1456-find-the-city-with-the-smallest-number-of-neighbors-at-a-threshold-distance) |
+| [1485-minimum-cost-to-make-at-least-one-valid-path-in-a-grid](https://github.com/Shubham-Singh-Rajpoot/Leetcode-GFG/tree/master/1485-minimum-cost-to-make-at-least-one-valid-path-in-a-grid) |
 | [2375-minimum-obstacle-removal-to-reach-corner](https://github.com/Shubham-Singh-Rajpoot/Leetcode-GFG/tree/master/2375-minimum-obstacle-removal-to-reach-corner) |
 | [2711-minimum-time-to-visit-a-cell-in-a-grid](https://github.com/Shubham-Singh-Rajpoot/Leetcode-GFG/tree/master/2711-minimum-time-to-visit-a-cell-in-a-grid) |
 ## Binary Indexed Tree
