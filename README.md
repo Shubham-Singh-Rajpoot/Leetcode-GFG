@@ -477,6 +477,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [2054-the-number-of-the-smallest-unoccupied-chair](https://github.com/Shubham-Singh-Rajpoot/Leetcode-GFG/tree/master/2054-the-number-of-the-smallest-unoccupied-chair) |
 | [2067-maximum-number-of-points-with-cost](https://github.com/Shubham-Singh-Rajpoot/Leetcode-GFG/tree/master/2067-maximum-number-of-points-with-cost) |
 | [2089-maximum-matrix-sum](https://github.com/Shubham-Singh-Rajpoot/Leetcode-GFG/tree/master/2089-maximum-matrix-sum) |
+| [2145-grid-game](https://github.com/Shubham-Singh-Rajpoot/Leetcode-GFG/tree/master/2145-grid-game) |
 | [2155-find-missing-observations](https://github.com/Shubham-Singh-Rajpoot/Leetcode-GFG/tree/master/2155-find-missing-observations) |
 | [2163-kth-distinct-string-in-an-array](https://github.com/Shubham-Singh-Rajpoot/Leetcode-GFG/tree/master/2163-kth-distinct-string-in-an-array) |
 | [2170-count-number-of-maximum-bitwise-or-subsets](https://github.com/Shubham-Singh-Rajpoot/Leetcode-GFG/tree/master/2170-count-number-of-maximum-bitwise-or-subsets) |
@@ -691,6 +692,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [1691-minimum-number-of-days-to-disconnect-island](https://github.com/Shubham-Singh-Rajpoot/Leetcode-GFG/tree/master/1691-minimum-number-of-days-to-disconnect-island) |
 | [1972-rotating-the-box](https://github.com/Shubham-Singh-Rajpoot/Leetcode-GFG/tree/master/1972-rotating-the-box) |
 | [2089-maximum-matrix-sum](https://github.com/Shubham-Singh-Rajpoot/Leetcode-GFG/tree/master/2089-maximum-matrix-sum) |
+| [2145-grid-game](https://github.com/Shubham-Singh-Rajpoot/Leetcode-GFG/tree/master/2145-grid-game) |
 | [2343-count-unguarded-cells-in-the-grid](https://github.com/Shubham-Singh-Rajpoot/Leetcode-GFG/tree/master/2343-count-unguarded-cells-in-the-grid) |
 | [2375-minimum-obstacle-removal-to-reach-corner](https://github.com/Shubham-Singh-Rajpoot/Leetcode-GFG/tree/master/2375-minimum-obstacle-removal-to-reach-corner) |
 | [2685-first-completely-painted-row-or-column](https://github.com/Shubham-Singh-Rajpoot/Leetcode-GFG/tree/master/2685-first-completely-painted-row-or-column) |
@@ -788,6 +790,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [1895-minimum-number-of-operations-to-move-all-balls-to-each-box](https://github.com/Shubham-Singh-Rajpoot/Leetcode-GFG/tree/master/1895-minimum-number-of-operations-to-move-all-balls-to-each-box) |
 | [1940-maximum-xor-for-each-query](https://github.com/Shubham-Singh-Rajpoot/Leetcode-GFG/tree/master/1940-maximum-xor-for-each-query) |
 | [2059-unique-length-3-palindromic-subsequences](https://github.com/Shubham-Singh-Rajpoot/Leetcode-GFG/tree/master/2059-unique-length-3-palindromic-subsequences) |
+| [2145-grid-game](https://github.com/Shubham-Singh-Rajpoot/Leetcode-GFG/tree/master/2145-grid-game) |
 | [2358-number-of-ways-to-split-array](https://github.com/Shubham-Singh-Rajpoot/Leetcode-GFG/tree/master/2358-number-of-ways-to-split-array) |
 | [2465-shifting-letters-ii](https://github.com/Shubham-Singh-Rajpoot/Leetcode-GFG/tree/master/2465-shifting-letters-ii) |
 | [2488-divide-intervals-into-minimum-number-of-groups](https://github.com/Shubham-Singh-Rajpoot/Leetcode-GFG/tree/master/2488-divide-intervals-into-minimum-number-of-groups) |
