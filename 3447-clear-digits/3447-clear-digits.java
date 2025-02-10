@@ -14,9 +14,9 @@ class Solution {
             else
                 list.add(s.charAt(i));
         }
-        s="";
+        StringBuilder ans=new  StringBuilder();
         for(char ch:list)
-            s+=ch;
-        return s;
+            ans.append(ch);
+        return ans.toString();
     }
 }
