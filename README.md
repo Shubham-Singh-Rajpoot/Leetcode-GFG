@@ -219,6 +219,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [1616-minimum-difference-between-largest-and-smallest-value-in-three-moves](https://github.com/Shubham-Singh-Rajpoot/Leetcode-GFG/tree/master/1616-minimum-difference-between-largest-and-smallest-value-in-three-moves) |
 | [1741-sort-array-by-increasing-frequency](https://github.com/Shubham-Singh-Rajpoot/Leetcode-GFG/tree/master/1741-sort-array-by-increasing-frequency) |
 | [2379-maximum-total-importance-of-roads](https://github.com/Shubham-Singh-Rajpoot/Leetcode-GFG/tree/master/2379-maximum-total-importance-of-roads) |
+| [2473-max-sum-of-a-pair-with-equal-sum-of-digits](https://github.com/Shubham-Singh-Rajpoot/Leetcode-GFG/tree/master/2473-max-sum-of-a-pair-with-equal-sum-of-digits) |
 | [2488-divide-intervals-into-minimum-number-of-groups](https://github.com/Shubham-Singh-Rajpoot/Leetcode-GFG/tree/master/2488-divide-intervals-into-minimum-number-of-groups) |
 | [2502-sort-the-people](https://github.com/Shubham-Singh-Rajpoot/Leetcode-GFG/tree/master/2502-sort-the-people) |
 | [2581-divide-players-into-teams-of-equal-skill](https://github.com/Shubham-Singh-Rajpoot/Leetcode-GFG/tree/master/2581-divide-players-into-teams-of-equal-skill) |
@@ -244,6 +245,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [2375-minimum-obstacle-removal-to-reach-corner](https://github.com/Shubham-Singh-Rajpoot/Leetcode-GFG/tree/master/2375-minimum-obstacle-removal-to-reach-corner) |
 | [2379-maximum-total-importance-of-roads](https://github.com/Shubham-Singh-Rajpoot/Leetcode-GFG/tree/master/2379-maximum-total-importance-of-roads) |
 | [2434-design-a-number-container-system](https://github.com/Shubham-Singh-Rajpoot/Leetcode-GFG/tree/master/2434-design-a-number-container-system) |
+| [2473-max-sum-of-a-pair-with-equal-sum-of-digits](https://github.com/Shubham-Singh-Rajpoot/Leetcode-GFG/tree/master/2473-max-sum-of-a-pair-with-equal-sum-of-digits) |
 | [2488-divide-intervals-into-minimum-number-of-groups](https://github.com/Shubham-Singh-Rajpoot/Leetcode-GFG/tree/master/2488-divide-intervals-into-minimum-number-of-groups) |
 | [2616-maximal-score-after-applying-k-operations](https://github.com/Shubham-Singh-Rajpoot/Leetcode-GFG/tree/master/2616-maximal-score-after-applying-k-operations) |
 | [2692-take-gifts-from-the-richest-pile](https://github.com/Shubham-Singh-Rajpoot/Leetcode-GFG/tree/master/2692-take-gifts-from-the-richest-pile) |
@@ -336,6 +338,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [2306-create-binary-tree-from-descriptions](https://github.com/Shubham-Singh-Rajpoot/Leetcode-GFG/tree/master/2306-create-binary-tree-from-descriptions) |
 | [2434-design-a-number-container-system](https://github.com/Shubham-Singh-Rajpoot/Leetcode-GFG/tree/master/2434-design-a-number-container-system) |
 | [2448-count-number-of-bad-pairs](https://github.com/Shubham-Singh-Rajpoot/Leetcode-GFG/tree/master/2448-count-number-of-bad-pairs) |
+| [2473-max-sum-of-a-pair-with-equal-sum-of-digits](https://github.com/Shubham-Singh-Rajpoot/Leetcode-GFG/tree/master/2473-max-sum-of-a-pair-with-equal-sum-of-digits) |
 | [2502-sort-the-people](https://github.com/Shubham-Singh-Rajpoot/Leetcode-GFG/tree/master/2502-sort-the-people) |
 | [2552-maximum-sum-of-distinct-subarrays-with-length-k](https://github.com/Shubham-Singh-Rajpoot/Leetcode-GFG/tree/master/2552-maximum-sum-of-distinct-subarrays-with-length-k) |
 | [2581-divide-players-into-teams-of-equal-skill](https://github.com/Shubham-Singh-Rajpoot/Leetcode-GFG/tree/master/2581-divide-players-into-teams-of-equal-skill) |
@@ -519,6 +522,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [2375-minimum-obstacle-removal-to-reach-corner](https://github.com/Shubham-Singh-Rajpoot/Leetcode-GFG/tree/master/2375-minimum-obstacle-removal-to-reach-corner) |
 | [2448-count-number-of-bad-pairs](https://github.com/Shubham-Singh-Rajpoot/Leetcode-GFG/tree/master/2448-count-number-of-bad-pairs) |
 | [2465-shifting-letters-ii](https://github.com/Shubham-Singh-Rajpoot/Leetcode-GFG/tree/master/2465-shifting-letters-ii) |
+| [2473-max-sum-of-a-pair-with-equal-sum-of-digits](https://github.com/Shubham-Singh-Rajpoot/Leetcode-GFG/tree/master/2473-max-sum-of-a-pair-with-equal-sum-of-digits) |
 | [2488-divide-intervals-into-minimum-number-of-groups](https://github.com/Shubham-Singh-Rajpoot/Leetcode-GFG/tree/master/2488-divide-intervals-into-minimum-number-of-groups) |
 | [2494-sum-of-prefix-scores-of-strings](https://github.com/Shubham-Singh-Rajpoot/Leetcode-GFG/tree/master/2494-sum-of-prefix-scores-of-strings) |
 | [2502-sort-the-people](https://github.com/Shubham-Singh-Rajpoot/Leetcode-GFG/tree/master/2502-sort-the-people) |
