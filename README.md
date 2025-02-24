@@ -189,6 +189,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 |  |
 | ------- |
 | [0820-find-eventual-safe-states](https://github.com/Shubham-Singh-Rajpoot/Leetcode-GFG/tree/master/0820-find-eventual-safe-states) |
+| [0871-keys-and-rooms](https://github.com/Shubham-Singh-Rajpoot/Leetcode-GFG/tree/master/0871-keys-and-rooms) |
 | [1325-path-with-maximum-probability](https://github.com/Shubham-Singh-Rajpoot/Leetcode-GFG/tree/master/1325-path-with-maximum-probability) |
 | [1431-all-ancestors-of-a-node-in-a-directed-acyclic-graph](https://github.com/Shubham-Singh-Rajpoot/Leetcode-GFG/tree/master/1431-all-ancestors-of-a-node-in-a-directed-acyclic-graph) |
 | [1456-find-the-city-with-the-smallest-number-of-neighbors-at-a-threshold-distance](https://github.com/Shubham-Singh-Rajpoot/Leetcode-GFG/tree/master/1456-find-the-city-with-the-smallest-number-of-neighbors-at-a-threshold-distance) |
@@ -262,6 +263,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0386-lexicographical-numbers](https://github.com/Shubham-Singh-Rajpoot/Leetcode-GFG/tree/master/0386-lexicographical-numbers) |
 | [0515-find-largest-value-in-each-tree-row](https://github.com/Shubham-Singh-Rajpoot/Leetcode-GFG/tree/master/0515-find-largest-value-in-each-tree-row) |
 | [0820-find-eventual-safe-states](https://github.com/Shubham-Singh-Rajpoot/Leetcode-GFG/tree/master/0820-find-eventual-safe-states) |
+| [0871-keys-and-rooms](https://github.com/Shubham-Singh-Rajpoot/Leetcode-GFG/tree/master/0871-keys-and-rooms) |
 | [0988-flip-equivalent-binary-trees](https://github.com/Shubham-Singh-Rajpoot/Leetcode-GFG/tree/master/0988-flip-equivalent-binary-trees) |
 | [1005-univalued-binary-tree](https://github.com/Shubham-Singh-Rajpoot/Leetcode-GFG/tree/master/1005-univalued-binary-tree) |
 | [1093-recover-a-tree-from-preorder-traversal](https://github.com/Shubham-Singh-Rajpoot/Leetcode-GFG/tree/master/1093-recover-a-tree-from-preorder-traversal) |
@@ -284,6 +286,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0515-find-largest-value-in-each-tree-row](https://github.com/Shubham-Singh-Rajpoot/Leetcode-GFG/tree/master/0515-find-largest-value-in-each-tree-row) |
 | [0787-sliding-puzzle](https://github.com/Shubham-Singh-Rajpoot/Leetcode-GFG/tree/master/0787-sliding-puzzle) |
 | [0820-find-eventual-safe-states](https://github.com/Shubham-Singh-Rajpoot/Leetcode-GFG/tree/master/0820-find-eventual-safe-states) |
+| [0871-keys-and-rooms](https://github.com/Shubham-Singh-Rajpoot/Leetcode-GFG/tree/master/0871-keys-and-rooms) |
 | [1005-univalued-binary-tree](https://github.com/Shubham-Singh-Rajpoot/Leetcode-GFG/tree/master/1005-univalued-binary-tree) |
 | [1387-find-elements-in-a-contaminated-binary-tree](https://github.com/Shubham-Singh-Rajpoot/Leetcode-GFG/tree/master/1387-find-elements-in-a-contaminated-binary-tree) |
 | [1396-count-servers-that-communicate](https://github.com/Shubham-Singh-Rajpoot/Leetcode-GFG/tree/master/1396-count-servers-that-communicate) |
