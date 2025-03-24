@@ -233,6 +233,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [2891-maximum-beauty-of-an-array-after-applying-operation](https://github.com/Shubham-Singh-Rajpoot/Leetcode-GFG/tree/master/2891-maximum-beauty-of-an-array-after-applying-operation) |
 | [3219-make-lexicographically-smallest-array-by-swapping-elements](https://github.com/Shubham-Singh-Rajpoot/Leetcode-GFG/tree/master/3219-make-lexicographically-smallest-array-by-swapping-elements) |
 | [3276-minimum-number-of-pushes-to-type-word-ii](https://github.com/Shubham-Singh-Rajpoot/Leetcode-GFG/tree/master/3276-minimum-number-of-pushes-to-type-word-ii) |
+| [3430-count-days-without-meetings](https://github.com/Shubham-Singh-Rajpoot/Leetcode-GFG/tree/master/3430-count-days-without-meetings) |
 ## Heap (Priority Queue)
 |  |
 | ------- |
@@ -586,6 +587,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [3332-minimum-operations-to-exceed-threshold-value-ii](https://github.com/Shubham-Singh-Rajpoot/Leetcode-GFG/tree/master/3332-minimum-operations-to-exceed-threshold-value-ii) |
 | [3372-longest-strictly-increasing-or-strictly-decreasing-subarray](https://github.com/Shubham-Singh-Rajpoot/Leetcode-GFG/tree/master/3372-longest-strictly-increasing-or-strictly-decreasing-subarray) |
 | [3427-special-array-ii](https://github.com/Shubham-Singh-Rajpoot/Leetcode-GFG/tree/master/3427-special-array-ii) |
+| [3430-count-days-without-meetings](https://github.com/Shubham-Singh-Rajpoot/Leetcode-GFG/tree/master/3430-count-days-without-meetings) |
 | [3434-find-the-number-of-distinct-colors-among-the-balls](https://github.com/Shubham-Singh-Rajpoot/Leetcode-GFG/tree/master/3434-find-the-number-of-distinct-colors-among-the-balls) |
 | [3483-alternating-groups-ii](https://github.com/Shubham-Singh-Rajpoot/Leetcode-GFG/tree/master/3483-alternating-groups-ii) |
 | [3517-shortest-distance-after-road-addition-queries-i](https://github.com/Shubham-Singh-Rajpoot/Leetcode-GFG/tree/master/3517-shortest-distance-after-road-addition-queries-i) |
