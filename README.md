@@ -392,6 +392,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [1951-find-the-winner-of-the-circular-game](https://github.com/Shubham-Singh-Rajpoot/Leetcode-GFG/tree/master/1951-find-the-winner-of-the-circular-game) |
 | [2050-count-good-numbers](https://github.com/Shubham-Singh-Rajpoot/Leetcode-GFG/tree/master/2050-count-good-numbers) |
 | [2155-find-missing-observations](https://github.com/Shubham-Singh-Rajpoot/Leetcode-GFG/tree/master/2155-find-missing-observations) |
+| [2415-count-the-number-of-ideal-arrays](https://github.com/Shubham-Singh-Rajpoot/Leetcode-GFG/tree/master/2415-count-the-number-of-ideal-arrays) |
 | [2448-count-number-of-bad-pairs](https://github.com/Shubham-Singh-Rajpoot/Leetcode-GFG/tree/master/2448-count-number-of-bad-pairs) |
 | [2645-pass-the-pillow](https://github.com/Shubham-Singh-Rajpoot/Leetcode-GFG/tree/master/2645-pass-the-pillow) |
 | [2649-count-total-number-of-colored-cells](https://github.com/Shubham-Singh-Rajpoot/Leetcode-GFG/tree/master/2649-count-total-number-of-colored-cells) |
@@ -731,6 +732,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [1756-minimum-deletions-to-make-string-balanced](https://github.com/Shubham-Singh-Rajpoot/Leetcode-GFG/tree/master/1756-minimum-deletions-to-make-string-balanced) |
 | [1849-maximum-absolute-sum-of-any-subarray](https://github.com/Shubham-Singh-Rajpoot/Leetcode-GFG/tree/master/1849-maximum-absolute-sum-of-any-subarray) |
 | [2067-maximum-number-of-points-with-cost](https://github.com/Shubham-Singh-Rajpoot/Leetcode-GFG/tree/master/2067-maximum-number-of-points-with-cost) |
+| [2415-count-the-number-of-ideal-arrays](https://github.com/Shubham-Singh-Rajpoot/Leetcode-GFG/tree/master/2415-count-the-number-of-ideal-arrays) |
 | [2562-count-ways-to-build-good-strings](https://github.com/Shubham-Singh-Rajpoot/Leetcode-GFG/tree/master/2562-count-ways-to-build-good-strings) |
 | [2586-longest-square-streak-in-an-array](https://github.com/Shubham-Singh-Rajpoot/Leetcode-GFG/tree/master/2586-longest-square-streak-in-an-array) |
 | [3243-count-the-number-of-powerful-integers](https://github.com/Shubham-Singh-Rajpoot/Leetcode-GFG/tree/master/3243-count-the-number-of-powerful-integers) |
@@ -957,6 +959,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 ## Number Theory
 |  |
 | ------- |
+| [2415-count-the-number-of-ideal-arrays](https://github.com/Shubham-Singh-Rajpoot/Leetcode-GFG/tree/master/2415-count-the-number-of-ideal-arrays) |
 | [2716-prime-subtraction-operation](https://github.com/Shubham-Singh-Rajpoot/Leetcode-GFG/tree/master/2716-prime-subtraction-operation) |
 | [2873-prime-pairs-with-target-sum](https://github.com/Shubham-Singh-Rajpoot/Leetcode-GFG/tree/master/2873-prime-pairs-with-target-sum) |
 | [2903-insert-greatest-common-divisors-in-linked-list](https://github.com/Shubham-Singh-Rajpoot/Leetcode-GFG/tree/master/2903-insert-greatest-common-divisors-in-linked-list) |
@@ -1045,5 +1048,6 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 ## Combinatorics
 |  |
 | ------- |
+| [2415-count-the-number-of-ideal-arrays](https://github.com/Shubham-Singh-Rajpoot/Leetcode-GFG/tree/master/2415-count-the-number-of-ideal-arrays) |
 | [3548-find-the-count-of-good-integers](https://github.com/Shubham-Singh-Rajpoot/Leetcode-GFG/tree/master/3548-find-the-count-of-good-integers) |
 <!---LeetCode Topics End-->
