@@ -419,6 +419,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0564-find-the-closest-palindrome](https://github.com/Shubham-Singh-Rajpoot/Leetcode-GFG/tree/master/0564-find-the-closest-palindrome) |
 | [0567-permutation-in-string](https://github.com/Shubham-Singh-Rajpoot/Leetcode-GFG/tree/master/0567-permutation-in-string) |
 | [0782-jewels-and-stones](https://github.com/Shubham-Singh-Rajpoot/Leetcode-GFG/tree/master/0782-jewels-and-stones) |
+| [0868-push-dominoes](https://github.com/Shubham-Singh-Rajpoot/Leetcode-GFG/tree/master/0868-push-dominoes) |
 | [0920-uncommon-words-from-two-sentences](https://github.com/Shubham-Singh-Rajpoot/Leetcode-GFG/tree/master/0920-uncommon-words-from-two-sentences) |
 | [0952-word-subsets](https://github.com/Shubham-Singh-Rajpoot/Leetcode-GFG/tree/master/0952-word-subsets) |
 | [0957-minimum-add-to-make-parentheses-valid](https://github.com/Shubham-Singh-Rajpoot/Leetcode-GFG/tree/master/0957-minimum-add-to-make-parentheses-valid) |
@@ -625,6 +626,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0088-merge-sorted-array](https://github.com/Shubham-Singh-Rajpoot/Leetcode-GFG/tree/master/0088-merge-sorted-array) |
 | [0350-intersection-of-two-arrays-ii](https://github.com/Shubham-Singh-Rajpoot/Leetcode-GFG/tree/master/0350-intersection-of-two-arrays-ii) |
 | [0567-permutation-in-string](https://github.com/Shubham-Singh-Rajpoot/Leetcode-GFG/tree/master/0567-permutation-in-string) |
+| [0868-push-dominoes](https://github.com/Shubham-Singh-Rajpoot/Leetcode-GFG/tree/master/0868-push-dominoes) |
 | [1468-check-if-n-and-its-double-exist](https://github.com/Shubham-Singh-Rajpoot/Leetcode-GFG/tree/master/1468-check-if-n-and-its-double-exist) |
 | [1566-check-if-a-word-occurs-as-a-prefix-of-any-word-in-a-sentence](https://github.com/Shubham-Singh-Rajpoot/Leetcode-GFG/tree/master/1566-check-if-a-word-occurs-as-a-prefix-of-any-word-in-a-sentence) |
 | [1615-range-sum-of-sorted-subarray-sums](https://github.com/Shubham-Singh-Rajpoot/Leetcode-GFG/tree/master/1615-range-sum-of-sorted-subarray-sums) |
@@ -727,6 +729,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0494-target-sum](https://github.com/Shubham-Singh-Rajpoot/Leetcode-GFG/tree/master/0494-target-sum) |
 | [0650-2-keys-keyboard](https://github.com/Shubham-Singh-Rajpoot/Leetcode-GFG/tree/master/0650-2-keys-keyboard) |
 | [0689-maximum-sum-of-3-non-overlapping-subarrays](https://github.com/Shubham-Singh-Rajpoot/Leetcode-GFG/tree/master/0689-maximum-sum-of-3-non-overlapping-subarrays) |
+| [0868-push-dominoes](https://github.com/Shubham-Singh-Rajpoot/Leetcode-GFG/tree/master/0868-push-dominoes) |
 | [1025-minimum-cost-for-tickets](https://github.com/Shubham-Singh-Rajpoot/Leetcode-GFG/tree/master/1025-minimum-cost-for-tickets) |
 | [1063-best-sightseeing-pair](https://github.com/Shubham-Singh-Rajpoot/Leetcode-GFG/tree/master/1063-best-sightseeing-pair) |
 | [1170-shortest-common-supersequence](https://github.com/Shubham-Singh-Rajpoot/Leetcode-GFG/tree/master/1170-shortest-common-supersequence) |
