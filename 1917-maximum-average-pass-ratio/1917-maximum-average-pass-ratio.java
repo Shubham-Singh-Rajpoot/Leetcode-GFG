@@ -1,35 +1,29 @@
 class Solution {
-    public static double nextPassRatioDiff(double pass, double total){
-        return (pass + 1) / (total + 1) - (pass / total);
-    }
-
-
     public double maxAverageRatio(int[][] classes, int extraStudents) {
-        int n = classes.length;
-        PriorityQueue<double[] > maxHeap = new PriorityQueue<>((a, b) -> Double.compare(b[0], a[0]));
-        //entry = {nextPassRatioDiff, pass, total}
-        for(int[] arr: classes){
-            int pass = arr[0];
-            int total = arr[1];
-            double next = nextPassRatioDiff(pass, total);
-            maxHeap.offer(new double[]{next, pass, total});
+        PriorityQueue<double[]> pq=new  PriorityQueue<>((a,b)->Double.compare(b[0],a[0]));
+        for(int i=0;i<classes.length;i++)
+        {
+            double ar[]=new  double[3];
+            ar[1]=classes[i][0];
+            ar[2]=classes[i][1];
+            ar[0]=((ar[1]+1)/(ar[2]+1))-ar[1]/ar[2];
+            pq.offer(ar);
         }
-        while(extraStudents > 0){
-            double[] top= maxHeap.poll();
-            double pass = top[1] + 1;
-            double total = top[2] + 1;
-            double next = nextPassRatioDiff(pass, total);
-            maxHeap.offer(new double[]{next, pass, total});
-            extraStudents--;
+        for(int i=1;i<=extraStudents;i++)
+        {
+            double ar[]=pq.poll();
+            ar[1]+=1.0;
+            ar[2]+=1.0;
+            ar[0]=((ar[1]+1)/(ar[2]+1))-ar[1]/ar[2];
+            pq.offer(ar);
         }
-        double totalPassRatio = 0;
-        while(!maxHeap.isEmpty()){
-            double[] arr = maxHeap.poll();
-            double pass = arr[1];
-            double total = arr[2];
-            totalPassRatio += (pass / total);
+        double ans=0;
+        while(!pq.isEmpty())
+        {
+            double ar[]=pq.poll();
+            ans+=(ar[1]/ar[2]);
         }
-        return totalPassRatio / n;
+        ans/=classes.length;
+        return ans;
     }
-
 }
