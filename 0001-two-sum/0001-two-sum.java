@@ -15,6 +15,8 @@ class Solution
                     break;
                 }
             }
+            if(j!=nums.length)
+                break;
         }
         return ans;
     }
