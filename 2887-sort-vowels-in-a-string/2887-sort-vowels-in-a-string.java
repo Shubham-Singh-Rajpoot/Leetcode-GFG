@@ -1,33 +1,35 @@
 class Solution {
-    public String sortVowels(String s) {
-        ArrayList<Integer> indexes=new  ArrayList<>();
-        String vowels="AEIOUaeiou";
-        int cnt[]=new int[10];
-        ArrayList<Character> cons=new  ArrayList<>();
+    public String sortVowels(String s)
+    {
+        HashSet<Character> set=new  HashSet<>();
+        set.add('a');
+        set.add('e');
+        set.add('i');
+        set.add('o');
+        set.add('u');
+        set.add('A');
+        set.add('E');
+        set.add('I');
+        set.add('O');
+        set.add('U');
+        StringBuilder str=new  StringBuilder();
+        for(int i=0;i<s.length();i++)
+            if(set.contains(s.charAt(i)))
+                str.append(s.charAt(i));
+        char vow[]=str.toString().toCharArray();
+        Arrays.sort(vow);
+        int curr=0;
+        StringBuilder ans=new  StringBuilder();
         for(int i=0;i<s.length();i++)
         {
-            if(vowels.indexOf(s.charAt(i))!=-1)
+            if(set.contains(s.charAt(i)))
             {
-                indexes.add(i);
-                cnt[vowels.indexOf(s.charAt(i))]++;
+                ans.append(vow[curr]);
+                curr++;
             }
             else
-                cons.add(s.charAt(i));
+                ans.append(s.charAt(i));
         }
-        StringBuilder str=new  StringBuilder();
-        int curr=0;
-        while(indexes.size()!=0)
-        {
-            while(cnt[curr]==0)
-                curr++;
-            while(str.length()<indexes.get(0))
-                str.append(cons.remove(0));
-            str.append(vowels.charAt(curr));
-            cnt[curr]--;
-            indexes.remove(0);
-        }
-        while(cons.size()!=0)
-            str.append(cons.remove(0));
-        return str.toString();
+        return ans.toString();
     }
 }
