@@ -709,6 +709,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [2265-partition-array-according-to-given-pivot](https://github.com/Shubham-Singh-Rajpoot/Leetcode-GFG/tree/master/2265-partition-array-according-to-given-pivot) |
 | [2299-merge-nodes-in-between-zeros](https://github.com/Shubham-Singh-Rajpoot/Leetcode-GFG/tree/master/2299-merge-nodes-in-between-zeros) |
 | [2343-count-unguarded-cells-in-the-grid](https://github.com/Shubham-Singh-Rajpoot/Leetcode-GFG/tree/master/2343-count-unguarded-cells-in-the-grid) |
+| [2408-number-of-people-aware-of-a-secret](https://github.com/Shubham-Singh-Rajpoot/Leetcode-GFG/tree/master/2408-number-of-people-aware-of-a-secret) |
 | [2645-pass-the-pillow](https://github.com/Shubham-Singh-Rajpoot/Leetcode-GFG/tree/master/2645-pass-the-pillow) |
 | [2692-take-gifts-from-the-richest-pile](https://github.com/Shubham-Singh-Rajpoot/Leetcode-GFG/tree/master/2692-take-gifts-from-the-richest-pile) |
 | [2695-find-score-of-an-array-after-marking-all-elements](https://github.com/Shubham-Singh-Rajpoot/Leetcode-GFG/tree/master/2695-find-score-of-an-array-after-marking-all-elements) |
@@ -733,6 +734,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | ------- |
 | [0892-shortest-subarray-with-sum-at-least-k](https://github.com/Shubham-Singh-Rajpoot/Leetcode-GFG/tree/master/0892-shortest-subarray-with-sum-at-least-k) |
 | [1951-find-the-winner-of-the-circular-game](https://github.com/Shubham-Singh-Rajpoot/Leetcode-GFG/tree/master/1951-find-the-winner-of-the-circular-game) |
+| [2408-number-of-people-aware-of-a-secret](https://github.com/Shubham-Singh-Rajpoot/Leetcode-GFG/tree/master/2408-number-of-people-aware-of-a-secret) |
 | [2527-count-subarrays-with-fixed-bounds](https://github.com/Shubham-Singh-Rajpoot/Leetcode-GFG/tree/master/2527-count-subarrays-with-fixed-bounds) |
 | [2868-continuous-subarrays](https://github.com/Shubham-Singh-Rajpoot/Leetcode-GFG/tree/master/2868-continuous-subarrays) |
 ## Dynamic Programming
@@ -762,6 +764,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [1756-minimum-deletions-to-make-string-balanced](https://github.com/Shubham-Singh-Rajpoot/Leetcode-GFG/tree/master/1756-minimum-deletions-to-make-string-balanced) |
 | [1849-maximum-absolute-sum-of-any-subarray](https://github.com/Shubham-Singh-Rajpoot/Leetcode-GFG/tree/master/1849-maximum-absolute-sum-of-any-subarray) |
 | [2067-maximum-number-of-points-with-cost](https://github.com/Shubham-Singh-Rajpoot/Leetcode-GFG/tree/master/2067-maximum-number-of-points-with-cost) |
+| [2408-number-of-people-aware-of-a-secret](https://github.com/Shubham-Singh-Rajpoot/Leetcode-GFG/tree/master/2408-number-of-people-aware-of-a-secret) |
 | [2415-count-the-number-of-ideal-arrays](https://github.com/Shubham-Singh-Rajpoot/Leetcode-GFG/tree/master/2415-count-the-number-of-ideal-arrays) |
 | [2562-count-ways-to-build-good-strings](https://github.com/Shubham-Singh-Rajpoot/Leetcode-GFG/tree/master/2562-count-ways-to-build-good-strings) |
 | [2586-longest-square-streak-in-an-array](https://github.com/Shubham-Singh-Rajpoot/Leetcode-GFG/tree/master/2586-longest-square-streak-in-an-array) |
