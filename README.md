@@ -526,6 +526,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0539-minimum-time-difference](https://github.com/Shubham-Singh-Rajpoot/Leetcode-GFG/tree/master/0539-minimum-time-difference) |
 | [0624-maximum-distance-in-arrays](https://github.com/Shubham-Singh-Rajpoot/Leetcode-GFG/tree/master/0624-maximum-distance-in-arrays) |
 | [0689-maximum-sum-of-3-non-overlapping-subarrays](https://github.com/Shubham-Singh-Rajpoot/Leetcode-GFG/tree/master/0689-maximum-sum-of-3-non-overlapping-subarrays) |
+| [0717-1-bit-and-2-bit-characters](https://github.com/Shubham-Singh-Rajpoot/Leetcode-GFG/tree/master/0717-1-bit-and-2-bit-characters) |
 | [0731-my-calendar-ii](https://github.com/Shubham-Singh-Rajpoot/Leetcode-GFG/tree/master/0731-my-calendar-ii) |
 | [0780-max-chunks-to-make-sorted](https://github.com/Shubham-Singh-Rajpoot/Leetcode-GFG/tree/master/0780-max-chunks-to-make-sorted) |
 | [0787-sliding-puzzle](https://github.com/Shubham-Singh-Rajpoot/Leetcode-GFG/tree/master/0787-sliding-puzzle) |
