@@ -472,6 +472,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [2095-minimum-number-of-swaps-to-make-the-string-balanced](https://github.com/Shubham-Singh-Rajpoot/Leetcode-GFG/tree/master/2095-minimum-number-of-swaps-to-make-the-string-balanced) |
 | [2107-find-unique-binary-string](https://github.com/Shubham-Singh-Rajpoot/Leetcode-GFG/tree/master/2107-find-unique-binary-string) |
 | [2163-kth-distinct-string-in-an-array](https://github.com/Shubham-Singh-Rajpoot/Leetcode-GFG/tree/master/2163-kth-distinct-string-in-an-array) |
+| [2211-count-collisions-on-a-road](https://github.com/Shubham-Singh-Rajpoot/Leetcode-GFG/tree/master/2211-count-collisions-on-a-road) |
 | [2217-step-by-step-directions-from-a-binary-tree-node-to-another](https://github.com/Shubham-Singh-Rajpoot/Leetcode-GFG/tree/master/2217-step-by-step-directions-from-a-binary-tree-node-to-another) |
 | [2232-adding-spaces-to-a-string](https://github.com/Shubham-Singh-Rajpoot/Leetcode-GFG/tree/master/2232-adding-spaces-to-a-string) |
 | [2244-number-of-laser-beams-in-a-bank](https://github.com/Shubham-Singh-Rajpoot/Leetcode-GFG/tree/master/2244-number-of-laser-beams-in-a-bank) |
@@ -733,6 +734,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [1951-find-the-winner-of-the-circular-game](https://github.com/Shubham-Singh-Rajpoot/Leetcode-GFG/tree/master/1951-find-the-winner-of-the-circular-game) |
 | [2021-remove-all-occurrences-of-a-substring](https://github.com/Shubham-Singh-Rajpoot/Leetcode-GFG/tree/master/2021-remove-all-occurrences-of-a-substring) |
 | [2155-find-missing-observations](https://github.com/Shubham-Singh-Rajpoot/Leetcode-GFG/tree/master/2155-find-missing-observations) |
+| [2211-count-collisions-on-a-road](https://github.com/Shubham-Singh-Rajpoot/Leetcode-GFG/tree/master/2211-count-collisions-on-a-road) |
 | [2232-adding-spaces-to-a-string](https://github.com/Shubham-Singh-Rajpoot/Leetcode-GFG/tree/master/2232-adding-spaces-to-a-string) |
 | [2265-partition-array-according-to-given-pivot](https://github.com/Shubham-Singh-Rajpoot/Leetcode-GFG/tree/master/2265-partition-array-according-to-given-pivot) |
 | [2274-keep-multiplying-found-values-by-two](https://github.com/Shubham-Singh-Rajpoot/Leetcode-GFG/tree/master/2274-keep-multiplying-found-values-by-two) |
@@ -818,6 +820,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [1818-maximum-score-from-removing-substrings](https://github.com/Shubham-Singh-Rajpoot/Leetcode-GFG/tree/master/1818-maximum-score-from-removing-substrings) |
 | [2021-remove-all-occurrences-of-a-substring](https://github.com/Shubham-Singh-Rajpoot/Leetcode-GFG/tree/master/2021-remove-all-occurrences-of-a-substring) |
 | [2095-minimum-number-of-swaps-to-make-the-string-balanced](https://github.com/Shubham-Singh-Rajpoot/Leetcode-GFG/tree/master/2095-minimum-number-of-swaps-to-make-the-string-balanced) |
+| [2211-count-collisions-on-a-road](https://github.com/Shubham-Singh-Rajpoot/Leetcode-GFG/tree/master/2211-count-collisions-on-a-road) |
 | [2456-construct-smallest-number-from-di-string](https://github.com/Shubham-Singh-Rajpoot/Leetcode-GFG/tree/master/2456-construct-smallest-number-from-di-string) |
 | [2800-minimum-string-length-after-removing-substrings](https://github.com/Shubham-Singh-Rajpoot/Leetcode-GFG/tree/master/2800-minimum-string-length-after-removing-substrings) |
 | [2846-robot-collisions](https://github.com/Shubham-Singh-Rajpoot/Leetcode-GFG/tree/master/2846-robot-collisions) |
