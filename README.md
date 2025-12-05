@@ -423,6 +423,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [2873-prime-pairs-with-target-sum](https://github.com/Shubham-Singh-Rajpoot/Leetcode-GFG/tree/master/2873-prime-pairs-with-target-sum) |
 | [2903-insert-greatest-common-divisors-in-linked-list](https://github.com/Shubham-Singh-Rajpoot/Leetcode-GFG/tree/master/2903-insert-greatest-common-divisors-in-linked-list) |
 | [3243-count-the-number-of-powerful-integers](https://github.com/Shubham-Singh-Rajpoot/Leetcode-GFG/tree/master/3243-count-the-number-of-powerful-integers) |
+| [3432-count-partitions-with-even-sum-difference](https://github.com/Shubham-Singh-Rajpoot/Leetcode-GFG/tree/master/3432-count-partitions-with-even-sum-difference) |
 | [3548-find-the-count-of-good-integers](https://github.com/Shubham-Singh-Rajpoot/Leetcode-GFG/tree/master/3548-find-the-count-of-good-integers) |
 | [3555-final-array-state-after-k-multiplication-operations-i](https://github.com/Shubham-Singh-Rajpoot/Leetcode-GFG/tree/master/3555-final-array-state-after-k-multiplication-operations-i) |
 | [3581-the-two-sneaky-numbers-of-digitville](https://github.com/Shubham-Singh-Rajpoot/Leetcode-GFG/tree/master/3581-the-two-sneaky-numbers-of-digitville) |
@@ -650,6 +651,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [3372-longest-strictly-increasing-or-strictly-decreasing-subarray](https://github.com/Shubham-Singh-Rajpoot/Leetcode-GFG/tree/master/3372-longest-strictly-increasing-or-strictly-decreasing-subarray) |
 | [3427-special-array-ii](https://github.com/Shubham-Singh-Rajpoot/Leetcode-GFG/tree/master/3427-special-array-ii) |
 | [3430-count-days-without-meetings](https://github.com/Shubham-Singh-Rajpoot/Leetcode-GFG/tree/master/3430-count-days-without-meetings) |
+| [3432-count-partitions-with-even-sum-difference](https://github.com/Shubham-Singh-Rajpoot/Leetcode-GFG/tree/master/3432-count-partitions-with-even-sum-difference) |
 | [3434-find-the-number-of-distinct-colors-among-the-balls](https://github.com/Shubham-Singh-Rajpoot/Leetcode-GFG/tree/master/3434-find-the-number-of-distinct-colors-among-the-balls) |
 | [3483-alternating-groups-ii](https://github.com/Shubham-Singh-Rajpoot/Leetcode-GFG/tree/master/3483-alternating-groups-ii) |
 | [3501-delete-nodes-from-linked-list-present-in-array](https://github.com/Shubham-Singh-Rajpoot/Leetcode-GFG/tree/master/3501-delete-nodes-from-linked-list-present-in-array) |
@@ -1004,6 +1006,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [2488-divide-intervals-into-minimum-number-of-groups](https://github.com/Shubham-Singh-Rajpoot/Leetcode-GFG/tree/master/2488-divide-intervals-into-minimum-number-of-groups) |
 | [2691-count-vowel-strings-in-ranges](https://github.com/Shubham-Singh-Rajpoot/Leetcode-GFG/tree/master/2691-count-vowel-strings-in-ranges) |
 | [3427-special-array-ii](https://github.com/Shubham-Singh-Rajpoot/Leetcode-GFG/tree/master/3427-special-array-ii) |
+| [3432-count-partitions-with-even-sum-difference](https://github.com/Shubham-Singh-Rajpoot/Leetcode-GFG/tree/master/3432-count-partitions-with-even-sum-difference) |
 | [3616-make-array-elements-equal-to-zero](https://github.com/Shubham-Singh-Rajpoot/Leetcode-GFG/tree/master/3616-make-array-elements-equal-to-zero) |
 | [3643-zero-array-transformation-ii](https://github.com/Shubham-Singh-Rajpoot/Leetcode-GFG/tree/master/3643-zero-array-transformation-ii) |
 | [3647-zero-array-transformation-iii](https://github.com/Shubham-Singh-Rajpoot/Leetcode-GFG/tree/master/3647-zero-array-transformation-iii) |
