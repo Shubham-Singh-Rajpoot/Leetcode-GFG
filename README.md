@@ -427,6 +427,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [3432-count-partitions-with-even-sum-difference](https://github.com/Shubham-Singh-Rajpoot/Leetcode-GFG/tree/master/3432-count-partitions-with-even-sum-difference) |
 | [3548-find-the-count-of-good-integers](https://github.com/Shubham-Singh-Rajpoot/Leetcode-GFG/tree/master/3548-find-the-count-of-good-integers) |
 | [3555-final-array-state-after-k-multiplication-operations-i](https://github.com/Shubham-Singh-Rajpoot/Leetcode-GFG/tree/master/3555-final-array-state-after-k-multiplication-operations-i) |
+| [3577-count-the-number-of-computer-unlocking-permutations](https://github.com/Shubham-Singh-Rajpoot/Leetcode-GFG/tree/master/3577-count-the-number-of-computer-unlocking-permutations) |
 | [3581-the-two-sneaky-numbers-of-digitville](https://github.com/Shubham-Singh-Rajpoot/Leetcode-GFG/tree/master/3581-the-two-sneaky-numbers-of-digitville) |
 | [3637-count-number-of-balanced-permutations](https://github.com/Shubham-Singh-Rajpoot/Leetcode-GFG/tree/master/3637-count-number-of-balanced-permutations) |
 | [3676-smallest-number-with-all-set-bits](https://github.com/Shubham-Singh-Rajpoot/Leetcode-GFG/tree/master/3676-smallest-number-with-all-set-bits) |
@@ -659,6 +660,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [3501-delete-nodes-from-linked-list-present-in-array](https://github.com/Shubham-Singh-Rajpoot/Leetcode-GFG/tree/master/3501-delete-nodes-from-linked-list-present-in-array) |
 | [3517-shortest-distance-after-road-addition-queries-i](https://github.com/Shubham-Singh-Rajpoot/Leetcode-GFG/tree/master/3517-shortest-distance-after-road-addition-queries-i) |
 | [3555-final-array-state-after-k-multiplication-operations-i](https://github.com/Shubham-Singh-Rajpoot/Leetcode-GFG/tree/master/3555-final-array-state-after-k-multiplication-operations-i) |
+| [3577-count-the-number-of-computer-unlocking-permutations](https://github.com/Shubham-Singh-Rajpoot/Leetcode-GFG/tree/master/3577-count-the-number-of-computer-unlocking-permutations) |
 | [3581-the-two-sneaky-numbers-of-digitville](https://github.com/Shubham-Singh-Rajpoot/Leetcode-GFG/tree/master/3581-the-two-sneaky-numbers-of-digitville) |
 | [3616-make-array-elements-equal-to-zero](https://github.com/Shubham-Singh-Rajpoot/Leetcode-GFG/tree/master/3616-make-array-elements-equal-to-zero) |
 | [3621-minimum-operations-to-make-array-values-equal-to-k](https://github.com/Shubham-Singh-Rajpoot/Leetcode-GFG/tree/master/3621-minimum-operations-to-make-array-values-equal-to-k) |
@@ -1048,6 +1050,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | ------- |
 | [2503-longest-subarray-with-maximum-bitwise-and](https://github.com/Shubham-Singh-Rajpoot/Leetcode-GFG/tree/master/2503-longest-subarray-with-maximum-bitwise-and) |
 | [2533-bitwise-xor-of-all-pairings](https://github.com/Shubham-Singh-Rajpoot/Leetcode-GFG/tree/master/2533-bitwise-xor-of-all-pairings) |
+| [3577-count-the-number-of-computer-unlocking-permutations](https://github.com/Shubham-Singh-Rajpoot/Leetcode-GFG/tree/master/3577-count-the-number-of-computer-unlocking-permutations) |
 ## Trie
 |  |
 | ------- |
@@ -1132,6 +1135,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | ------- |
 | [2415-count-the-number-of-ideal-arrays](https://github.com/Shubham-Singh-Rajpoot/Leetcode-GFG/tree/master/2415-count-the-number-of-ideal-arrays) |
 | [3548-find-the-count-of-good-integers](https://github.com/Shubham-Singh-Rajpoot/Leetcode-GFG/tree/master/3548-find-the-count-of-good-integers) |
+| [3577-count-the-number-of-computer-unlocking-permutations](https://github.com/Shubham-Singh-Rajpoot/Leetcode-GFG/tree/master/3577-count-the-number-of-computer-unlocking-permutations) |
 | [3637-count-number-of-balanced-permutations](https://github.com/Shubham-Singh-Rajpoot/Leetcode-GFG/tree/master/3637-count-number-of-balanced-permutations) |
 | [3768-check-if-digits-are-equal-in-string-after-operations-i](https://github.com/Shubham-Singh-Rajpoot/Leetcode-GFG/tree/master/3768-check-if-digits-are-equal-in-string-after-operations-i) |
 <!---LeetCode Topics End-->
