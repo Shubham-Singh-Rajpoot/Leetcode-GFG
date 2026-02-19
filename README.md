@@ -450,6 +450,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0539-minimum-time-difference](https://github.com/Shubham-Singh-Rajpoot/Leetcode-GFG/tree/master/0539-minimum-time-difference) |
 | [0564-find-the-closest-palindrome](https://github.com/Shubham-Singh-Rajpoot/Leetcode-GFG/tree/master/0564-find-the-closest-palindrome) |
 | [0567-permutation-in-string](https://github.com/Shubham-Singh-Rajpoot/Leetcode-GFG/tree/master/0567-permutation-in-string) |
+| [0696-count-binary-substrings](https://github.com/Shubham-Singh-Rajpoot/Leetcode-GFG/tree/master/0696-count-binary-substrings) |
 | [0782-jewels-and-stones](https://github.com/Shubham-Singh-Rajpoot/Leetcode-GFG/tree/master/0782-jewels-and-stones) |
 | [0868-push-dominoes](https://github.com/Shubham-Singh-Rajpoot/Leetcode-GFG/tree/master/0868-push-dominoes) |
 | [0920-uncommon-words-from-two-sentences](https://github.com/Shubham-Singh-Rajpoot/Leetcode-GFG/tree/master/0920-uncommon-words-from-two-sentences) |
@@ -688,6 +689,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0088-merge-sorted-array](https://github.com/Shubham-Singh-Rajpoot/Leetcode-GFG/tree/master/0088-merge-sorted-array) |
 | [0350-intersection-of-two-arrays-ii](https://github.com/Shubham-Singh-Rajpoot/Leetcode-GFG/tree/master/0350-intersection-of-two-arrays-ii) |
 | [0567-permutation-in-string](https://github.com/Shubham-Singh-Rajpoot/Leetcode-GFG/tree/master/0567-permutation-in-string) |
+| [0696-count-binary-substrings](https://github.com/Shubham-Singh-Rajpoot/Leetcode-GFG/tree/master/0696-count-binary-substrings) |
 | [0868-push-dominoes](https://github.com/Shubham-Singh-Rajpoot/Leetcode-GFG/tree/master/0868-push-dominoes) |
 | [1468-check-if-n-and-its-double-exist](https://github.com/Shubham-Singh-Rajpoot/Leetcode-GFG/tree/master/1468-check-if-n-and-its-double-exist) |
 | [1566-check-if-a-word-occurs-as-a-prefix-of-any-word-in-a-sentence](https://github.com/Shubham-Singh-Rajpoot/Leetcode-GFG/tree/master/1566-check-if-a-word-occurs-as-a-prefix-of-any-word-in-a-sentence) |
