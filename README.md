@@ -1113,6 +1113,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 ## Enumeration
 |  |
 | ------- |
+| [1291-sequential-digits](https://github.com/Shubham-Singh-Rajpoot/Leetcode-GFG/tree/master/1291-sequential-digits) |
 | [1925-count-square-sum-triples](https://github.com/Shubham-Singh-Rajpoot/Leetcode-GFG/tree/master/1925-count-square-sum-triples) |
 | [2170-count-number-of-maximum-bitwise-or-subsets](https://github.com/Shubham-Singh-Rajpoot/Leetcode-GFG/tree/master/2170-count-number-of-maximum-bitwise-or-subsets) |
 | [2873-prime-pairs-with-target-sum](https://github.com/Shubham-Singh-Rajpoot/Leetcode-GFG/tree/master/2873-prime-pairs-with-target-sum) |
