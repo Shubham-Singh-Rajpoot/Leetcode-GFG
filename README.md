@@ -240,6 +240,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [2846-robot-collisions](https://github.com/Shubham-Singh-Rajpoot/Leetcode-GFG/tree/master/2846-robot-collisions) |
 | [2887-sort-vowels-in-a-string](https://github.com/Shubham-Singh-Rajpoot/Leetcode-GFG/tree/master/2887-sort-vowels-in-a-string) |
 | [2891-maximum-beauty-of-an-array-after-applying-operation](https://github.com/Shubham-Singh-Rajpoot/Leetcode-GFG/tree/master/2891-maximum-beauty-of-an-array-after-applying-operation) |
+| [2996-smallest-missing-integer-greater-than-sequential-prefix-sum](https://github.com/Shubham-Singh-Rajpoot/Leetcode-GFG/tree/master/2996-smallest-missing-integer-greater-than-sequential-prefix-sum) |
 | [3219-make-lexicographically-smallest-array-by-swapping-elements](https://github.com/Shubham-Singh-Rajpoot/Leetcode-GFG/tree/master/3219-make-lexicographically-smallest-array-by-swapping-elements) |
 | [3276-minimum-number-of-pushes-to-type-word-ii](https://github.com/Shubham-Singh-Rajpoot/Leetcode-GFG/tree/master/3276-minimum-number-of-pushes-to-type-word-ii) |
 | [3430-count-days-without-meetings](https://github.com/Shubham-Singh-Rajpoot/Leetcode-GFG/tree/master/3430-count-days-without-meetings) |
@@ -381,6 +382,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [2695-find-score-of-an-array-after-marking-all-elements](https://github.com/Shubham-Singh-Rajpoot/Leetcode-GFG/tree/master/2695-find-score-of-an-array-after-marking-all-elements) |
 | [2707-merge-two-2d-arrays-by-summing-values](https://github.com/Shubham-Singh-Rajpoot/Leetcode-GFG/tree/master/2707-merge-two-2d-arrays-by-summing-values) |
 | [2766-find-the-prefix-common-array-of-two-arrays](https://github.com/Shubham-Singh-Rajpoot/Leetcode-GFG/tree/master/2766-find-the-prefix-common-array-of-two-arrays) |
+| [2996-smallest-missing-integer-greater-than-sequential-prefix-sum](https://github.com/Shubham-Singh-Rajpoot/Leetcode-GFG/tree/master/2996-smallest-missing-integer-greater-than-sequential-prefix-sum) |
 | [3267-find-longest-special-substring-that-occurs-thrice-i](https://github.com/Shubham-Singh-Rajpoot/Leetcode-GFG/tree/master/3267-find-longest-special-substring-that-occurs-thrice-i) |
 | [3276-minimum-number-of-pushes-to-type-word-ii](https://github.com/Shubham-Singh-Rajpoot/Leetcode-GFG/tree/master/3276-minimum-number-of-pushes-to-type-word-ii) |
 | [3329-find-the-length-of-the-longest-common-prefix](https://github.com/Shubham-Singh-Rajpoot/Leetcode-GFG/tree/master/3329-find-the-length-of-the-longest-common-prefix) |
@@ -655,6 +657,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [2868-continuous-subarrays](https://github.com/Shubham-Singh-Rajpoot/Leetcode-GFG/tree/master/2868-continuous-subarrays) |
 | [2873-prime-pairs-with-target-sum](https://github.com/Shubham-Singh-Rajpoot/Leetcode-GFG/tree/master/2873-prime-pairs-with-target-sum) |
 | [2891-maximum-beauty-of-an-array-after-applying-operation](https://github.com/Shubham-Singh-Rajpoot/Leetcode-GFG/tree/master/2891-maximum-beauty-of-an-array-after-applying-operation) |
+| [2996-smallest-missing-integer-greater-than-sequential-prefix-sum](https://github.com/Shubham-Singh-Rajpoot/Leetcode-GFG/tree/master/2996-smallest-missing-integer-greater-than-sequential-prefix-sum) |
 | [3152-maximum-value-of-an-ordered-triplet-ii](https://github.com/Shubham-Singh-Rajpoot/Leetcode-GFG/tree/master/3152-maximum-value-of-an-ordered-triplet-ii) |
 | [3154-maximum-value-of-an-ordered-triplet-i](https://github.com/Shubham-Singh-Rajpoot/Leetcode-GFG/tree/master/3154-maximum-value-of-an-ordered-triplet-i) |
 | [3181-find-building-where-alice-and-bob-can-meet](https://github.com/Shubham-Singh-Rajpoot/Leetcode-GFG/tree/master/3181-find-building-where-alice-and-bob-can-meet) |
