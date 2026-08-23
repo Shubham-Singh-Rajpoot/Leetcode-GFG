@@ -176,6 +176,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [1616-minimum-difference-between-largest-and-smallest-value-in-three-moves](https://github.com/Shubham-Singh-Rajpoot/Leetcode-GFG/tree/master/1616-minimum-difference-between-largest-and-smallest-value-in-three-moves) |
 | [1818-maximum-score-from-removing-substrings](https://github.com/Shubham-Singh-Rajpoot/Leetcode-GFG/tree/master/1818-maximum-score-from-removing-substrings) |
 | [1917-maximum-average-pass-ratio](https://github.com/Shubham-Singh-Rajpoot/Leetcode-GFG/tree/master/1917-maximum-average-pass-ratio) |
+| [1927-sum-game](https://github.com/Shubham-Singh-Rajpoot/Leetcode-GFG/tree/master/1927-sum-game) |
 | [2089-maximum-matrix-sum](https://github.com/Shubham-Singh-Rajpoot/Leetcode-GFG/tree/master/2089-maximum-matrix-sum) |
 | [2095-minimum-number-of-swaps-to-make-the-string-balanced](https://github.com/Shubham-Singh-Rajpoot/Leetcode-GFG/tree/master/2095-minimum-number-of-swaps-to-make-the-string-balanced) |
 | [2379-maximum-total-importance-of-roads](https://github.com/Shubham-Singh-Rajpoot/Leetcode-GFG/tree/master/2379-maximum-total-importance-of-roads) |
@@ -420,6 +421,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [1642-water-bottles](https://github.com/Shubham-Singh-Rajpoot/Leetcode-GFG/tree/master/1642-water-bottles) |
 | [1817-calculate-money-in-leetcode-bank](https://github.com/Shubham-Singh-Rajpoot/Leetcode-GFG/tree/master/1817-calculate-money-in-leetcode-bank) |
 | [1925-count-square-sum-triples](https://github.com/Shubham-Singh-Rajpoot/Leetcode-GFG/tree/master/1925-count-square-sum-triples) |
+| [1927-sum-game](https://github.com/Shubham-Singh-Rajpoot/Leetcode-GFG/tree/master/1927-sum-game) |
 | [1951-find-the-winner-of-the-circular-game](https://github.com/Shubham-Singh-Rajpoot/Leetcode-GFG/tree/master/1951-find-the-winner-of-the-circular-game) |
 | [2050-count-good-numbers](https://github.com/Shubham-Singh-Rajpoot/Leetcode-GFG/tree/master/2050-count-good-numbers) |
 | [2110-number-of-smooth-descent-periods-of-a-stock](https://github.com/Shubham-Singh-Rajpoot/Leetcode-GFG/tree/master/2110-number-of-smooth-descent-periods-of-a-stock) |
@@ -480,6 +482,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [1895-minimum-number-of-operations-to-move-all-balls-to-each-box](https://github.com/Shubham-Singh-Rajpoot/Leetcode-GFG/tree/master/1895-minimum-number-of-operations-to-move-all-balls-to-each-box) |
 | [1915-check-if-one-string-swap-can-make-strings-equal](https://github.com/Shubham-Singh-Rajpoot/Leetcode-GFG/tree/master/1915-check-if-one-string-swap-can-make-strings-equal) |
 | [1923-sentence-similarity-iii](https://github.com/Shubham-Singh-Rajpoot/Leetcode-GFG/tree/master/1923-sentence-similarity-iii) |
+| [1927-sum-game](https://github.com/Shubham-Singh-Rajpoot/Leetcode-GFG/tree/master/1927-sum-game) |
 | [2021-remove-all-occurrences-of-a-substring](https://github.com/Shubham-Singh-Rajpoot/Leetcode-GFG/tree/master/2021-remove-all-occurrences-of-a-substring) |
 | [2059-unique-length-3-palindromic-subsequences](https://github.com/Shubham-Singh-Rajpoot/Leetcode-GFG/tree/master/2059-unique-length-3-palindromic-subsequences) |
 | [2095-minimum-number-of-swaps-to-make-the-string-balanced](https://github.com/Shubham-Singh-Rajpoot/Leetcode-GFG/tree/master/2095-minimum-number-of-swaps-to-make-the-string-balanced) |
@@ -1049,6 +1052,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | ------- |
 | [1240-stone-game-ii](https://github.com/Shubham-Singh-Rajpoot/Leetcode-GFG/tree/master/1240-stone-game-ii) |
 | [1510-stone-game-iv](https://github.com/Shubham-Singh-Rajpoot/Leetcode-GFG/tree/master/1510-stone-game-iv) |
+| [1927-sum-game](https://github.com/Shubham-Singh-Rajpoot/Leetcode-GFG/tree/master/1927-sum-game) |
 ## Bit Manipulation
 |  |
 | ------- |
