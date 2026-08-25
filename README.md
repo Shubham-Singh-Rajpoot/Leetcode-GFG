@@ -395,6 +395,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [3569-count-of-substrings-containing-every-vowel-and-k-consonants-ii](https://github.com/Shubham-Singh-Rajpoot/Leetcode-GFG/tree/master/3569-count-of-substrings-containing-every-vowel-and-k-consonants-ii) |
 | [3581-the-two-sneaky-numbers-of-digitville](https://github.com/Shubham-Singh-Rajpoot/Leetcode-GFG/tree/master/3581-the-two-sneaky-numbers-of-digitville) |
 | [3621-minimum-operations-to-make-array-values-equal-to-k](https://github.com/Shubham-Singh-Rajpoot/Leetcode-GFG/tree/master/3621-minimum-operations-to-make-array-values-equal-to-k) |
+| [3718-smallest-missing-multiple-of-k](https://github.com/Shubham-Singh-Rajpoot/Leetcode-GFG/tree/master/3718-smallest-missing-multiple-of-k) |
 | [3872-find-most-frequent-vowel-and-consonant](https://github.com/Shubham-Singh-Rajpoot/Leetcode-GFG/tree/master/3872-find-most-frequent-vowel-and-consonant) |
 ## Math
 |  |
@@ -689,6 +690,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [3637-trionic-array-i](https://github.com/Shubham-Singh-Rajpoot/Leetcode-GFG/tree/master/3637-trionic-array-i) |
 | [3643-zero-array-transformation-ii](https://github.com/Shubham-Singh-Rajpoot/Leetcode-GFG/tree/master/3643-zero-array-transformation-ii) |
 | [3647-zero-array-transformation-iii](https://github.com/Shubham-Singh-Rajpoot/Leetcode-GFG/tree/master/3647-zero-array-transformation-iii) |
+| [3718-smallest-missing-multiple-of-k](https://github.com/Shubham-Singh-Rajpoot/Leetcode-GFG/tree/master/3718-smallest-missing-multiple-of-k) |
 ## Two Pointers
 |  |
 | ------- |
