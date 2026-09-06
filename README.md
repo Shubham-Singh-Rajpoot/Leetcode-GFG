@@ -455,6 +455,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0013-roman-to-integer](https://github.com/Shubham-Singh-Rajpoot/Leetcode-GFG/tree/master/0013-roman-to-integer) |
 | [0038-count-and-say](https://github.com/Shubham-Singh-Rajpoot/Leetcode-GFG/tree/master/0038-count-and-say) |
 | [0091-decode-ways](https://github.com/Shubham-Singh-Rajpoot/Leetcode-GFG/tree/master/0091-decode-ways) |
+| [0115-distinct-subsequences](https://github.com/Shubham-Singh-Rajpoot/Leetcode-GFG/tree/master/0115-distinct-subsequences) |
 | [0179-largest-number](https://github.com/Shubham-Singh-Rajpoot/Leetcode-GFG/tree/master/0179-largest-number) |
 | [0273-integer-to-english-words](https://github.com/Shubham-Singh-Rajpoot/Leetcode-GFG/tree/master/0273-integer-to-english-words) |
 | [0383-ransom-note](https://github.com/Shubham-Singh-Rajpoot/Leetcode-GFG/tree/master/0383-ransom-note) |
@@ -816,6 +817,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0055-jump-game](https://github.com/Shubham-Singh-Rajpoot/Leetcode-GFG/tree/master/0055-jump-game) |
 | [0085-maximal-rectangle](https://github.com/Shubham-Singh-Rajpoot/Leetcode-GFG/tree/master/0085-maximal-rectangle) |
 | [0091-decode-ways](https://github.com/Shubham-Singh-Rajpoot/Leetcode-GFG/tree/master/0091-decode-ways) |
+| [0115-distinct-subsequences](https://github.com/Shubham-Singh-Rajpoot/Leetcode-GFG/tree/master/0115-distinct-subsequences) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/Shubham-Singh-Rajpoot/Leetcode-GFG/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0152-maximum-product-subarray](https://github.com/Shubham-Singh-Rajpoot/Leetcode-GFG/tree/master/0152-maximum-product-subarray) |
 | [0264-ugly-number-ii](https://github.com/Shubham-Singh-Rajpoot/Leetcode-GFG/tree/master/0264-ugly-number-ii) |
