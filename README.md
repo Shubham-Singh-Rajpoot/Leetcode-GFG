@@ -447,6 +447,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [3637-count-number-of-balanced-permutations](https://github.com/Shubham-Singh-Rajpoot/Leetcode-GFG/tree/master/3637-count-number-of-balanced-permutations) |
 | [3676-smallest-number-with-all-set-bits](https://github.com/Shubham-Singh-Rajpoot/Leetcode-GFG/tree/master/3676-smallest-number-with-all-set-bits) |
 | [3768-check-if-digits-are-equal-in-string-after-operations-i](https://github.com/Shubham-Singh-Rajpoot/Leetcode-GFG/tree/master/3768-check-if-digits-are-equal-in-string-after-operations-i) |
+| [3870-count-commas-in-range](https://github.com/Shubham-Singh-Rajpoot/Leetcode-GFG/tree/master/3870-count-commas-in-range) |
 | [3876-construct-uniform-parity-array-ii](https://github.com/Shubham-Singh-Rajpoot/Leetcode-GFG/tree/master/3876-construct-uniform-parity-array-ii) |
 ## String
 |  |
