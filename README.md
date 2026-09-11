@@ -391,6 +391,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [3329-find-the-length-of-the-longest-common-prefix](https://github.com/Shubham-Singh-Rajpoot/Leetcode-GFG/tree/master/3329-find-the-length-of-the-longest-common-prefix) |
 | [3434-find-the-number-of-distinct-colors-among-the-balls](https://github.com/Shubham-Singh-Rajpoot/Leetcode-GFG/tree/master/3434-find-the-number-of-distinct-colors-among-the-balls) |
 | [3455-minimum-length-of-string-after-operations](https://github.com/Shubham-Singh-Rajpoot/Leetcode-GFG/tree/master/3455-minimum-length-of-string-after-operations) |
+| [3483-unique-3-digit-even-numbers](https://github.com/Shubham-Singh-Rajpoot/Leetcode-GFG/tree/master/3483-unique-3-digit-even-numbers) |
 | [3501-delete-nodes-from-linked-list-present-in-array](https://github.com/Shubham-Singh-Rajpoot/Leetcode-GFG/tree/master/3501-delete-nodes-from-linked-list-present-in-array) |
 | [3548-find-the-count-of-good-integers](https://github.com/Shubham-Singh-Rajpoot/Leetcode-GFG/tree/master/3548-find-the-count-of-good-integers) |
 | [3568-minimum-moves-to-clean-the-classroom](https://github.com/Shubham-Singh-Rajpoot/Leetcode-GFG/tree/master/3568-minimum-moves-to-clean-the-classroom) |
@@ -687,6 +688,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [3432-count-partitions-with-even-sum-difference](https://github.com/Shubham-Singh-Rajpoot/Leetcode-GFG/tree/master/3432-count-partitions-with-even-sum-difference) |
 | [3434-find-the-number-of-distinct-colors-among-the-balls](https://github.com/Shubham-Singh-Rajpoot/Leetcode-GFG/tree/master/3434-find-the-number-of-distinct-colors-among-the-balls) |
 | [3483-alternating-groups-ii](https://github.com/Shubham-Singh-Rajpoot/Leetcode-GFG/tree/master/3483-alternating-groups-ii) |
+| [3483-unique-3-digit-even-numbers](https://github.com/Shubham-Singh-Rajpoot/Leetcode-GFG/tree/master/3483-unique-3-digit-even-numbers) |
 | [3501-delete-nodes-from-linked-list-present-in-array](https://github.com/Shubham-Singh-Rajpoot/Leetcode-GFG/tree/master/3501-delete-nodes-from-linked-list-present-in-array) |
 | [3517-shortest-distance-after-road-addition-queries-i](https://github.com/Shubham-Singh-Rajpoot/Leetcode-GFG/tree/master/3517-shortest-distance-after-road-addition-queries-i) |
 | [3555-final-array-state-after-k-multiplication-operations-i](https://github.com/Shubham-Singh-Rajpoot/Leetcode-GFG/tree/master/3555-final-array-state-after-k-multiplication-operations-i) |
@@ -804,6 +806,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [1667-find-kth-bit-in-nth-binary-string](https://github.com/Shubham-Singh-Rajpoot/Leetcode-GFG/tree/master/1667-find-kth-bit-in-nth-binary-string) |
 | [1951-find-the-winner-of-the-circular-game](https://github.com/Shubham-Singh-Rajpoot/Leetcode-GFG/tree/master/1951-find-the-winner-of-the-circular-game) |
 | [2050-count-good-numbers](https://github.com/Shubham-Singh-Rajpoot/Leetcode-GFG/tree/master/2050-count-good-numbers) |
+| [3483-unique-3-digit-even-numbers](https://github.com/Shubham-Singh-Rajpoot/Leetcode-GFG/tree/master/3483-unique-3-digit-even-numbers) |
 ## Queue
 |  |
 | ------- |
@@ -1154,6 +1157,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [1925-count-square-sum-triples](https://github.com/Shubham-Singh-Rajpoot/Leetcode-GFG/tree/master/1925-count-square-sum-triples) |
 | [2170-count-number-of-maximum-bitwise-or-subsets](https://github.com/Shubham-Singh-Rajpoot/Leetcode-GFG/tree/master/2170-count-number-of-maximum-bitwise-or-subsets) |
 | [2873-prime-pairs-with-target-sum](https://github.com/Shubham-Singh-Rajpoot/Leetcode-GFG/tree/master/2873-prime-pairs-with-target-sum) |
+| [3483-unique-3-digit-even-numbers](https://github.com/Shubham-Singh-Rajpoot/Leetcode-GFG/tree/master/3483-unique-3-digit-even-numbers) |
 | [3548-find-the-count-of-good-integers](https://github.com/Shubham-Singh-Rajpoot/Leetcode-GFG/tree/master/3548-find-the-count-of-good-integers) |
 ## Monotonic Queue
 |  |
