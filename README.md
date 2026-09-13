@@ -562,6 +562,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0759-set-intersection-size-at-least-two](https://github.com/Shubham-Singh-Rajpoot/Leetcode-GFG/tree/master/0759-set-intersection-size-at-least-two) |
 | [0780-max-chunks-to-make-sorted](https://github.com/Shubham-Singh-Rajpoot/Leetcode-GFG/tree/master/0780-max-chunks-to-make-sorted) |
 | [0787-sliding-puzzle](https://github.com/Shubham-Singh-Rajpoot/Leetcode-GFG/tree/master/0787-sliding-puzzle) |
+| [0835-image-overlap](https://github.com/Shubham-Singh-Rajpoot/Leetcode-GFG/tree/master/0835-image-overlap) |
 | [0840-magic-squares-in-grid](https://github.com/Shubham-Singh-Rajpoot/Leetcode-GFG/tree/master/0840-magic-squares-in-grid) |
 | [0870-magic-squares-in-grid](https://github.com/Shubham-Singh-Rajpoot/Leetcode-GFG/tree/master/0870-magic-squares-in-grid) |
 | [0892-shortest-subarray-with-sum-at-least-k](https://github.com/Shubham-Singh-Rajpoot/Leetcode-GFG/tree/master/0892-shortest-subarray-with-sum-at-least-k) |
@@ -924,6 +925,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0073-set-matrix-zeroes](https://github.com/Shubham-Singh-Rajpoot/Leetcode-GFG/tree/master/0073-set-matrix-zeroes) |
 | [0085-maximal-rectangle](https://github.com/Shubham-Singh-Rajpoot/Leetcode-GFG/tree/master/0085-maximal-rectangle) |
 | [0787-sliding-puzzle](https://github.com/Shubham-Singh-Rajpoot/Leetcode-GFG/tree/master/0787-sliding-puzzle) |
+| [0835-image-overlap](https://github.com/Shubham-Singh-Rajpoot/Leetcode-GFG/tree/master/0835-image-overlap) |
 | [0840-magic-squares-in-grid](https://github.com/Shubham-Singh-Rajpoot/Leetcode-GFG/tree/master/0840-magic-squares-in-grid) |
 | [0870-magic-squares-in-grid](https://github.com/Shubham-Singh-Rajpoot/Leetcode-GFG/tree/master/0870-magic-squares-in-grid) |
 | [1147-flip-columns-for-maximum-number-of-equal-rows](https://github.com/Shubham-Singh-Rajpoot/Leetcode-GFG/tree/master/1147-flip-columns-for-maximum-number-of-equal-rows) |
