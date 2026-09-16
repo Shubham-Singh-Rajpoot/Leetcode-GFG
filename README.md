@@ -422,6 +422,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [1477-product-of-the-last-k-numbers](https://github.com/Shubham-Singh-Rajpoot/Leetcode-GFG/tree/master/1477-product-of-the-last-k-numbers) |
 | [1500-count-largest-group](https://github.com/Shubham-Singh-Rajpoot/Leetcode-GFG/tree/master/1500-count-largest-group) |
 | [1510-stone-game-iv](https://github.com/Shubham-Singh-Rajpoot/Leetcode-GFG/tree/master/1510-stone-game-iv) |
+| [1621-number-of-sets-of-k-non-overlapping-line-segments](https://github.com/Shubham-Singh-Rajpoot/Leetcode-GFG/tree/master/1621-number-of-sets-of-k-non-overlapping-line-segments) |
 | [1631-number-of-sub-arrays-with-odd-sum](https://github.com/Shubham-Singh-Rajpoot/Leetcode-GFG/tree/master/1631-number-of-sub-arrays-with-odd-sum) |
 | [1642-water-bottles](https://github.com/Shubham-Singh-Rajpoot/Leetcode-GFG/tree/master/1642-water-bottles) |
 | [1817-calculate-money-in-leetcode-bank](https://github.com/Shubham-Singh-Rajpoot/Leetcode-GFG/tree/master/1817-calculate-money-in-leetcode-bank) |
@@ -845,6 +846,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [1456-find-the-city-with-the-smallest-number-of-neighbors-at-a-threshold-distance](https://github.com/Shubham-Singh-Rajpoot/Leetcode-GFG/tree/master/1456-find-the-city-with-the-smallest-number-of-neighbors-at-a-threshold-distance) |
 | [1510-stone-game-iv](https://github.com/Shubham-Singh-Rajpoot/Leetcode-GFG/tree/master/1510-stone-game-iv) |
 | [1511-count-number-of-teams](https://github.com/Shubham-Singh-Rajpoot/Leetcode-GFG/tree/master/1511-count-number-of-teams) |
+| [1621-number-of-sets-of-k-non-overlapping-line-segments](https://github.com/Shubham-Singh-Rajpoot/Leetcode-GFG/tree/master/1621-number-of-sets-of-k-non-overlapping-line-segments) |
 | [1631-number-of-sub-arrays-with-odd-sum](https://github.com/Shubham-Singh-Rajpoot/Leetcode-GFG/tree/master/1631-number-of-sub-arrays-with-odd-sum) |
 | [1756-minimum-deletions-to-make-string-balanced](https://github.com/Shubham-Singh-Rajpoot/Leetcode-GFG/tree/master/1756-minimum-deletions-to-make-string-balanced) |
 | [1849-maximum-absolute-sum-of-any-subarray](https://github.com/Shubham-Singh-Rajpoot/Leetcode-GFG/tree/master/1849-maximum-absolute-sum-of-any-subarray) |
@@ -1059,6 +1061,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [1473-find-the-longest-substring-containing-vowels-in-even-counts](https://github.com/Shubham-Singh-Rajpoot/Leetcode-GFG/tree/master/1473-find-the-longest-substring-containing-vowels-in-even-counts) |
 | [1477-product-of-the-last-k-numbers](https://github.com/Shubham-Singh-Rajpoot/Leetcode-GFG/tree/master/1477-product-of-the-last-k-numbers) |
 | [1537-maximum-score-after-splitting-a-string](https://github.com/Shubham-Singh-Rajpoot/Leetcode-GFG/tree/master/1537-maximum-score-after-splitting-a-string) |
+| [1621-number-of-sets-of-k-non-overlapping-line-segments](https://github.com/Shubham-Singh-Rajpoot/Leetcode-GFG/tree/master/1621-number-of-sets-of-k-non-overlapping-line-segments) |
 | [1631-number-of-sub-arrays-with-odd-sum](https://github.com/Shubham-Singh-Rajpoot/Leetcode-GFG/tree/master/1631-number-of-sub-arrays-with-odd-sum) |
 | [1895-minimum-number-of-operations-to-move-all-balls-to-each-box](https://github.com/Shubham-Singh-Rajpoot/Leetcode-GFG/tree/master/1895-minimum-number-of-operations-to-move-all-balls-to-each-box) |
 | [1940-maximum-xor-for-each-query](https://github.com/Shubham-Singh-Rajpoot/Leetcode-GFG/tree/master/1940-maximum-xor-for-each-query) |
@@ -1198,6 +1201,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 ## Combinatorics
 |  |
 | ------- |
+| [1621-number-of-sets-of-k-non-overlapping-line-segments](https://github.com/Shubham-Singh-Rajpoot/Leetcode-GFG/tree/master/1621-number-of-sets-of-k-non-overlapping-line-segments) |
 | [2415-count-the-number-of-ideal-arrays](https://github.com/Shubham-Singh-Rajpoot/Leetcode-GFG/tree/master/2415-count-the-number-of-ideal-arrays) |
 | [3116-kth-smallest-amount-with-single-denomination-combination](https://github.com/Shubham-Singh-Rajpoot/Leetcode-GFG/tree/master/3116-kth-smallest-amount-with-single-denomination-combination) |
 | [3548-find-the-count-of-good-integers](https://github.com/Shubham-Singh-Rajpoot/Leetcode-GFG/tree/master/3548-find-the-count-of-good-integers) |
