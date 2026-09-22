@@ -448,6 +448,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [3243-count-the-number-of-powerful-integers](https://github.com/Shubham-Singh-Rajpoot/Leetcode-GFG/tree/master/3243-count-the-number-of-powerful-integers) |
 | [3432-count-partitions-with-even-sum-difference](https://github.com/Shubham-Singh-Rajpoot/Leetcode-GFG/tree/master/3432-count-partitions-with-even-sum-difference) |
 | [3524-find-x-value-of-array-i](https://github.com/Shubham-Singh-Rajpoot/Leetcode-GFG/tree/master/3524-find-x-value-of-array-i) |
+| [3525-find-x-value-of-array-ii](https://github.com/Shubham-Singh-Rajpoot/Leetcode-GFG/tree/master/3525-find-x-value-of-array-ii) |
 | [3548-find-the-count-of-good-integers](https://github.com/Shubham-Singh-Rajpoot/Leetcode-GFG/tree/master/3548-find-the-count-of-good-integers) |
 | [3555-final-array-state-after-k-multiplication-operations-i](https://github.com/Shubham-Singh-Rajpoot/Leetcode-GFG/tree/master/3555-final-array-state-after-k-multiplication-operations-i) |
 | [3577-count-the-number-of-computer-unlocking-permutations](https://github.com/Shubham-Singh-Rajpoot/Leetcode-GFG/tree/master/3577-count-the-number-of-computer-unlocking-permutations) |
@@ -703,6 +704,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [3501-delete-nodes-from-linked-list-present-in-array](https://github.com/Shubham-Singh-Rajpoot/Leetcode-GFG/tree/master/3501-delete-nodes-from-linked-list-present-in-array) |
 | [3517-shortest-distance-after-road-addition-queries-i](https://github.com/Shubham-Singh-Rajpoot/Leetcode-GFG/tree/master/3517-shortest-distance-after-road-addition-queries-i) |
 | [3524-find-x-value-of-array-i](https://github.com/Shubham-Singh-Rajpoot/Leetcode-GFG/tree/master/3524-find-x-value-of-array-i) |
+| [3525-find-x-value-of-array-ii](https://github.com/Shubham-Singh-Rajpoot/Leetcode-GFG/tree/master/3525-find-x-value-of-array-ii) |
 | [3555-final-array-state-after-k-multiplication-operations-i](https://github.com/Shubham-Singh-Rajpoot/Leetcode-GFG/tree/master/3555-final-array-state-after-k-multiplication-operations-i) |
 | [3568-minimum-moves-to-clean-the-classroom](https://github.com/Shubham-Singh-Rajpoot/Leetcode-GFG/tree/master/3568-minimum-moves-to-clean-the-classroom) |
 | [3577-count-the-number-of-computer-unlocking-permutations](https://github.com/Shubham-Singh-Rajpoot/Leetcode-GFG/tree/master/3577-count-the-number-of-computer-unlocking-permutations) |
@@ -1151,6 +1153,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | ------- |
 | [0731-my-calendar-ii](https://github.com/Shubham-Singh-Rajpoot/Leetcode-GFG/tree/master/0731-my-calendar-ii) |
 | [3181-find-building-where-alice-and-bob-can-meet](https://github.com/Shubham-Singh-Rajpoot/Leetcode-GFG/tree/master/3181-find-building-where-alice-and-bob-can-meet) |
+| [3525-find-x-value-of-array-ii](https://github.com/Shubham-Singh-Rajpoot/Leetcode-GFG/tree/master/3525-find-x-value-of-array-ii) |
 ## Ordered Set
 |  |
 | ------- |
