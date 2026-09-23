@@ -366,6 +366,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [1520-maximum-number-of-non-overlapping-substrings](https://github.com/Shubham-Singh-Rajpoot/Leetcode-GFG/tree/master/1520-maximum-number-of-non-overlapping-substrings) |
 | [1556-make-two-arrays-equal-by-reversing-subarrays](https://github.com/Shubham-Singh-Rajpoot/Leetcode-GFG/tree/master/1556-make-two-arrays-equal-by-reversing-subarrays) |
 | [1620-check-if-array-pairs-are-divisible-by-k](https://github.com/Shubham-Singh-Rajpoot/Leetcode-GFG/tree/master/1620-check-if-array-pairs-are-divisible-by-k) |
+| [1658-minimum-operations-to-reduce-x-to-zero](https://github.com/Shubham-Singh-Rajpoot/Leetcode-GFG/tree/master/1658-minimum-operations-to-reduce-x-to-zero) |
 | [1741-sort-array-by-increasing-frequency](https://github.com/Shubham-Singh-Rajpoot/Leetcode-GFG/tree/master/1741-sort-array-by-increasing-frequency) |
 | [1915-check-if-one-string-swap-can-make-strings-equal](https://github.com/Shubham-Singh-Rajpoot/Leetcode-GFG/tree/master/1915-check-if-one-string-swap-can-make-strings-equal) |
 | [2054-the-number-of-the-smallest-unoccupied-chair](https://github.com/Shubham-Singh-Rajpoot/Leetcode-GFG/tree/master/2054-the-number-of-the-smallest-unoccupied-chair) |
@@ -615,6 +616,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [1616-minimum-difference-between-largest-and-smallest-value-in-three-moves](https://github.com/Shubham-Singh-Rajpoot/Leetcode-GFG/tree/master/1616-minimum-difference-between-largest-and-smallest-value-in-three-moves) |
 | [1620-check-if-array-pairs-are-divisible-by-k](https://github.com/Shubham-Singh-Rajpoot/Leetcode-GFG/tree/master/1620-check-if-array-pairs-are-divisible-by-k) |
 | [1631-number-of-sub-arrays-with-odd-sum](https://github.com/Shubham-Singh-Rajpoot/Leetcode-GFG/tree/master/1631-number-of-sub-arrays-with-odd-sum) |
+| [1658-minimum-operations-to-reduce-x-to-zero](https://github.com/Shubham-Singh-Rajpoot/Leetcode-GFG/tree/master/1658-minimum-operations-to-reduce-x-to-zero) |
 | [1679-shortest-subarray-to-be-removed-to-make-array-sorted](https://github.com/Shubham-Singh-Rajpoot/Leetcode-GFG/tree/master/1679-shortest-subarray-to-be-removed-to-make-array-sorted) |
 | [1691-minimum-number-of-days-to-disconnect-island](https://github.com/Shubham-Singh-Rajpoot/Leetcode-GFG/tree/master/1691-minimum-number-of-days-to-disconnect-island) |
 | [1720-crawler-log-folder](https://github.com/Shubham-Singh-Rajpoot/Leetcode-GFG/tree/master/1720-crawler-log-folder) |
@@ -758,6 +760,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [1468-check-if-n-and-its-double-exist](https://github.com/Shubham-Singh-Rajpoot/Leetcode-GFG/tree/master/1468-check-if-n-and-its-double-exist) |
 | [1477-find-two-non-overlapping-sub-arrays-each-with-target-sum](https://github.com/Shubham-Singh-Rajpoot/Leetcode-GFG/tree/master/1477-find-two-non-overlapping-sub-arrays-each-with-target-sum) |
 | [1615-range-sum-of-sorted-subarray-sums](https://github.com/Shubham-Singh-Rajpoot/Leetcode-GFG/tree/master/1615-range-sum-of-sorted-subarray-sums) |
+| [1658-minimum-operations-to-reduce-x-to-zero](https://github.com/Shubham-Singh-Rajpoot/Leetcode-GFG/tree/master/1658-minimum-operations-to-reduce-x-to-zero) |
 | [1679-shortest-subarray-to-be-removed-to-make-array-sorted](https://github.com/Shubham-Singh-Rajpoot/Leetcode-GFG/tree/master/1679-shortest-subarray-to-be-removed-to-make-array-sorted) |
 | [1886-minimum-limit-of-balls-in-a-bag](https://github.com/Shubham-Singh-Rajpoot/Leetcode-GFG/tree/master/1886-minimum-limit-of-balls-in-a-bag) |
 | [2586-longest-square-streak-in-an-array](https://github.com/Shubham-Singh-Rajpoot/Leetcode-GFG/tree/master/2586-longest-square-streak-in-an-array) |
@@ -1028,6 +1031,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0567-permutation-in-string](https://github.com/Shubham-Singh-Rajpoot/Leetcode-GFG/tree/master/0567-permutation-in-string) |
 | [0892-shortest-subarray-with-sum-at-least-k](https://github.com/Shubham-Singh-Rajpoot/Leetcode-GFG/tree/master/0892-shortest-subarray-with-sum-at-least-k) |
 | [1477-find-two-non-overlapping-sub-arrays-each-with-target-sum](https://github.com/Shubham-Singh-Rajpoot/Leetcode-GFG/tree/master/1477-find-two-non-overlapping-sub-arrays-each-with-target-sum) |
+| [1658-minimum-operations-to-reduce-x-to-zero](https://github.com/Shubham-Singh-Rajpoot/Leetcode-GFG/tree/master/1658-minimum-operations-to-reduce-x-to-zero) |
 | [2255-minimum-swaps-to-group-all-1s-together-ii](https://github.com/Shubham-Singh-Rajpoot/Leetcode-GFG/tree/master/2255-minimum-swaps-to-group-all-1s-together-ii) |
 | [2527-count-subarrays-with-fixed-bounds](https://github.com/Shubham-Singh-Rajpoot/Leetcode-GFG/tree/master/2527-count-subarrays-with-fixed-bounds) |
 | [2552-maximum-sum-of-distinct-subarrays-with-length-k](https://github.com/Shubham-Singh-Rajpoot/Leetcode-GFG/tree/master/2552-maximum-sum-of-distinct-subarrays-with-length-k) |
@@ -1077,6 +1081,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [1537-maximum-score-after-splitting-a-string](https://github.com/Shubham-Singh-Rajpoot/Leetcode-GFG/tree/master/1537-maximum-score-after-splitting-a-string) |
 | [1621-number-of-sets-of-k-non-overlapping-line-segments](https://github.com/Shubham-Singh-Rajpoot/Leetcode-GFG/tree/master/1621-number-of-sets-of-k-non-overlapping-line-segments) |
 | [1631-number-of-sub-arrays-with-odd-sum](https://github.com/Shubham-Singh-Rajpoot/Leetcode-GFG/tree/master/1631-number-of-sub-arrays-with-odd-sum) |
+| [1658-minimum-operations-to-reduce-x-to-zero](https://github.com/Shubham-Singh-Rajpoot/Leetcode-GFG/tree/master/1658-minimum-operations-to-reduce-x-to-zero) |
 | [1895-minimum-number-of-operations-to-move-all-balls-to-each-box](https://github.com/Shubham-Singh-Rajpoot/Leetcode-GFG/tree/master/1895-minimum-number-of-operations-to-move-all-balls-to-each-box) |
 | [1940-maximum-xor-for-each-query](https://github.com/Shubham-Singh-Rajpoot/Leetcode-GFG/tree/master/1940-maximum-xor-for-each-query) |
 | [2059-unique-length-3-palindromic-subsequences](https://github.com/Shubham-Singh-Rajpoot/Leetcode-GFG/tree/master/2059-unique-length-3-palindromic-subsequences) |
