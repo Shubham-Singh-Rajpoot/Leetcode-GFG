@@ -464,6 +464,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | ------- |
 | [0003-longest-substring-without-repeating-characters](https://github.com/Shubham-Singh-Rajpoot/Leetcode-GFG/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0013-roman-to-integer](https://github.com/Shubham-Singh-Rajpoot/Leetcode-GFG/tree/master/0013-roman-to-integer) |
+| [0020-valid-parentheses](https://github.com/Shubham-Singh-Rajpoot/Leetcode-GFG/tree/master/0020-valid-parentheses) |
 | [0038-count-and-say](https://github.com/Shubham-Singh-Rajpoot/Leetcode-GFG/tree/master/0038-count-and-say) |
 | [0091-decode-ways](https://github.com/Shubham-Singh-Rajpoot/Leetcode-GFG/tree/master/0091-decode-ways) |
 | [0115-distinct-subsequences](https://github.com/Shubham-Singh-Rajpoot/Leetcode-GFG/tree/master/0115-distinct-subsequences) |
@@ -881,6 +882,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 ## Stack
 |  |
 | ------- |
+| [0020-valid-parentheses](https://github.com/Shubham-Singh-Rajpoot/Leetcode-GFG/tree/master/0020-valid-parentheses) |
 | [0085-maximal-rectangle](https://github.com/Shubham-Singh-Rajpoot/Leetcode-GFG/tree/master/0085-maximal-rectangle) |
 | [0780-max-chunks-to-make-sorted](https://github.com/Shubham-Singh-Rajpoot/Leetcode-GFG/tree/master/0780-max-chunks-to-make-sorted) |
 | [0957-minimum-add-to-make-parentheses-valid](https://github.com/Shubham-Singh-Rajpoot/Leetcode-GFG/tree/master/0957-minimum-add-to-make-parentheses-valid) |
@@ -1257,6 +1259,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 ## Bracket Sequences
 |  |
 | ------- |
+| [0020-valid-parentheses](https://github.com/Shubham-Singh-Rajpoot/Leetcode-GFG/tree/master/0020-valid-parentheses) |
 | [1111-maximum-nesting-depth-of-two-valid-parentheses-strings](https://github.com/Shubham-Singh-Rajpoot/Leetcode-GFG/tree/master/1111-maximum-nesting-depth-of-two-valid-parentheses-strings) |
 | [1190-reverse-substrings-between-each-pair-of-parentheses](https://github.com/Shubham-Singh-Rajpoot/Leetcode-GFG/tree/master/1190-reverse-substrings-between-each-pair-of-parentheses) |
 | [1614-maximum-nesting-depth-of-the-parentheses](https://github.com/Shubham-Singh-Rajpoot/Leetcode-GFG/tree/master/1614-maximum-nesting-depth-of-the-parentheses) |
