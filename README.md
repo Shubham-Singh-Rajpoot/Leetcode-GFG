@@ -169,6 +169,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0179-largest-number](https://github.com/Shubham-Singh-Rajpoot/Leetcode-GFG/tree/master/0179-largest-number) |
 | [0624-maximum-distance-in-arrays](https://github.com/Shubham-Singh-Rajpoot/Leetcode-GFG/tree/master/0624-maximum-distance-in-arrays) |
 | [0670-maximum-swap](https://github.com/Shubham-Singh-Rajpoot/Leetcode-GFG/tree/master/0670-maximum-swap) |
+| [0678-valid-parenthesis-string](https://github.com/Shubham-Singh-Rajpoot/Leetcode-GFG/tree/master/0678-valid-parenthesis-string) |
 | [0759-set-intersection-size-at-least-two](https://github.com/Shubham-Singh-Rajpoot/Leetcode-GFG/tree/master/0759-set-intersection-size-at-least-two) |
 | [0780-max-chunks-to-make-sorted](https://github.com/Shubham-Singh-Rajpoot/Leetcode-GFG/tree/master/0780-max-chunks-to-make-sorted) |
 | [0957-minimum-add-to-make-parentheses-valid](https://github.com/Shubham-Singh-Rajpoot/Leetcode-GFG/tree/master/0957-minimum-add-to-make-parentheses-valid) |
@@ -475,6 +476,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0539-minimum-time-difference](https://github.com/Shubham-Singh-Rajpoot/Leetcode-GFG/tree/master/0539-minimum-time-difference) |
 | [0564-find-the-closest-palindrome](https://github.com/Shubham-Singh-Rajpoot/Leetcode-GFG/tree/master/0564-find-the-closest-palindrome) |
 | [0567-permutation-in-string](https://github.com/Shubham-Singh-Rajpoot/Leetcode-GFG/tree/master/0567-permutation-in-string) |
+| [0678-valid-parenthesis-string](https://github.com/Shubham-Singh-Rajpoot/Leetcode-GFG/tree/master/0678-valid-parenthesis-string) |
 | [0696-count-binary-substrings](https://github.com/Shubham-Singh-Rajpoot/Leetcode-GFG/tree/master/0696-count-binary-substrings) |
 | [0782-jewels-and-stones](https://github.com/Shubham-Singh-Rajpoot/Leetcode-GFG/tree/master/0782-jewels-and-stones) |
 | [0868-push-dominoes](https://github.com/Shubham-Singh-Rajpoot/Leetcode-GFG/tree/master/0868-push-dominoes) |
@@ -854,6 +856,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0416-partition-equal-subset-sum](https://github.com/Shubham-Singh-Rajpoot/Leetcode-GFG/tree/master/0416-partition-equal-subset-sum) |
 | [0494-target-sum](https://github.com/Shubham-Singh-Rajpoot/Leetcode-GFG/tree/master/0494-target-sum) |
 | [0650-2-keys-keyboard](https://github.com/Shubham-Singh-Rajpoot/Leetcode-GFG/tree/master/0650-2-keys-keyboard) |
+| [0678-valid-parenthesis-string](https://github.com/Shubham-Singh-Rajpoot/Leetcode-GFG/tree/master/0678-valid-parenthesis-string) |
 | [0689-maximum-sum-of-3-non-overlapping-subarrays](https://github.com/Shubham-Singh-Rajpoot/Leetcode-GFG/tree/master/0689-maximum-sum-of-3-non-overlapping-subarrays) |
 | [0868-push-dominoes](https://github.com/Shubham-Singh-Rajpoot/Leetcode-GFG/tree/master/0868-push-dominoes) |
 | [0940-distinct-subsequences-ii](https://github.com/Shubham-Singh-Rajpoot/Leetcode-GFG/tree/master/0940-distinct-subsequences-ii) |
@@ -887,6 +890,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0020-valid-parentheses](https://github.com/Shubham-Singh-Rajpoot/Leetcode-GFG/tree/master/0020-valid-parentheses) |
 | [0032-longest-valid-parentheses](https://github.com/Shubham-Singh-Rajpoot/Leetcode-GFG/tree/master/0032-longest-valid-parentheses) |
 | [0085-maximal-rectangle](https://github.com/Shubham-Singh-Rajpoot/Leetcode-GFG/tree/master/0085-maximal-rectangle) |
+| [0678-valid-parenthesis-string](https://github.com/Shubham-Singh-Rajpoot/Leetcode-GFG/tree/master/0678-valid-parenthesis-string) |
 | [0780-max-chunks-to-make-sorted](https://github.com/Shubham-Singh-Rajpoot/Leetcode-GFG/tree/master/0780-max-chunks-to-make-sorted) |
 | [0957-minimum-add-to-make-parentheses-valid](https://github.com/Shubham-Singh-Rajpoot/Leetcode-GFG/tree/master/0957-minimum-add-to-make-parentheses-valid) |
 | [1002-maximum-width-ramp](https://github.com/Shubham-Singh-Rajpoot/Leetcode-GFG/tree/master/1002-maximum-width-ramp) |
@@ -1264,6 +1268,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | ------- |
 | [0020-valid-parentheses](https://github.com/Shubham-Singh-Rajpoot/Leetcode-GFG/tree/master/0020-valid-parentheses) |
 | [0032-longest-valid-parentheses](https://github.com/Shubham-Singh-Rajpoot/Leetcode-GFG/tree/master/0032-longest-valid-parentheses) |
+| [0678-valid-parenthesis-string](https://github.com/Shubham-Singh-Rajpoot/Leetcode-GFG/tree/master/0678-valid-parenthesis-string) |
 | [1111-maximum-nesting-depth-of-two-valid-parentheses-strings](https://github.com/Shubham-Singh-Rajpoot/Leetcode-GFG/tree/master/1111-maximum-nesting-depth-of-two-valid-parentheses-strings) |
 | [1190-reverse-substrings-between-each-pair-of-parentheses](https://github.com/Shubham-Singh-Rajpoot/Leetcode-GFG/tree/master/1190-reverse-substrings-between-each-pair-of-parentheses) |
 | [1614-maximum-nesting-depth-of-the-parentheses](https://github.com/Shubham-Singh-Rajpoot/Leetcode-GFG/tree/master/1614-maximum-nesting-depth-of-the-parentheses) |
