@@ -224,6 +224,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0759-set-intersection-size-at-least-two](https://github.com/Shubham-Singh-Rajpoot/Leetcode-GFG/tree/master/0759-set-intersection-size-at-least-two) |
 | [0780-max-chunks-to-make-sorted](https://github.com/Shubham-Singh-Rajpoot/Leetcode-GFG/tree/master/0780-max-chunks-to-make-sorted) |
 | [0948-sort-an-array](https://github.com/Shubham-Singh-Rajpoot/Leetcode-GFG/tree/master/0948-sort-an-array) |
+| [1096-brace-expansion-ii](https://github.com/Shubham-Singh-Rajpoot/Leetcode-GFG/tree/master/1096-brace-expansion-ii) |
 | [1200-minimum-absolute-difference](https://github.com/Shubham-Singh-Rajpoot/Leetcode-GFG/tree/master/1200-minimum-absolute-difference) |
 | [1333-sort-the-jumbled-numbers](https://github.com/Shubham-Singh-Rajpoot/Leetcode-GFG/tree/master/1333-sort-the-jumbled-numbers) |
 | [1468-check-if-n-and-its-double-exist](https://github.com/Shubham-Singh-Rajpoot/Leetcode-GFG/tree/master/1468-check-if-n-and-its-double-exist) |
@@ -309,6 +310,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0820-find-eventual-safe-states](https://github.com/Shubham-Singh-Rajpoot/Leetcode-GFG/tree/master/0820-find-eventual-safe-states) |
 | [0871-keys-and-rooms](https://github.com/Shubham-Singh-Rajpoot/Leetcode-GFG/tree/master/0871-keys-and-rooms) |
 | [1005-univalued-binary-tree](https://github.com/Shubham-Singh-Rajpoot/Leetcode-GFG/tree/master/1005-univalued-binary-tree) |
+| [1096-brace-expansion-ii](https://github.com/Shubham-Singh-Rajpoot/Leetcode-GFG/tree/master/1096-brace-expansion-ii) |
 | [1387-find-elements-in-a-contaminated-binary-tree](https://github.com/Shubham-Singh-Rajpoot/Leetcode-GFG/tree/master/1387-find-elements-in-a-contaminated-binary-tree) |
 | [1396-count-servers-that-communicate](https://github.com/Shubham-Singh-Rajpoot/Leetcode-GFG/tree/master/1396-count-servers-that-communicate) |
 | [1431-all-ancestors-of-a-node-in-a-directed-acyclic-graph](https://github.com/Shubham-Singh-Rajpoot/Leetcode-GFG/tree/master/1431-all-ancestors-of-a-node-in-a-directed-acyclic-graph) |
@@ -355,6 +357,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0906-walking-robot-simulation](https://github.com/Shubham-Singh-Rajpoot/Leetcode-GFG/tree/master/0906-walking-robot-simulation) |
 | [0920-uncommon-words-from-two-sentences](https://github.com/Shubham-Singh-Rajpoot/Leetcode-GFG/tree/master/0920-uncommon-words-from-two-sentences) |
 | [0952-word-subsets](https://github.com/Shubham-Singh-Rajpoot/Leetcode-GFG/tree/master/0952-word-subsets) |
+| [1096-brace-expansion-ii](https://github.com/Shubham-Singh-Rajpoot/Leetcode-GFG/tree/master/1096-brace-expansion-ii) |
 | [1147-flip-columns-for-maximum-number-of-equal-rows](https://github.com/Shubham-Singh-Rajpoot/Leetcode-GFG/tree/master/1147-flip-columns-for-maximum-number-of-equal-rows) |
 | [1160-letter-tile-possibilities](https://github.com/Shubham-Singh-Rajpoot/Leetcode-GFG/tree/master/1160-letter-tile-possibilities) |
 | [1207-delete-nodes-and-return-forest](https://github.com/Shubham-Singh-Rajpoot/Leetcode-GFG/tree/master/1207-delete-nodes-and-return-forest) |
@@ -491,6 +494,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0957-minimum-add-to-make-parentheses-valid](https://github.com/Shubham-Singh-Rajpoot/Leetcode-GFG/tree/master/0957-minimum-add-to-make-parentheses-valid) |
 | [1021-remove-outermost-parentheses](https://github.com/Shubham-Singh-Rajpoot/Leetcode-GFG/tree/master/1021-remove-outermost-parentheses) |
 | [1093-recover-a-tree-from-preorder-traversal](https://github.com/Shubham-Singh-Rajpoot/Leetcode-GFG/tree/master/1093-recover-a-tree-from-preorder-traversal) |
+| [1096-brace-expansion-ii](https://github.com/Shubham-Singh-Rajpoot/Leetcode-GFG/tree/master/1096-brace-expansion-ii) |
 | [1111-maximum-nesting-depth-of-two-valid-parentheses-strings](https://github.com/Shubham-Singh-Rajpoot/Leetcode-GFG/tree/master/1111-maximum-nesting-depth-of-two-valid-parentheses-strings) |
 | [1160-letter-tile-possibilities](https://github.com/Shubham-Singh-Rajpoot/Leetcode-GFG/tree/master/1160-letter-tile-possibilities) |
 | [1170-shortest-common-supersequence](https://github.com/Shubham-Singh-Rajpoot/Leetcode-GFG/tree/master/1170-shortest-common-supersequence) |
@@ -903,6 +907,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0957-minimum-add-to-make-parentheses-valid](https://github.com/Shubham-Singh-Rajpoot/Leetcode-GFG/tree/master/0957-minimum-add-to-make-parentheses-valid) |
 | [1002-maximum-width-ramp](https://github.com/Shubham-Singh-Rajpoot/Leetcode-GFG/tree/master/1002-maximum-width-ramp) |
 | [1021-remove-outermost-parentheses](https://github.com/Shubham-Singh-Rajpoot/Leetcode-GFG/tree/master/1021-remove-outermost-parentheses) |
+| [1096-brace-expansion-ii](https://github.com/Shubham-Singh-Rajpoot/Leetcode-GFG/tree/master/1096-brace-expansion-ii) |
 | [1111-maximum-nesting-depth-of-two-valid-parentheses-strings](https://github.com/Shubham-Singh-Rajpoot/Leetcode-GFG/tree/master/1111-maximum-nesting-depth-of-two-valid-parentheses-strings) |
 | [1190-reverse-substrings-between-each-pair-of-parentheses](https://github.com/Shubham-Singh-Rajpoot/Leetcode-GFG/tree/master/1190-reverse-substrings-between-each-pair-of-parentheses) |
 | [1197-parsing-a-boolean-expression](https://github.com/Shubham-Singh-Rajpoot/Leetcode-GFG/tree/master/1197-parsing-a-boolean-expression) |
@@ -1198,6 +1203,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | ------- |
 | [0301-remove-invalid-parentheses](https://github.com/Shubham-Singh-Rajpoot/Leetcode-GFG/tree/master/0301-remove-invalid-parentheses) |
 | [0494-target-sum](https://github.com/Shubham-Singh-Rajpoot/Leetcode-GFG/tree/master/0494-target-sum) |
+| [1096-brace-expansion-ii](https://github.com/Shubham-Singh-Rajpoot/Leetcode-GFG/tree/master/1096-brace-expansion-ii) |
 | [1160-letter-tile-possibilities](https://github.com/Shubham-Singh-Rajpoot/Leetcode-GFG/tree/master/1160-letter-tile-possibilities) |
 | [1516-the-k-th-lexicographical-string-of-all-happy-strings-of-length-n](https://github.com/Shubham-Singh-Rajpoot/Leetcode-GFG/tree/master/1516-the-k-th-lexicographical-string-of-all-happy-strings-of-length-n) |
 | [1819-construct-the-lexicographically-largest-valid-sequence](https://github.com/Shubham-Singh-Rajpoot/Leetcode-GFG/tree/master/1819-construct-the-lexicographically-largest-valid-sequence) |
