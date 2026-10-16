@@ -396,6 +396,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [2695-find-score-of-an-array-after-marking-all-elements](https://github.com/Shubham-Singh-Rajpoot/Leetcode-GFG/tree/master/2695-find-score-of-an-array-after-marking-all-elements) |
 | [2707-merge-two-2d-arrays-by-summing-values](https://github.com/Shubham-Singh-Rajpoot/Leetcode-GFG/tree/master/2707-merge-two-2d-arrays-by-summing-values) |
 | [2766-find-the-prefix-common-array-of-two-arrays](https://github.com/Shubham-Singh-Rajpoot/Leetcode-GFG/tree/master/2766-find-the-prefix-common-array-of-two-arrays) |
+| [2916-subarrays-distinct-element-sum-of-squares-ii](https://github.com/Shubham-Singh-Rajpoot/Leetcode-GFG/tree/master/2916-subarrays-distinct-element-sum-of-squares-ii) |
 | [2958-length-of-longest-subarray-with-at-most-k-frequency](https://github.com/Shubham-Singh-Rajpoot/Leetcode-GFG/tree/master/2958-length-of-longest-subarray-with-at-most-k-frequency) |
 | [2996-smallest-missing-integer-greater-than-sequential-prefix-sum](https://github.com/Shubham-Singh-Rajpoot/Leetcode-GFG/tree/master/2996-smallest-missing-integer-greater-than-sequential-prefix-sum) |
 | [3267-find-longest-special-substring-that-occurs-thrice-i](https://github.com/Shubham-Singh-Rajpoot/Leetcode-GFG/tree/master/3267-find-longest-special-substring-that-occurs-thrice-i) |
@@ -702,6 +703,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [2868-continuous-subarrays](https://github.com/Shubham-Singh-Rajpoot/Leetcode-GFG/tree/master/2868-continuous-subarrays) |
 | [2873-prime-pairs-with-target-sum](https://github.com/Shubham-Singh-Rajpoot/Leetcode-GFG/tree/master/2873-prime-pairs-with-target-sum) |
 | [2891-maximum-beauty-of-an-array-after-applying-operation](https://github.com/Shubham-Singh-Rajpoot/Leetcode-GFG/tree/master/2891-maximum-beauty-of-an-array-after-applying-operation) |
+| [2916-subarrays-distinct-element-sum-of-squares-ii](https://github.com/Shubham-Singh-Rajpoot/Leetcode-GFG/tree/master/2916-subarrays-distinct-element-sum-of-squares-ii) |
 | [2958-length-of-longest-subarray-with-at-most-k-frequency](https://github.com/Shubham-Singh-Rajpoot/Leetcode-GFG/tree/master/2958-length-of-longest-subarray-with-at-most-k-frequency) |
 | [2996-smallest-missing-integer-greater-than-sequential-prefix-sum](https://github.com/Shubham-Singh-Rajpoot/Leetcode-GFG/tree/master/2996-smallest-missing-integer-greater-than-sequential-prefix-sum) |
 | [3116-kth-smallest-amount-with-single-denomination-combination](https://github.com/Shubham-Singh-Rajpoot/Leetcode-GFG/tree/master/3116-kth-smallest-amount-with-single-denomination-combination) |
@@ -1052,6 +1054,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 |  |
 | ------- |
 | [1511-count-number-of-teams](https://github.com/Shubham-Singh-Rajpoot/Leetcode-GFG/tree/master/1511-count-number-of-teams) |
+| [2916-subarrays-distinct-element-sum-of-squares-ii](https://github.com/Shubham-Singh-Rajpoot/Leetcode-GFG/tree/master/2916-subarrays-distinct-element-sum-of-squares-ii) |
 | [3181-find-building-where-alice-and-bob-can-meet](https://github.com/Shubham-Singh-Rajpoot/Leetcode-GFG/tree/master/3181-find-building-where-alice-and-bob-can-meet) |
 ## Sliding Window
 |  |
@@ -1186,6 +1189,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 |  |
 | ------- |
 | [0731-my-calendar-ii](https://github.com/Shubham-Singh-Rajpoot/Leetcode-GFG/tree/master/0731-my-calendar-ii) |
+| [2916-subarrays-distinct-element-sum-of-squares-ii](https://github.com/Shubham-Singh-Rajpoot/Leetcode-GFG/tree/master/2916-subarrays-distinct-element-sum-of-squares-ii) |
 | [3181-find-building-where-alice-and-bob-can-meet](https://github.com/Shubham-Singh-Rajpoot/Leetcode-GFG/tree/master/3181-find-building-where-alice-and-bob-can-meet) |
 | [3525-find-x-value-of-array-ii](https://github.com/Shubham-Singh-Rajpoot/Leetcode-GFG/tree/master/3525-find-x-value-of-array-ii) |
 ## Ordered Set
