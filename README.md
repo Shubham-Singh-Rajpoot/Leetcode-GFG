@@ -233,6 +233,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [1615-range-sum-of-sorted-subarray-sums](https://github.com/Shubham-Singh-Rajpoot/Leetcode-GFG/tree/master/1615-range-sum-of-sorted-subarray-sums) |
 | [1616-minimum-difference-between-largest-and-smallest-value-in-three-moves](https://github.com/Shubham-Singh-Rajpoot/Leetcode-GFG/tree/master/1616-minimum-difference-between-largest-and-smallest-value-in-three-moves) |
 | [1741-sort-array-by-increasing-frequency](https://github.com/Shubham-Singh-Rajpoot/Leetcode-GFG/tree/master/1741-sort-array-by-increasing-frequency) |
+| [2089-find-target-indices-after-sorting-array](https://github.com/Shubham-Singh-Rajpoot/Leetcode-GFG/tree/master/2089-find-target-indices-after-sorting-array) |
 | [2274-keep-multiplying-found-values-by-two](https://github.com/Shubham-Singh-Rajpoot/Leetcode-GFG/tree/master/2274-keep-multiplying-found-values-by-two) |
 | [2379-maximum-total-importance-of-roads](https://github.com/Shubham-Singh-Rajpoot/Leetcode-GFG/tree/master/2379-maximum-total-importance-of-roads) |
 | [2473-max-sum-of-a-pair-with-equal-sum-of-digits](https://github.com/Shubham-Singh-Rajpoot/Leetcode-GFG/tree/master/2473-max-sum-of-a-pair-with-equal-sum-of-digits) |
@@ -657,6 +658,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [2054-the-number-of-the-smallest-unoccupied-chair](https://github.com/Shubham-Singh-Rajpoot/Leetcode-GFG/tree/master/2054-the-number-of-the-smallest-unoccupied-chair) |
 | [2067-maximum-number-of-points-with-cost](https://github.com/Shubham-Singh-Rajpoot/Leetcode-GFG/tree/master/2067-maximum-number-of-points-with-cost) |
 | [2089-maximum-matrix-sum](https://github.com/Shubham-Singh-Rajpoot/Leetcode-GFG/tree/master/2089-maximum-matrix-sum) |
+| [2089-find-target-indices-after-sorting-array](https://github.com/Shubham-Singh-Rajpoot/Leetcode-GFG/tree/master/2089-find-target-indices-after-sorting-array) |
 | [2107-find-unique-binary-string](https://github.com/Shubham-Singh-Rajpoot/Leetcode-GFG/tree/master/2107-find-unique-binary-string) |
 | [2110-number-of-smooth-descent-periods-of-a-stock](https://github.com/Shubham-Singh-Rajpoot/Leetcode-GFG/tree/master/2110-number-of-smooth-descent-periods-of-a-stock) |
 | [2145-grid-game](https://github.com/Shubham-Singh-Rajpoot/Leetcode-GFG/tree/master/2145-grid-game) |
@@ -785,6 +787,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [1658-minimum-operations-to-reduce-x-to-zero](https://github.com/Shubham-Singh-Rajpoot/Leetcode-GFG/tree/master/1658-minimum-operations-to-reduce-x-to-zero) |
 | [1679-shortest-subarray-to-be-removed-to-make-array-sorted](https://github.com/Shubham-Singh-Rajpoot/Leetcode-GFG/tree/master/1679-shortest-subarray-to-be-removed-to-make-array-sorted) |
 | [1886-minimum-limit-of-balls-in-a-bag](https://github.com/Shubham-Singh-Rajpoot/Leetcode-GFG/tree/master/1886-minimum-limit-of-balls-in-a-bag) |
+| [2089-find-target-indices-after-sorting-array](https://github.com/Shubham-Singh-Rajpoot/Leetcode-GFG/tree/master/2089-find-target-indices-after-sorting-array) |
 | [2586-longest-square-streak-in-an-array](https://github.com/Shubham-Singh-Rajpoot/Leetcode-GFG/tree/master/2586-longest-square-streak-in-an-array) |
 | [2614-maximum-count-of-positive-integer-and-negative-integer](https://github.com/Shubham-Singh-Rajpoot/Leetcode-GFG/tree/master/2614-maximum-count-of-positive-integer-and-negative-integer) |
 | [2640-maximum-number-of-integers-to-choose-from-a-range-i](https://github.com/Shubham-Singh-Rajpoot/Leetcode-GFG/tree/master/2640-maximum-number-of-integers-to-choose-from-a-range-i) |
