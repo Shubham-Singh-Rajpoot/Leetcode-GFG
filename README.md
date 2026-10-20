@@ -254,6 +254,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [3430-count-days-without-meetings](https://github.com/Shubham-Singh-Rajpoot/Leetcode-GFG/tree/master/3430-count-days-without-meetings) |
 | [3551-minimum-swaps-to-sort-by-digit-sum](https://github.com/Shubham-Singh-Rajpoot/Leetcode-GFG/tree/master/3551-minimum-swaps-to-sort-by-digit-sum) |
 | [3647-zero-array-transformation-iii](https://github.com/Shubham-Singh-Rajpoot/Leetcode-GFG/tree/master/3647-zero-array-transformation-iii) |
+| [3886-sum-of-sortable-integers](https://github.com/Shubham-Singh-Rajpoot/Leetcode-GFG/tree/master/3886-sum-of-sortable-integers) |
 ## Heap (Priority Queue)
 |  |
 | ------- |
@@ -469,6 +470,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [3768-check-if-digits-are-equal-in-string-after-operations-i](https://github.com/Shubham-Singh-Rajpoot/Leetcode-GFG/tree/master/3768-check-if-digits-are-equal-in-string-after-operations-i) |
 | [3870-count-commas-in-range](https://github.com/Shubham-Singh-Rajpoot/Leetcode-GFG/tree/master/3870-count-commas-in-range) |
 | [3876-construct-uniform-parity-array-ii](https://github.com/Shubham-Singh-Rajpoot/Leetcode-GFG/tree/master/3876-construct-uniform-parity-array-ii) |
+| [3886-sum-of-sortable-integers](https://github.com/Shubham-Singh-Rajpoot/Leetcode-GFG/tree/master/3886-sum-of-sortable-integers) |
 ## String
 |  |
 | ------- |
@@ -742,6 +744,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [3647-zero-array-transformation-iii](https://github.com/Shubham-Singh-Rajpoot/Leetcode-GFG/tree/master/3647-zero-array-transformation-iii) |
 | [3718-smallest-missing-multiple-of-k](https://github.com/Shubham-Singh-Rajpoot/Leetcode-GFG/tree/master/3718-smallest-missing-multiple-of-k) |
 | [3876-construct-uniform-parity-array-ii](https://github.com/Shubham-Singh-Rajpoot/Leetcode-GFG/tree/master/3876-construct-uniform-parity-array-ii) |
+| [3886-sum-of-sortable-integers](https://github.com/Shubham-Singh-Rajpoot/Leetcode-GFG/tree/master/3886-sum-of-sortable-integers) |
 | [3904-smallest-stable-index-ii](https://github.com/Shubham-Singh-Rajpoot/Leetcode-GFG/tree/master/3904-smallest-stable-index-ii) |
 ## Two Pointers
 |  |
@@ -1229,6 +1232,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [2873-prime-pairs-with-target-sum](https://github.com/Shubham-Singh-Rajpoot/Leetcode-GFG/tree/master/2873-prime-pairs-with-target-sum) |
 | [3483-unique-3-digit-even-numbers](https://github.com/Shubham-Singh-Rajpoot/Leetcode-GFG/tree/master/3483-unique-3-digit-even-numbers) |
 | [3548-find-the-count-of-good-integers](https://github.com/Shubham-Singh-Rajpoot/Leetcode-GFG/tree/master/3548-find-the-count-of-good-integers) |
+| [3886-sum-of-sortable-integers](https://github.com/Shubham-Singh-Rajpoot/Leetcode-GFG/tree/master/3886-sum-of-sortable-integers) |
 ## Monotonic Queue
 |  |
 | ------- |
