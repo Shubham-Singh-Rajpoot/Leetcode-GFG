@@ -560,6 +560,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [3569-count-of-substrings-containing-every-vowel-and-k-consonants-ii](https://github.com/Shubham-Singh-Rajpoot/Leetcode-GFG/tree/master/3569-count-of-substrings-containing-every-vowel-and-k-consonants-ii) |
 | [3637-count-number-of-balanced-permutations](https://github.com/Shubham-Singh-Rajpoot/Leetcode-GFG/tree/master/3637-count-number-of-balanced-permutations) |
 | [3768-check-if-digits-are-equal-in-string-after-operations-i](https://github.com/Shubham-Singh-Rajpoot/Leetcode-GFG/tree/master/3768-check-if-digits-are-equal-in-string-after-operations-i) |
+| [3863-minimum-operations-to-sort-a-string](https://github.com/Shubham-Singh-Rajpoot/Leetcode-GFG/tree/master/3863-minimum-operations-to-sort-a-string) |
 | [3872-find-most-frequent-vowel-and-consonant](https://github.com/Shubham-Singh-Rajpoot/Leetcode-GFG/tree/master/3872-find-most-frequent-vowel-and-consonant) |
 ## Array
 |  |
