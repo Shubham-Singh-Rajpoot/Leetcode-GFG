@@ -747,6 +747,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [3647-zero-array-transformation-iii](https://github.com/Shubham-Singh-Rajpoot/Leetcode-GFG/tree/master/3647-zero-array-transformation-iii) |
 | [3718-smallest-missing-multiple-of-k](https://github.com/Shubham-Singh-Rajpoot/Leetcode-GFG/tree/master/3718-smallest-missing-multiple-of-k) |
 | [3876-construct-uniform-parity-array-ii](https://github.com/Shubham-Singh-Rajpoot/Leetcode-GFG/tree/master/3876-construct-uniform-parity-array-ii) |
+| [3882-minimum-xor-path-in-a-grid](https://github.com/Shubham-Singh-Rajpoot/Leetcode-GFG/tree/master/3882-minimum-xor-path-in-a-grid) |
 | [3886-sum-of-sortable-integers](https://github.com/Shubham-Singh-Rajpoot/Leetcode-GFG/tree/master/3886-sum-of-sortable-integers) |
 | [3904-smallest-stable-index-ii](https://github.com/Shubham-Singh-Rajpoot/Leetcode-GFG/tree/master/3904-smallest-stable-index-ii) |
 ## Two Pointers
@@ -908,6 +909,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [3243-count-the-number-of-powerful-integers](https://github.com/Shubham-Singh-Rajpoot/Leetcode-GFG/tree/master/3243-count-the-number-of-powerful-integers) |
 | [3524-find-x-value-of-array-i](https://github.com/Shubham-Singh-Rajpoot/Leetcode-GFG/tree/master/3524-find-x-value-of-array-i) |
 | [3637-count-number-of-balanced-permutations](https://github.com/Shubham-Singh-Rajpoot/Leetcode-GFG/tree/master/3637-count-number-of-balanced-permutations) |
+| [3882-minimum-xor-path-in-a-grid](https://github.com/Shubham-Singh-Rajpoot/Leetcode-GFG/tree/master/3882-minimum-xor-path-in-a-grid) |
 ## Stack
 |  |
 | ------- |
@@ -1009,6 +1011,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [2685-first-completely-painted-row-or-column](https://github.com/Shubham-Singh-Rajpoot/Leetcode-GFG/tree/master/2685-first-completely-painted-row-or-column) |
 | [2711-minimum-time-to-visit-a-cell-in-a-grid](https://github.com/Shubham-Singh-Rajpoot/Leetcode-GFG/tree/master/2711-minimum-time-to-visit-a-cell-in-a-grid) |
 | [3568-minimum-moves-to-clean-the-classroom](https://github.com/Shubham-Singh-Rajpoot/Leetcode-GFG/tree/master/3568-minimum-moves-to-clean-the-classroom) |
+| [3882-minimum-xor-path-in-a-grid](https://github.com/Shubham-Singh-Rajpoot/Leetcode-GFG/tree/master/3882-minimum-xor-path-in-a-grid) |
 ## Divide and Conquer
 |  |
 | ------- |
@@ -1165,6 +1168,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [3394-minimum-array-end](https://github.com/Shubham-Singh-Rajpoot/Leetcode-GFG/tree/master/3394-minimum-array-end) |
 | [3568-minimum-moves-to-clean-the-classroom](https://github.com/Shubham-Singh-Rajpoot/Leetcode-GFG/tree/master/3568-minimum-moves-to-clean-the-classroom) |
 | [3676-smallest-number-with-all-set-bits](https://github.com/Shubham-Singh-Rajpoot/Leetcode-GFG/tree/master/3676-smallest-number-with-all-set-bits) |
+| [3882-minimum-xor-path-in-a-grid](https://github.com/Shubham-Singh-Rajpoot/Leetcode-GFG/tree/master/3882-minimum-xor-path-in-a-grid) |
 ## Number Theory
 |  |
 | ------- |
