@@ -745,6 +745,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [3637-trionic-array-i](https://github.com/Shubham-Singh-Rajpoot/Leetcode-GFG/tree/master/3637-trionic-array-i) |
 | [3643-zero-array-transformation-ii](https://github.com/Shubham-Singh-Rajpoot/Leetcode-GFG/tree/master/3643-zero-array-transformation-ii) |
 | [3647-zero-array-transformation-iii](https://github.com/Shubham-Singh-Rajpoot/Leetcode-GFG/tree/master/3647-zero-array-transformation-iii) |
+| [3665-twisted-mirror-path-count](https://github.com/Shubham-Singh-Rajpoot/Leetcode-GFG/tree/master/3665-twisted-mirror-path-count) |
 | [3718-smallest-missing-multiple-of-k](https://github.com/Shubham-Singh-Rajpoot/Leetcode-GFG/tree/master/3718-smallest-missing-multiple-of-k) |
 | [3876-construct-uniform-parity-array-ii](https://github.com/Shubham-Singh-Rajpoot/Leetcode-GFG/tree/master/3876-construct-uniform-parity-array-ii) |
 | [3882-minimum-xor-path-in-a-grid](https://github.com/Shubham-Singh-Rajpoot/Leetcode-GFG/tree/master/3882-minimum-xor-path-in-a-grid) |
@@ -909,6 +910,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [3243-count-the-number-of-powerful-integers](https://github.com/Shubham-Singh-Rajpoot/Leetcode-GFG/tree/master/3243-count-the-number-of-powerful-integers) |
 | [3524-find-x-value-of-array-i](https://github.com/Shubham-Singh-Rajpoot/Leetcode-GFG/tree/master/3524-find-x-value-of-array-i) |
 | [3637-count-number-of-balanced-permutations](https://github.com/Shubham-Singh-Rajpoot/Leetcode-GFG/tree/master/3637-count-number-of-balanced-permutations) |
+| [3665-twisted-mirror-path-count](https://github.com/Shubham-Singh-Rajpoot/Leetcode-GFG/tree/master/3665-twisted-mirror-path-count) |
 | [3882-minimum-xor-path-in-a-grid](https://github.com/Shubham-Singh-Rajpoot/Leetcode-GFG/tree/master/3882-minimum-xor-path-in-a-grid) |
 ## Stack
 |  |
@@ -1011,6 +1013,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [2685-first-completely-painted-row-or-column](https://github.com/Shubham-Singh-Rajpoot/Leetcode-GFG/tree/master/2685-first-completely-painted-row-or-column) |
 | [2711-minimum-time-to-visit-a-cell-in-a-grid](https://github.com/Shubham-Singh-Rajpoot/Leetcode-GFG/tree/master/2711-minimum-time-to-visit-a-cell-in-a-grid) |
 | [3568-minimum-moves-to-clean-the-classroom](https://github.com/Shubham-Singh-Rajpoot/Leetcode-GFG/tree/master/3568-minimum-moves-to-clean-the-classroom) |
+| [3665-twisted-mirror-path-count](https://github.com/Shubham-Singh-Rajpoot/Leetcode-GFG/tree/master/3665-twisted-mirror-path-count) |
 | [3882-minimum-xor-path-in-a-grid](https://github.com/Shubham-Singh-Rajpoot/Leetcode-GFG/tree/master/3882-minimum-xor-path-in-a-grid) |
 ## Divide and Conquer
 |  |
