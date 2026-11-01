@@ -424,6 +424,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0050-powx-n](https://github.com/Shubham-Singh-Rajpoot/Leetcode-GFG/tree/master/0050-powx-n) |
 | [0264-ugly-number-ii](https://github.com/Shubham-Singh-Rajpoot/Leetcode-GFG/tree/master/0264-ugly-number-ii) |
 | [0273-integer-to-english-words](https://github.com/Shubham-Singh-Rajpoot/Leetcode-GFG/tree/master/0273-integer-to-english-words) |
+| [0453-minimum-moves-to-equal-array-elements](https://github.com/Shubham-Singh-Rajpoot/Leetcode-GFG/tree/master/0453-minimum-moves-to-equal-array-elements) |
 | [0539-minimum-time-difference](https://github.com/Shubham-Singh-Rajpoot/Leetcode-GFG/tree/master/0539-minimum-time-difference) |
 | [0564-find-the-closest-palindrome](https://github.com/Shubham-Singh-Rajpoot/Leetcode-GFG/tree/master/0564-find-the-closest-palindrome) |
 | [0650-2-keys-keyboard](https://github.com/Shubham-Singh-Rajpoot/Leetcode-GFG/tree/master/0650-2-keys-keyboard) |
@@ -590,6 +591,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0238-product-of-array-except-self](https://github.com/Shubham-Singh-Rajpoot/Leetcode-GFG/tree/master/0238-product-of-array-except-self) |
 | [0350-intersection-of-two-arrays-ii](https://github.com/Shubham-Singh-Rajpoot/Leetcode-GFG/tree/master/0350-intersection-of-two-arrays-ii) |
 | [0416-partition-equal-subset-sum](https://github.com/Shubham-Singh-Rajpoot/Leetcode-GFG/tree/master/0416-partition-equal-subset-sum) |
+| [0453-minimum-moves-to-equal-array-elements](https://github.com/Shubham-Singh-Rajpoot/Leetcode-GFG/tree/master/0453-minimum-moves-to-equal-array-elements) |
 | [0494-target-sum](https://github.com/Shubham-Singh-Rajpoot/Leetcode-GFG/tree/master/0494-target-sum) |
 | [0539-minimum-time-difference](https://github.com/Shubham-Singh-Rajpoot/Leetcode-GFG/tree/master/0539-minimum-time-difference) |
 | [0624-maximum-distance-in-arrays](https://github.com/Shubham-Singh-Rajpoot/Leetcode-GFG/tree/master/0624-maximum-distance-in-arrays) |
