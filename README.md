@@ -469,6 +469,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [3581-the-two-sneaky-numbers-of-digitville](https://github.com/Shubham-Singh-Rajpoot/Leetcode-GFG/tree/master/3581-the-two-sneaky-numbers-of-digitville) |
 | [3637-count-number-of-balanced-permutations](https://github.com/Shubham-Singh-Rajpoot/Leetcode-GFG/tree/master/3637-count-number-of-balanced-permutations) |
 | [3676-smallest-number-with-all-set-bits](https://github.com/Shubham-Singh-Rajpoot/Leetcode-GFG/tree/master/3676-smallest-number-with-all-set-bits) |
+| [3736-minimum-moves-to-equal-array-elements-iii](https://github.com/Shubham-Singh-Rajpoot/Leetcode-GFG/tree/master/3736-minimum-moves-to-equal-array-elements-iii) |
 | [3768-check-if-digits-are-equal-in-string-after-operations-i](https://github.com/Shubham-Singh-Rajpoot/Leetcode-GFG/tree/master/3768-check-if-digits-are-equal-in-string-after-operations-i) |
 | [3870-count-commas-in-range](https://github.com/Shubham-Singh-Rajpoot/Leetcode-GFG/tree/master/3870-count-commas-in-range) |
 | [3876-construct-uniform-parity-array-ii](https://github.com/Shubham-Singh-Rajpoot/Leetcode-GFG/tree/master/3876-construct-uniform-parity-array-ii) |
@@ -749,6 +750,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [3647-zero-array-transformation-iii](https://github.com/Shubham-Singh-Rajpoot/Leetcode-GFG/tree/master/3647-zero-array-transformation-iii) |
 | [3665-twisted-mirror-path-count](https://github.com/Shubham-Singh-Rajpoot/Leetcode-GFG/tree/master/3665-twisted-mirror-path-count) |
 | [3718-smallest-missing-multiple-of-k](https://github.com/Shubham-Singh-Rajpoot/Leetcode-GFG/tree/master/3718-smallest-missing-multiple-of-k) |
+| [3736-minimum-moves-to-equal-array-elements-iii](https://github.com/Shubham-Singh-Rajpoot/Leetcode-GFG/tree/master/3736-minimum-moves-to-equal-array-elements-iii) |
 | [3876-construct-uniform-parity-array-ii](https://github.com/Shubham-Singh-Rajpoot/Leetcode-GFG/tree/master/3876-construct-uniform-parity-array-ii) |
 | [3882-minimum-xor-path-in-a-grid](https://github.com/Shubham-Singh-Rajpoot/Leetcode-GFG/tree/master/3882-minimum-xor-path-in-a-grid) |
 | [3886-sum-of-sortable-integers](https://github.com/Shubham-Singh-Rajpoot/Leetcode-GFG/tree/master/3886-sum-of-sortable-integers) |
