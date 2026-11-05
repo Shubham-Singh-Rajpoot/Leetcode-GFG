@@ -228,6 +228,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [1096-brace-expansion-ii](https://github.com/Shubham-Singh-Rajpoot/Leetcode-GFG/tree/master/1096-brace-expansion-ii) |
 | [1200-minimum-absolute-difference](https://github.com/Shubham-Singh-Rajpoot/Leetcode-GFG/tree/master/1200-minimum-absolute-difference) |
 | [1333-sort-the-jumbled-numbers](https://github.com/Shubham-Singh-Rajpoot/Leetcode-GFG/tree/master/1333-sort-the-jumbled-numbers) |
+| [1385-find-the-distance-value-between-two-arrays](https://github.com/Shubham-Singh-Rajpoot/Leetcode-GFG/tree/master/1385-find-the-distance-value-between-two-arrays) |
 | [1468-check-if-n-and-its-double-exist](https://github.com/Shubham-Singh-Rajpoot/Leetcode-GFG/tree/master/1468-check-if-n-and-its-double-exist) |
 | [1520-maximum-number-of-non-overlapping-substrings](https://github.com/Shubham-Singh-Rajpoot/Leetcode-GFG/tree/master/1520-maximum-number-of-non-overlapping-substrings) |
 | [1556-make-two-arrays-equal-by-reversing-subarrays](https://github.com/Shubham-Singh-Rajpoot/Leetcode-GFG/tree/master/1556-make-two-arrays-equal-by-reversing-subarrays) |
@@ -629,6 +630,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [1333-sort-the-jumbled-numbers](https://github.com/Shubham-Singh-Rajpoot/Leetcode-GFG/tree/master/1333-sort-the-jumbled-numbers) |
 | [1351-count-negative-numbers-in-a-sorted-matrix](https://github.com/Shubham-Singh-Rajpoot/Leetcode-GFG/tree/master/1351-count-negative-numbers-in-a-sorted-matrix) |
 | [1364-tuple-with-same-product](https://github.com/Shubham-Singh-Rajpoot/Leetcode-GFG/tree/master/1364-tuple-with-same-product) |
+| [1385-find-the-distance-value-between-two-arrays](https://github.com/Shubham-Singh-Rajpoot/Leetcode-GFG/tree/master/1385-find-the-distance-value-between-two-arrays) |
 | [1396-count-servers-that-communicate](https://github.com/Shubham-Singh-Rajpoot/Leetcode-GFG/tree/master/1396-count-servers-that-communicate) |
 | [1421-find-numbers-with-even-number-of-digits](https://github.com/Shubham-Singh-Rajpoot/Leetcode-GFG/tree/master/1421-find-numbers-with-even-number-of-digits) |
 | [1426-find-n-unique-integers-sum-up-to-zero](https://github.com/Shubham-Singh-Rajpoot/Leetcode-GFG/tree/master/1426-find-n-unique-integers-sum-up-to-zero) |
@@ -771,6 +773,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0567-permutation-in-string](https://github.com/Shubham-Singh-Rajpoot/Leetcode-GFG/tree/master/0567-permutation-in-string) |
 | [0696-count-binary-substrings](https://github.com/Shubham-Singh-Rajpoot/Leetcode-GFG/tree/master/0696-count-binary-substrings) |
 | [0868-push-dominoes](https://github.com/Shubham-Singh-Rajpoot/Leetcode-GFG/tree/master/0868-push-dominoes) |
+| [1385-find-the-distance-value-between-two-arrays](https://github.com/Shubham-Singh-Rajpoot/Leetcode-GFG/tree/master/1385-find-the-distance-value-between-two-arrays) |
 | [1468-check-if-n-and-its-double-exist](https://github.com/Shubham-Singh-Rajpoot/Leetcode-GFG/tree/master/1468-check-if-n-and-its-double-exist) |
 | [1566-check-if-a-word-occurs-as-a-prefix-of-any-word-in-a-sentence](https://github.com/Shubham-Singh-Rajpoot/Leetcode-GFG/tree/master/1566-check-if-a-word-occurs-as-a-prefix-of-any-word-in-a-sentence) |
 | [1615-range-sum-of-sorted-subarray-sums](https://github.com/Shubham-Singh-Rajpoot/Leetcode-GFG/tree/master/1615-range-sum-of-sorted-subarray-sums) |
@@ -796,6 +799,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0731-my-calendar-ii](https://github.com/Shubham-Singh-Rajpoot/Leetcode-GFG/tree/master/0731-my-calendar-ii) |
 | [0892-shortest-subarray-with-sum-at-least-k](https://github.com/Shubham-Singh-Rajpoot/Leetcode-GFG/tree/master/0892-shortest-subarray-with-sum-at-least-k) |
 | [1351-count-negative-numbers-in-a-sorted-matrix](https://github.com/Shubham-Singh-Rajpoot/Leetcode-GFG/tree/master/1351-count-negative-numbers-in-a-sorted-matrix) |
+| [1385-find-the-distance-value-between-two-arrays](https://github.com/Shubham-Singh-Rajpoot/Leetcode-GFG/tree/master/1385-find-the-distance-value-between-two-arrays) |
 | [1468-check-if-n-and-its-double-exist](https://github.com/Shubham-Singh-Rajpoot/Leetcode-GFG/tree/master/1468-check-if-n-and-its-double-exist) |
 | [1477-find-two-non-overlapping-sub-arrays-each-with-target-sum](https://github.com/Shubham-Singh-Rajpoot/Leetcode-GFG/tree/master/1477-find-two-non-overlapping-sub-arrays-each-with-target-sum) |
 | [1615-range-sum-of-sorted-subarray-sums](https://github.com/Shubham-Singh-Rajpoot/Leetcode-GFG/tree/master/1615-range-sum-of-sorted-subarray-sums) |
