@@ -247,6 +247,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [2646-kth-largest-sum-in-a-binary-tree](https://github.com/Shubham-Singh-Rajpoot/Leetcode-GFG/tree/master/2646-kth-largest-sum-in-a-binary-tree) |
 | [2695-find-score-of-an-array-after-marking-all-elements](https://github.com/Shubham-Singh-Rajpoot/Leetcode-GFG/tree/master/2695-find-score-of-an-array-after-marking-all-elements) |
 | [2699-count-the-number-of-fair-pairs](https://github.com/Shubham-Singh-Rajpoot/Leetcode-GFG/tree/master/2699-count-the-number-of-fair-pairs) |
+| [2747-count-zero-request-servers](https://github.com/Shubham-Singh-Rajpoot/Leetcode-GFG/tree/master/2747-count-zero-request-servers) |
 | [2846-robot-collisions](https://github.com/Shubham-Singh-Rajpoot/Leetcode-GFG/tree/master/2846-robot-collisions) |
 | [2887-sort-vowels-in-a-string](https://github.com/Shubham-Singh-Rajpoot/Leetcode-GFG/tree/master/2887-sort-vowels-in-a-string) |
 | [2891-maximum-beauty-of-an-array-after-applying-operation](https://github.com/Shubham-Singh-Rajpoot/Leetcode-GFG/tree/master/2891-maximum-beauty-of-an-array-after-applying-operation) |
@@ -400,6 +401,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [2685-first-completely-painted-row-or-column](https://github.com/Shubham-Singh-Rajpoot/Leetcode-GFG/tree/master/2685-first-completely-painted-row-or-column) |
 | [2695-find-score-of-an-array-after-marking-all-elements](https://github.com/Shubham-Singh-Rajpoot/Leetcode-GFG/tree/master/2695-find-score-of-an-array-after-marking-all-elements) |
 | [2707-merge-two-2d-arrays-by-summing-values](https://github.com/Shubham-Singh-Rajpoot/Leetcode-GFG/tree/master/2707-merge-two-2d-arrays-by-summing-values) |
+| [2747-count-zero-request-servers](https://github.com/Shubham-Singh-Rajpoot/Leetcode-GFG/tree/master/2747-count-zero-request-servers) |
 | [2766-find-the-prefix-common-array-of-two-arrays](https://github.com/Shubham-Singh-Rajpoot/Leetcode-GFG/tree/master/2766-find-the-prefix-common-array-of-two-arrays) |
 | [2916-subarrays-distinct-element-sum-of-squares-ii](https://github.com/Shubham-Singh-Rajpoot/Leetcode-GFG/tree/master/2916-subarrays-distinct-element-sum-of-squares-ii) |
 | [2958-length-of-longest-subarray-with-at-most-k-frequency](https://github.com/Shubham-Singh-Rajpoot/Leetcode-GFG/tree/master/2958-length-of-longest-subarray-with-at-most-k-frequency) |
@@ -714,6 +716,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [2711-minimum-time-to-visit-a-cell-in-a-grid](https://github.com/Shubham-Singh-Rajpoot/Leetcode-GFG/tree/master/2711-minimum-time-to-visit-a-cell-in-a-grid) |
 | [2716-prime-subtraction-operation](https://github.com/Shubham-Singh-Rajpoot/Leetcode-GFG/tree/master/2716-prime-subtraction-operation) |
 | [2727-number-of-senior-citizens](https://github.com/Shubham-Singh-Rajpoot/Leetcode-GFG/tree/master/2727-number-of-senior-citizens) |
+| [2747-count-zero-request-servers](https://github.com/Shubham-Singh-Rajpoot/Leetcode-GFG/tree/master/2747-count-zero-request-servers) |
 | [2766-find-the-prefix-common-array-of-two-arrays](https://github.com/Shubham-Singh-Rajpoot/Leetcode-GFG/tree/master/2766-find-the-prefix-common-array-of-two-arrays) |
 | [2792-neighboring-bitwise-xor](https://github.com/Shubham-Singh-Rajpoot/Leetcode-GFG/tree/master/2792-neighboring-bitwise-xor) |
 | [2846-robot-collisions](https://github.com/Shubham-Singh-Rajpoot/Leetcode-GFG/tree/master/2846-robot-collisions) |
@@ -1098,6 +1101,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [2552-maximum-sum-of-distinct-subarrays-with-length-k](https://github.com/Shubham-Singh-Rajpoot/Leetcode-GFG/tree/master/2552-maximum-sum-of-distinct-subarrays-with-length-k) |
 | [2599-take-k-of-each-character-from-left-and-right](https://github.com/Shubham-Singh-Rajpoot/Leetcode-GFG/tree/master/2599-take-k-of-each-character-from-left-and-right) |
 | [2626-count-the-number-of-good-subarrays](https://github.com/Shubham-Singh-Rajpoot/Leetcode-GFG/tree/master/2626-count-the-number-of-good-subarrays) |
+| [2747-count-zero-request-servers](https://github.com/Shubham-Singh-Rajpoot/Leetcode-GFG/tree/master/2747-count-zero-request-servers) |
 | [2868-continuous-subarrays](https://github.com/Shubham-Singh-Rajpoot/Leetcode-GFG/tree/master/2868-continuous-subarrays) |
 | [2891-maximum-beauty-of-an-array-after-applying-operation](https://github.com/Shubham-Singh-Rajpoot/Leetcode-GFG/tree/master/2891-maximum-beauty-of-an-array-after-applying-operation) |
 | [2904-shortest-and-lexicographically-smallest-beautiful-string](https://github.com/Shubham-Singh-Rajpoot/Leetcode-GFG/tree/master/2904-shortest-and-lexicographically-smallest-beautiful-string) |
