@@ -542,6 +542,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [2211-count-collisions-on-a-road](https://github.com/Shubham-Singh-Rajpoot/Leetcode-GFG/tree/master/2211-count-collisions-on-a-road) |
 | [2217-step-by-step-directions-from-a-binary-tree-node-to-another](https://github.com/Shubham-Singh-Rajpoot/Leetcode-GFG/tree/master/2217-step-by-step-directions-from-a-binary-tree-node-to-another) |
 | [2232-adding-spaces-to-a-string](https://github.com/Shubham-Singh-Rajpoot/Leetcode-GFG/tree/master/2232-adding-spaces-to-a-string) |
+| [2243-calculate-digit-sum-of-a-string](https://github.com/Shubham-Singh-Rajpoot/Leetcode-GFG/tree/master/2243-calculate-digit-sum-of-a-string) |
 | [2244-number-of-laser-beams-in-a-bank](https://github.com/Shubham-Singh-Rajpoot/Leetcode-GFG/tree/master/2244-number-of-laser-beams-in-a-bank) |
 | [2292-counting-words-with-a-given-prefix](https://github.com/Shubham-Singh-Rajpoot/Leetcode-GFG/tree/master/2292-counting-words-with-a-given-prefix) |
 | [2409-count-days-spent-together](https://github.com/Shubham-Singh-Rajpoot/Leetcode-GFG/tree/master/2409-count-days-spent-together) |
@@ -850,6 +851,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [2155-find-missing-observations](https://github.com/Shubham-Singh-Rajpoot/Leetcode-GFG/tree/master/2155-find-missing-observations) |
 | [2211-count-collisions-on-a-road](https://github.com/Shubham-Singh-Rajpoot/Leetcode-GFG/tree/master/2211-count-collisions-on-a-road) |
 | [2232-adding-spaces-to-a-string](https://github.com/Shubham-Singh-Rajpoot/Leetcode-GFG/tree/master/2232-adding-spaces-to-a-string) |
+| [2243-calculate-digit-sum-of-a-string](https://github.com/Shubham-Singh-Rajpoot/Leetcode-GFG/tree/master/2243-calculate-digit-sum-of-a-string) |
 | [2265-partition-array-according-to-given-pivot](https://github.com/Shubham-Singh-Rajpoot/Leetcode-GFG/tree/master/2265-partition-array-according-to-given-pivot) |
 | [2274-keep-multiplying-found-values-by-two](https://github.com/Shubham-Singh-Rajpoot/Leetcode-GFG/tree/master/2274-keep-multiplying-found-values-by-two) |
 | [2299-merge-nodes-in-between-zeros](https://github.com/Shubham-Singh-Rajpoot/Leetcode-GFG/tree/master/2299-merge-nodes-in-between-zeros) |
