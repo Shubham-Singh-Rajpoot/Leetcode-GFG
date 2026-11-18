@@ -559,6 +559,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [2800-minimum-string-length-after-removing-substrings](https://github.com/Shubham-Singh-Rajpoot/Leetcode-GFG/tree/master/2800-minimum-string-length-after-removing-substrings) |
 | [2887-sort-vowels-in-a-string](https://github.com/Shubham-Singh-Rajpoot/Leetcode-GFG/tree/master/2887-sort-vowels-in-a-string) |
 | [2904-shortest-and-lexicographically-smallest-beautiful-string](https://github.com/Shubham-Singh-Rajpoot/Leetcode-GFG/tree/master/2904-shortest-and-lexicographically-smallest-beautiful-string) |
+| [2914-minimum-number-of-changes-to-make-binary-string-beautiful](https://github.com/Shubham-Singh-Rajpoot/Leetcode-GFG/tree/master/2914-minimum-number-of-changes-to-make-binary-string-beautiful) |
 | [3018-make-string-a-subsequence-using-cyclic-increments](https://github.com/Shubham-Singh-Rajpoot/Leetcode-GFG/tree/master/3018-make-string-a-subsequence-using-cyclic-increments) |
 | [3195-separate-black-and-white-balls](https://github.com/Shubham-Singh-Rajpoot/Leetcode-GFG/tree/master/3195-separate-black-and-white-balls) |
 | [3243-count-the-number-of-powerful-integers](https://github.com/Shubham-Singh-Rajpoot/Leetcode-GFG/tree/master/3243-count-the-number-of-powerful-integers) |
