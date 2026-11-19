@@ -187,6 +187,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [2472-maximum-number-of-non-overlapping-palindrome-substrings](https://github.com/Shubham-Singh-Rajpoot/Leetcode-GFG/tree/master/2472-maximum-number-of-non-overlapping-palindrome-substrings) |
 | [2488-divide-intervals-into-minimum-number-of-groups](https://github.com/Shubham-Singh-Rajpoot/Leetcode-GFG/tree/master/2488-divide-intervals-into-minimum-number-of-groups) |
 | [2509-minimize-xor](https://github.com/Shubham-Singh-Rajpoot/Leetcode-GFG/tree/master/2509-minimize-xor) |
+| [2567-minimum-score-by-changing-two-elements](https://github.com/Shubham-Singh-Rajpoot/Leetcode-GFG/tree/master/2567-minimum-score-by-changing-two-elements) |
 | [2616-maximal-score-after-applying-k-operations](https://github.com/Shubham-Singh-Rajpoot/Leetcode-GFG/tree/master/2616-maximal-score-after-applying-k-operations) |
 | [2640-maximum-number-of-integers-to-choose-from-a-range-i](https://github.com/Shubham-Singh-Rajpoot/Leetcode-GFG/tree/master/2640-maximum-number-of-integers-to-choose-from-a-range-i) |
 | [2716-prime-subtraction-operation](https://github.com/Shubham-Singh-Rajpoot/Leetcode-GFG/tree/master/2716-prime-subtraction-operation) |
@@ -241,6 +242,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [2473-max-sum-of-a-pair-with-equal-sum-of-digits](https://github.com/Shubham-Singh-Rajpoot/Leetcode-GFG/tree/master/2473-max-sum-of-a-pair-with-equal-sum-of-digits) |
 | [2488-divide-intervals-into-minimum-number-of-groups](https://github.com/Shubham-Singh-Rajpoot/Leetcode-GFG/tree/master/2488-divide-intervals-into-minimum-number-of-groups) |
 | [2502-sort-the-people](https://github.com/Shubham-Singh-Rajpoot/Leetcode-GFG/tree/master/2502-sort-the-people) |
+| [2567-minimum-score-by-changing-two-elements](https://github.com/Shubham-Singh-Rajpoot/Leetcode-GFG/tree/master/2567-minimum-score-by-changing-two-elements) |
 | [2581-divide-players-into-teams-of-equal-skill](https://github.com/Shubham-Singh-Rajpoot/Leetcode-GFG/tree/master/2581-divide-players-into-teams-of-equal-skill) |
 | [2586-longest-square-streak-in-an-array](https://github.com/Shubham-Singh-Rajpoot/Leetcode-GFG/tree/master/2586-longest-square-streak-in-an-array) |
 | [2640-maximum-number-of-integers-to-choose-from-a-range-i](https://github.com/Shubham-Singh-Rajpoot/Leetcode-GFG/tree/master/2640-maximum-number-of-integers-to-choose-from-a-range-i) |
@@ -705,6 +707,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [2527-count-subarrays-with-fixed-bounds](https://github.com/Shubham-Singh-Rajpoot/Leetcode-GFG/tree/master/2527-count-subarrays-with-fixed-bounds) |
 | [2533-bitwise-xor-of-all-pairings](https://github.com/Shubham-Singh-Rajpoot/Leetcode-GFG/tree/master/2533-bitwise-xor-of-all-pairings) |
 | [2552-maximum-sum-of-distinct-subarrays-with-length-k](https://github.com/Shubham-Singh-Rajpoot/Leetcode-GFG/tree/master/2552-maximum-sum-of-distinct-subarrays-with-length-k) |
+| [2567-minimum-score-by-changing-two-elements](https://github.com/Shubham-Singh-Rajpoot/Leetcode-GFG/tree/master/2567-minimum-score-by-changing-two-elements) |
 | [2581-divide-players-into-teams-of-equal-skill](https://github.com/Shubham-Singh-Rajpoot/Leetcode-GFG/tree/master/2581-divide-players-into-teams-of-equal-skill) |
 | [2586-longest-square-streak-in-an-array](https://github.com/Shubham-Singh-Rajpoot/Leetcode-GFG/tree/master/2586-longest-square-streak-in-an-array) |
 | [2614-maximum-count-of-positive-integer-and-negative-integer](https://github.com/Shubham-Singh-Rajpoot/Leetcode-GFG/tree/master/2614-maximum-count-of-positive-integer-and-negative-integer) |
