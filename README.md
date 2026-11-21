@@ -309,6 +309,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [2217-step-by-step-directions-from-a-binary-tree-node-to-another](https://github.com/Shubham-Singh-Rajpoot/Leetcode-GFG/tree/master/2217-step-by-step-directions-from-a-binary-tree-node-to-another) |
 | [2493-reverse-odd-levels-of-binary-tree](https://github.com/Shubham-Singh-Rajpoot/Leetcode-GFG/tree/master/2493-reverse-odd-levels-of-binary-tree) |
 | [2677-cousins-in-binary-tree-ii](https://github.com/Shubham-Singh-Rajpoot/Leetcode-GFG/tree/master/2677-cousins-in-binary-tree-ii) |
+| [3331-find-subtree-sizes-after-changes](https://github.com/Shubham-Singh-Rajpoot/Leetcode-GFG/tree/master/3331-find-subtree-sizes-after-changes) |
 | [3439-find-minimum-diameter-after-merging-two-trees](https://github.com/Shubham-Singh-Rajpoot/Leetcode-GFG/tree/master/3439-find-minimum-diameter-after-merging-two-trees) |
 ## Breadth-First Search
 |  |
@@ -413,6 +414,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [3267-find-longest-special-substring-that-occurs-thrice-i](https://github.com/Shubham-Singh-Rajpoot/Leetcode-GFG/tree/master/3267-find-longest-special-substring-that-occurs-thrice-i) |
 | [3276-minimum-number-of-pushes-to-type-word-ii](https://github.com/Shubham-Singh-Rajpoot/Leetcode-GFG/tree/master/3276-minimum-number-of-pushes-to-type-word-ii) |
 | [3329-find-the-length-of-the-longest-common-prefix](https://github.com/Shubham-Singh-Rajpoot/Leetcode-GFG/tree/master/3329-find-the-length-of-the-longest-common-prefix) |
+| [3331-find-subtree-sizes-after-changes](https://github.com/Shubham-Singh-Rajpoot/Leetcode-GFG/tree/master/3331-find-subtree-sizes-after-changes) |
 | [3434-find-the-number-of-distinct-colors-among-the-balls](https://github.com/Shubham-Singh-Rajpoot/Leetcode-GFG/tree/master/3434-find-the-number-of-distinct-colors-among-the-balls) |
 | [3455-minimum-length-of-string-after-operations](https://github.com/Shubham-Singh-Rajpoot/Leetcode-GFG/tree/master/3455-minimum-length-of-string-after-operations) |
 | [3483-unique-3-digit-even-numbers](https://github.com/Shubham-Singh-Rajpoot/Leetcode-GFG/tree/master/3483-unique-3-digit-even-numbers) |
@@ -569,6 +571,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [3276-minimum-number-of-pushes-to-type-word-ii](https://github.com/Shubham-Singh-Rajpoot/Leetcode-GFG/tree/master/3276-minimum-number-of-pushes-to-type-word-ii) |
 | [3309-count-prefix-and-suffix-pairs-i](https://github.com/Shubham-Singh-Rajpoot/Leetcode-GFG/tree/master/3309-count-prefix-and-suffix-pairs-i) |
 | [3329-find-the-length-of-the-longest-common-prefix](https://github.com/Shubham-Singh-Rajpoot/Leetcode-GFG/tree/master/3329-find-the-length-of-the-longest-common-prefix) |
+| [3331-find-subtree-sizes-after-changes](https://github.com/Shubham-Singh-Rajpoot/Leetcode-GFG/tree/master/3331-find-subtree-sizes-after-changes) |
 | [3447-clear-digits](https://github.com/Shubham-Singh-Rajpoot/Leetcode-GFG/tree/master/3447-clear-digits) |
 | [3451-string-compression-iii](https://github.com/Shubham-Singh-Rajpoot/Leetcode-GFG/tree/master/3451-string-compression-iii) |
 | [3455-minimum-length-of-string-after-operations](https://github.com/Shubham-Singh-Rajpoot/Leetcode-GFG/tree/master/3455-minimum-length-of-string-after-operations) |
@@ -743,6 +746,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [3219-make-lexicographically-smallest-array-by-swapping-elements](https://github.com/Shubham-Singh-Rajpoot/Leetcode-GFG/tree/master/3219-make-lexicographically-smallest-array-by-swapping-elements) |
 | [3309-count-prefix-and-suffix-pairs-i](https://github.com/Shubham-Singh-Rajpoot/Leetcode-GFG/tree/master/3309-count-prefix-and-suffix-pairs-i) |
 | [3329-find-the-length-of-the-longest-common-prefix](https://github.com/Shubham-Singh-Rajpoot/Leetcode-GFG/tree/master/3329-find-the-length-of-the-longest-common-prefix) |
+| [3331-find-subtree-sizes-after-changes](https://github.com/Shubham-Singh-Rajpoot/Leetcode-GFG/tree/master/3331-find-subtree-sizes-after-changes) |
 | [3332-minimum-operations-to-exceed-threshold-value-ii](https://github.com/Shubham-Singh-Rajpoot/Leetcode-GFG/tree/master/3332-minimum-operations-to-exceed-threshold-value-ii) |
 | [3372-longest-strictly-increasing-or-strictly-decreasing-subarray](https://github.com/Shubham-Singh-Rajpoot/Leetcode-GFG/tree/master/3372-longest-strictly-increasing-or-strictly-decreasing-subarray) |
 | [3427-special-array-ii](https://github.com/Shubham-Singh-Rajpoot/Leetcode-GFG/tree/master/3427-special-array-ii) |
@@ -990,6 +994,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [2558-minimum-number-of-operations-to-sort-a-binary-tree-by-level](https://github.com/Shubham-Singh-Rajpoot/Leetcode-GFG/tree/master/2558-minimum-number-of-operations-to-sort-a-binary-tree-by-level) |
 | [2646-kth-largest-sum-in-a-binary-tree](https://github.com/Shubham-Singh-Rajpoot/Leetcode-GFG/tree/master/2646-kth-largest-sum-in-a-binary-tree) |
 | [2677-cousins-in-binary-tree-ii](https://github.com/Shubham-Singh-Rajpoot/Leetcode-GFG/tree/master/2677-cousins-in-binary-tree-ii) |
+| [3331-find-subtree-sizes-after-changes](https://github.com/Shubham-Singh-Rajpoot/Leetcode-GFG/tree/master/3331-find-subtree-sizes-after-changes) |
 | [3439-find-minimum-diameter-after-merging-two-trees](https://github.com/Shubham-Singh-Rajpoot/Leetcode-GFG/tree/master/3439-find-minimum-diameter-after-merging-two-trees) |
 ## Binary Tree
 |  |
